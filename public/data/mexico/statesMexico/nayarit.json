@@ -1,0 +1,102 @@
+[
+  {
+    "municipality": "Acaponeta",
+    "latitude": 22.479670032258053,
+    "longitude": -105.33092228494627
+  },
+  {
+    "municipality": "Ahuacatlán",
+    "latitude": 21.044008236111107,
+    "longitude": -104.54012943055552
+  },
+  {
+    "municipality": "Amatlán de Cañas",
+    "latitude": 20.841189941176463,
+    "longitude": -104.4230608382353
+  },
+  {
+    "municipality": "Bahía de Banderas",
+    "latitude": 20.802716146572106,
+    "longitude": -105.30773435460992
+  },
+  {
+    "municipality": "Compostela",
+    "latitude": 21.142654379032255,
+    "longitude": -105.09758961827937
+  },
+  {
+    "municipality": "Del Nayar",
+    "latitude": 22.116389695867777,
+    "longitude": -104.65232769752082
+  },
+  {
+    "municipality": "Huajicori",
+    "latitude": 22.765801323008844,
+    "longitude": -105.22548308407077
+  },
+  {
+    "municipality": "Ixtlán del Río",
+    "latitude": 21.043540978947366,
+    "longitude": -104.32218151578947
+  },
+  {
+    "municipality": "Jala",
+    "latitude": 21.17799724675325,
+    "longitude": -104.39693814285714
+  },
+  {
+    "municipality": "La Yesca",
+    "latitude": 21.554029268831187,
+    "longitude": -104.13230172597396
+  },
+  {
+    "municipality": "Rosamorada",
+    "latitude": 22.07799736190476,
+    "longitude": -105.20245953333337
+  },
+  {
+    "municipality": "Ruíz",
+    "latitude": 21.989134826530613,
+    "longitude": -104.9629763367347
+  },
+  {
+    "municipality": "San Blas",
+    "latitude": 21.57676831884058,
+    "longitude": -105.32578607246374
+  },
+  {
+    "municipality": "San Pedro Lagunillas",
+    "latitude": 21.19566073913043,
+    "longitude": -104.74051654347825
+  },
+  {
+    "municipality": "Santa María del Oro",
+    "latitude": 21.35448639880952,
+    "longitude": -104.59132594047621
+  },
+  {
+    "municipality": "Santiago Ixcuintla",
+    "latitude": 21.808414218487407,
+    "longitude": -105.24374481092435
+  },
+  {
+    "municipality": "Tecuala",
+    "latitude": 22.370795122580645,
+    "longitude": -105.50946476129032
+  },
+  {
+    "municipality": "Tepic",
+    "latitude": 21.55671564495114,
+    "longitude": -104.873076257329
+  },
+  {
+    "municipality": "Tuxpan",
+    "latitude": 21.947318921568638,
+    "longitude": -105.29391074509805
+  },
+  {
+    "municipality": "Xalisco",
+    "latitude": 21.395667076923072,
+    "longitude": -104.91954407692309
+  }
+]

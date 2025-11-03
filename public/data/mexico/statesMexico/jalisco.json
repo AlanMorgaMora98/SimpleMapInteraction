@@ -1,0 +1,627 @@
+[
+  {
+    "municipality": "Acatic",
+    "latitude": 20.76488272413793,
+    "longitude": -102.91432003448277
+  },
+  {
+    "municipality": "Acatlán de Juárez",
+    "latitude": 20.42512755555556,
+    "longitude": -103.60262055555557
+  },
+  {
+    "municipality": "Ahualulco de Mercado",
+    "latitude": 20.699156492537323,
+    "longitude": -103.95519513432835
+  },
+  {
+    "municipality": "Amacueca",
+    "latitude": 19.988745532258058,
+    "longitude": -103.61315464516126
+  },
+  {
+    "municipality": "Amatitán",
+    "latitude": 20.857968133333337,
+    "longitude": -103.72406556666668
+  },
+  {
+    "municipality": "Ameca",
+    "latitude": 20.53585984615386,
+    "longitude": -104.05095311242604
+  },
+  {
+    "municipality": "Arandas",
+    "latitude": 20.76196116871165,
+    "longitude": -102.30638171165648
+  },
+  {
+    "municipality": "Atengo",
+    "latitude": 20.294780483870955,
+    "longitude": -104.25955933870968
+  },
+  {
+    "municipality": "Atenguillo",
+    "latitude": 20.370505796610175,
+    "longitude": -104.5125469915254
+  },
+  {
+    "municipality": "Atemajac de Brizuela",
+    "latitude": 20.142830675000003,
+    "longitude": -103.71180849999996
+  },
+  {
+    "municipality": "Atotonilco el Alto",
+    "latitude": 20.549133580808082,
+    "longitude": -102.53680495454546
+  },
+  {
+    "municipality": "Atoyac",
+    "latitude": 19.984486661016945,
+    "longitude": -103.46914679661016
+  },
+  {
+    "municipality": "Autlán de Navarro",
+    "latitude": 19.75489172363637,
+    "longitude": -104.3049914727273
+  },
+  {
+    "municipality": "Ayotlán",
+    "latitude": 20.495496822222226,
+    "longitude": -102.35221350370371
+  },
+  {
+    "municipality": "Ayutla",
+    "latitude": 20.063524603773597,
+    "longitude": -104.4015854654088
+  },
+  {
+    "municipality": "Bolaños",
+    "latitude": 21.860328848605583,
+    "longitude": -103.93491245418319
+  },
+  {
+    "municipality": "Cabo Corrientes",
+    "latitude": 20.34275410762332,
+    "longitude": -105.39701434080715
+  },
+  {
+    "municipality": "Cañadas de Obregón",
+    "latitude": 21.150664773584918,
+    "longitude": -102.69890661320755
+  },
+  {
+    "municipality": "Casimiro Castillo",
+    "latitude": 19.595548889655177,
+    "longitude": -104.47871160689655
+  },
+  {
+    "municipality": "Chapala",
+    "latitude": 20.33031020547945,
+    "longitude": -103.1629072328767
+  },
+  {
+    "municipality": "Chimaltitán",
+    "latitude": 21.748542275,
+    "longitude": -103.69733116875
+  },
+  {
+    "municipality": "Chiquilistlán",
+    "latitude": 20.08560725,
+    "longitude": -103.89416006818182
+  },
+  {
+    "municipality": "Cihuatlán",
+    "latitude": 19.238873252336454,
+    "longitude": -104.6468521121495
+  },
+  {
+    "municipality": "Cocula",
+    "latitude": 20.3860218548387,
+    "longitude": -103.82637241935484
+  },
+  {
+    "municipality": "Colotlán",
+    "latitude": 22.083717067669163,
+    "longitude": -103.285791037594
+  },
+  {
+    "municipality": "Concepción de Buenos Aires",
+    "latitude": 19.99231111764706,
+    "longitude": -103.22131384313727
+  },
+  {
+    "municipality": "Cuautitlán de García Barragán",
+    "latitude": 19.431324294416243,
+    "longitude": -104.29408707614212
+  },
+  {
+    "municipality": "Cuautla",
+    "latitude": 20.205477396825398,
+    "longitude": -104.4710266031746
+  },
+  {
+    "municipality": "Cuquío",
+    "latitude": 20.96362362200957,
+    "longitude": -103.03726052631582
+  },
+  {
+    "municipality": "Degollado",
+    "latitude": 20.45396539344263,
+    "longitude": -102.14906092622954
+  },
+  {
+    "municipality": "Ejutla",
+    "latitude": 19.916492872727275,
+    "longitude": -104.08386436363637
+  },
+  {
+    "municipality": "El Arenal",
+    "latitude": 20.754563873239444,
+    "longitude": -103.65995354929576
+  },
+  {
+    "municipality": "El Grullo",
+    "latitude": 19.794180738805967,
+    "longitude": -104.20207112686566
+  },
+  {
+    "municipality": "El Limón",
+    "latitude": 19.82973059090909,
+    "longitude": -104.11001229545454
+  },
+  {
+    "municipality": "El Salto",
+    "latitude": 20.534008999999998,
+    "longitude": -103.2201257777778
+  },
+  {
+    "municipality": "Encarnación de Díaz",
+    "latitude": 21.5766459751693,
+    "longitude": -102.18022583972916
+  },
+  {
+    "municipality": "Epazoyucan",
+    "latitude": 20.02759328947369,
+    "longitude": -98.63839002631579
+  },
+  {
+    "municipality": "Etzatlán",
+    "latitude": 20.766545531914897,
+    "longitude": -104.10938281914898
+  },
+  {
+    "municipality": "Gómez Farías",
+    "latitude": 19.832014725490197,
+    "longitude": -103.4431510588235
+  },
+  {
+    "municipality": "Guadalajara",
+    "latitude": 20.71120625,
+    "longitude": -103.29761275000001
+  },
+  {
+    "municipality": "Guachinango",
+    "latitude": 20.66637207142855,
+    "longitude": -104.41192737244899
+  },
+  {
+    "municipality": "Hostotipaquillo",
+    "latitude": 21.059353322580648,
+    "longitude": -104.09219865591403
+  },
+  {
+    "municipality": "Huejúcar",
+    "latitude": 22.332984315789474,
+    "longitude": -103.25307275789476
+  },
+  {
+    "municipality": "Huejuquilla el Alto",
+    "latitude": 22.581466459459463,
+    "longitude": -103.90311532432438
+  },
+  {
+    "municipality": "Ixtlahuacán de los Membrillos",
+    "latitude": 20.403867459854,
+    "longitude": -103.20625297080284
+  },
+  {
+    "municipality": "Ixtlahuacán del Río",
+    "latitude": 20.879874623574135,
+    "longitude": -103.21425531558931
+  },
+  {
+    "municipality": "Jalostotitlán",
+    "latitude": 21.18722976255707,
+    "longitude": -102.4818734383562
+  },
+  {
+    "municipality": "Jamay",
+    "latitude": 20.27614733333333,
+    "longitude": -102.6724522745098
+  },
+  {
+    "municipality": "Jesús María",
+    "latitude": 20.62534614778324,
+    "longitude": -102.13382943842365
+  },
+  {
+    "municipality": "Jilotlán de los Dolores",
+    "latitude": 19.329195060070667,
+    "longitude": -102.91538821201414
+  },
+  {
+    "municipality": "Jocotepec",
+    "latitude": 20.292280837500005,
+    "longitude": -103.4157014875
+  },
+  {
+    "municipality": "Juanacatlán",
+    "latitude": 20.49906827906977,
+    "longitude": -103.14962655813953
+  },
+  {
+    "municipality": "Juchitlán",
+    "latitude": 20.056055983050847,
+    "longitude": -104.03539337288133
+  },
+  {
+    "municipality": "La Barca",
+    "latitude": 20.353749187499997,
+    "longitude": -102.52451005769224
+  },
+  {
+    "municipality": "La Huerta",
+    "latitude": 19.50202495185185,
+    "longitude": -104.8570849666667
+  },
+  {
+    "municipality": "La Manzanilla de la Paz",
+    "latitude": 20.020369612903224,
+    "longitude": -103.1158091935484
+  },
+  {
+    "municipality": "Lagos de Moreno",
+    "latitude": 21.45124342156863,
+    "longitude": -101.90774095294115
+  },
+  {
+    "municipality": "Magdalena",
+    "latitude": 20.916517055555556,
+    "longitude": -104.01052344444443
+  },
+  {
+    "municipality": "Mascota",
+    "latitude": 20.54958005976097,
+    "longitude": -104.81667852191241
+  },
+  {
+    "municipality": "Mazamitla",
+    "latitude": 19.88620366250001,
+    "longitude": -103.05147553750001
+  },
+  {
+    "municipality": "Mexticacán",
+    "latitude": 21.266395220472432,
+    "longitude": -102.75563371653541
+  },
+  {
+    "municipality": "Mezquitic",
+    "latitude": 22.207866917787737,
+    "longitude": -104.04086476233178
+  },
+  {
+    "municipality": "Mixtlán",
+    "latitude": 20.48405287058824,
+    "longitude": -104.44559240000002
+  },
+  {
+    "municipality": "Ocotlán",
+    "latitude": 20.3895401627907,
+    "longitude": -102.73972433720925
+  },
+  {
+    "municipality": "Ojuelos de Jalisco",
+    "latitude": 21.817480267857146,
+    "longitude": -101.68485852678573
+  },
+  {
+    "municipality": "Pihuamo",
+    "latitude": 19.19005924800001,
+    "longitude": -103.37885639599999
+  },
+  {
+    "municipality": "Poncitlán",
+    "latitude": 20.357711937007874,
+    "longitude": -102.92785637795272
+  },
+  {
+    "municipality": "Puerto Vallarta",
+    "latitude": 20.696358375722536,
+    "longitude": -105.1907821965318
+  },
+  {
+    "municipality": "Quitupan",
+    "latitude": 19.79374236942675,
+    "longitude": -102.8813898980892
+  },
+  {
+    "municipality": "San Cristóbal de la Barranca",
+    "latitude": 21.05560185795454,
+    "longitude": -103.46008891477271
+  },
+  {
+    "municipality": "San Diego de Alejandría",
+    "latitude": 20.971180728070177,
+    "longitude": -102.03542561403512
+  },
+  {
+    "municipality": "San Gabriel",
+    "latitude": 19.712180038709683,
+    "longitude": -103.75094327741935
+  },
+  {
+    "municipality": "San Ignacio Cerro Gordo",
+    "latitude": 20.760780022727285,
+    "longitude": -102.5107462159091
+  },
+  {
+    "municipality": "San Juan de los Lagos",
+    "latitude": 21.27096740145985,
+    "longitude": -102.29732898540149
+  },
+  {
+    "municipality": "San Juanito de Escobedo",
+    "latitude": 20.801764849999998,
+    "longitude": -104.02260775000002
+  },
+  {
+    "municipality": "San Julián",
+    "latitude": 20.99025229487179,
+    "longitude": -102.16287083333336
+  },
+  {
+    "municipality": "San Marcos",
+    "latitude": 20.80310823170732,
+    "longitude": -104.23475353658539
+  },
+  {
+    "municipality": "San Martín de Bolaños",
+    "latitude": 21.60674371910112,
+    "longitude": -103.80491471910112
+  },
+  {
+    "municipality": "San Martín Hidalgo",
+    "latitude": 20.436059999999994,
+    "longitude": -103.91631518918919
+  },
+  {
+    "municipality": "San Miguel el Alto",
+    "latitude": 20.990574407079645,
+    "longitude": -102.36669988495572
+  },
+  {
+    "municipality": "San Pedro Tlaquepaque",
+    "latitude": 20.578789058823535,
+    "longitude": -103.35120208823528
+  },
+  {
+    "municipality": "San Sebastián del Oeste",
+    "latitude": 20.851720146496792,
+    "longitude": -104.81970024203817
+  },
+  {
+    "municipality": "Santa María de los Ángeles",
+    "latitude": 22.193547311111104,
+    "longitude": -103.18816455555555
+  },
+  {
+    "municipality": "Santa María del Oro",
+    "latitude": 19.540033437908484,
+    "longitude": -102.8465045751634
+  },
+  {
+    "municipality": "Sayula",
+    "latitude": 19.87755842592592,
+    "longitude": -103.57319021296297
+  },
+  {
+    "municipality": "Tala",
+    "latitude": 20.59319271808511,
+    "longitude": -103.68178536170213
+  },
+  {
+    "municipality": "Talpa de Allende",
+    "latitude": 20.284111794776102,
+    "longitude": -104.91349214925381
+  },
+  {
+    "municipality": "Tamazula de Gordiano",
+    "latitude": 19.66058777850165,
+    "longitude": -103.17025557003258
+  },
+  {
+    "municipality": "Tapalpa",
+    "latitude": 19.95060997267759,
+    "longitude": -103.73748509836066
+  },
+  {
+    "municipality": "Tecalitlán",
+    "latitude": 19.273694814332234,
+    "longitude": -103.21293004234525
+  },
+  {
+    "municipality": "Techaluta de Montenegro",
+    "latitude": 20.091613433333336,
+    "longitude": -103.56565173333335
+  },
+  {
+    "municipality": "Tecolotlán",
+    "latitude": 20.217447341269832,
+    "longitude": -104.01851076984128
+  },
+  {
+    "municipality": "Tenamaxtlán",
+    "latitude": 20.16184235714286,
+    "longitude": -104.17040309999999
+  },
+  {
+    "municipality": "Teocaltiche",
+    "latitude": 21.472819670370367,
+    "longitude": -102.5435985222223
+  },
+  {
+    "municipality": "Teocuitatlán de Corona",
+    "latitude": 20.101126790697666,
+    "longitude": -103.34997306976744
+  },
+  {
+    "municipality": "Tepatitlán de Morelos",
+    "latitude": 20.83509979606881,
+    "longitude": -102.72029247911547
+  },
+  {
+    "municipality": "Tequila",
+    "latitude": 21.077297067073165,
+    "longitude": -103.76803740243896
+  },
+  {
+    "municipality": "Teuchitlán",
+    "latitude": 20.673992351851847,
+    "longitude": -103.83533775925929
+  },
+  {
+    "municipality": "Tizapán el Alto",
+    "latitude": 20.125481439024394,
+    "longitude": -103.07627509756098
+  },
+  {
+    "municipality": "Tlajomulco de Zúñiga",
+    "latitude": 20.488590887850464,
+    "longitude": -103.41824767289715
+  },
+  {
+    "municipality": "Tolimán",
+    "latitude": 19.57432833766233,
+    "longitude": -103.90723414285713
+  },
+  {
+    "municipality": "Tomatlán",
+    "latitude": 19.982085170520232,
+    "longitude": -105.2026912774566
+  },
+  {
+    "municipality": "Tonalá",
+    "latitude": 20.612462589041087,
+    "longitude": -103.20090269863014
+  },
+  {
+    "municipality": "Tonaya",
+    "latitude": 19.824352129629627,
+    "longitude": -103.96670477777776
+  },
+  {
+    "municipality": "Tonila",
+    "latitude": 19.42815975,
+    "longitude": -103.53159805769229
+  },
+  {
+    "municipality": "Totatiche",
+    "latitude": 21.94122200787401,
+    "longitude": -103.47599015748035
+  },
+  {
+    "municipality": "Tototlán",
+    "latitude": 20.54081135882353,
+    "longitude": -102.7395705058824
+  },
+  {
+    "municipality": "Tuxcueca",
+    "latitude": 20.154385022727272,
+    "longitude": -103.22998175000004
+  },
+  {
+    "municipality": "Tuxpan",
+    "latitude": 19.487972160221,
+    "longitude": -103.42831558011046
+  },
+  {
+    "municipality": "Unión de San Antonio",
+    "latitude": 21.160551013888885,
+    "longitude": -101.99397417592583
+  },
+  {
+    "municipality": "Unión de Tula",
+    "latitude": 19.968677211382122,
+    "longitude": -104.26750239024382
+  },
+  {
+    "municipality": "Valle de Guadalupe",
+    "latitude": 21.050802927927922,
+    "longitude": -102.63932213513516
+  },
+  {
+    "municipality": "Valle de Juárez",
+    "latitude": 19.84061184745763,
+    "longitude": -102.97302062711864
+  },
+  {
+    "municipality": "Villa Corona",
+    "latitude": 20.397079260869564,
+    "longitude": -103.69045484782609
+  },
+  {
+    "municipality": "Villa Guerrero",
+    "latitude": 22.011328302325584,
+    "longitude": -103.6622562616279
+  },
+  {
+    "municipality": "Villa Hidalgo",
+    "latitude": 21.66638645652174,
+    "longitude": -102.57495267391309
+  },
+  {
+    "municipality": "Villa Purificación",
+    "latitude": 19.784639331168826,
+    "longitude": -104.71128511038967
+  },
+  {
+    "municipality": "Yahualica de González Gallo",
+    "latitude": 21.13880002892562,
+    "longitude": -102.92033295041324
+  },
+  {
+    "municipality": "Zacoalco de Torres",
+    "latitude": 20.23307096363637,
+    "longitude": -103.5744709636364
+  },
+  {
+    "municipality": "Zapopan",
+    "latitude": 20.79423726946107,
+    "longitude": -103.49689514071848
+  },
+  {
+    "municipality": "Zapotiltic",
+    "latitude": 19.617930161764704,
+    "longitude": -103.35198151470588
+  },
+  {
+    "municipality": "Zapotlán del Rey",
+    "latitude": 20.455270538461537,
+    "longitude": -102.91731676923078
+  },
+  {
+    "municipality": "Zapotlán el Grande",
+    "latitude": 19.704072951871662,
+    "longitude": -103.49440970053475
+  },
+  {
+    "municipality": "Zapotitlán de Vadillo",
+    "latitude": 19.513663434782618,
+    "longitude": -103.78893236956522
+  },
+  {
+    "municipality": "Zapotlanejo",
+    "latitude": 20.62331435021098,
+    "longitude": -103.04527129535869
+  }
+]

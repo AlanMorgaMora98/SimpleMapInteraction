@@ -1,0 +1,617 @@
+[
+  {
+    "municipality": "Acala",
+    "latitude": 16.518831046153846,
+    "longitude": -92.81935071538459
+  },
+  {
+    "municipality": "Acacoyagua",
+    "latitude": 15.38803774637681,
+    "longitude": -92.69938805797099
+  },
+  {
+    "municipality": "Acapetahua",
+    "latitude": 15.265048713615025,
+    "longitude": -92.75549820187791
+  },
+  {
+    "municipality": "Aldama",
+    "latitude": 16.92091580952381,
+    "longitude": -92.69118652380952
+  },
+  {
+    "municipality": "Altamirano",
+    "latitude": 16.65360764285714,
+    "longitude": -91.85502077380953
+  },
+  {
+    "municipality": "Amatán",
+    "latitude": 17.386066782945743,
+    "longitude": -92.84937006201548
+  },
+  {
+    "municipality": "Amatenango de la Frontera",
+    "latitude": 15.556977504347822,
+    "longitude": -92.09513821739128
+  },
+  {
+    "municipality": "Amatenango del Valle",
+    "latitude": 16.507879034482762,
+    "longitude": -92.36224260344825
+  },
+  {
+    "municipality": "Angel Albino Corzo",
+    "latitude": 15.748120269005849,
+    "longitude": -92.67318057894741
+  },
+  {
+    "municipality": "Arriaga",
+    "latitude": 16.219205327823694,
+    "longitude": -93.93681330303026
+  },
+  {
+    "municipality": "Bejucal de Ocampo",
+    "latitude": 15.489568394736837,
+    "longitude": -92.15663421052632
+  },
+  {
+    "municipality": "Bella Vista",
+    "latitude": 15.616179593023253,
+    "longitude": -92.23687018604652
+  },
+  {
+    "municipality": "Benemérito de las Américas",
+    "latitude": 16.376008102941178,
+    "longitude": -90.5711583235294
+  },
+  {
+    "municipality": "Berriozábal",
+    "latitude": 16.832744494594593,
+    "longitude": -93.3043381675676
+  },
+  {
+    "municipality": "Bochil",
+    "latitude": 17.00728646753246,
+    "longitude": -92.92911883116882
+  },
+  {
+    "municipality": "Cacahoatán",
+    "latitude": 15.05605829906542,
+    "longitude": -92.16844302803736
+  },
+  {
+    "municipality": "Capitán Luis Ángel Vidal",
+    "latitude": 15.569333081081078,
+    "longitude": -92.59995767567567
+  },
+  {
+    "municipality": "Catazajá",
+    "latitude": 17.746308823232322,
+    "longitude": -92.01695315656566
+  },
+  {
+    "municipality": "Chalchihuitán",
+    "latitude": 17.0075754137931,
+    "longitude": -92.59785855172413
+  },
+  {
+    "municipality": "Chamula",
+    "latitude": 16.81975385620915,
+    "longitude": -92.67801171895425
+  },
+  {
+    "municipality": "Chanal",
+    "latitude": 16.62035135,
+    "longitude": -92.20212350000001
+  },
+  {
+    "municipality": "Chapultenango",
+    "latitude": 17.331837542857144,
+    "longitude": -93.12755568571433
+  },
+  {
+    "municipality": "Chenalhó",
+    "latitude": 16.953259384,
+    "longitude": -92.58221858399993
+  },
+  {
+    "municipality": "Chiapa de Corzo",
+    "latitude": 16.60677761142857,
+    "longitude": -92.98730251428574
+  },
+  {
+    "municipality": "Chiapilla",
+    "latitude": 16.553413052631576,
+    "longitude": -92.72869315789474
+  },
+  {
+    "municipality": "Chicoasén",
+    "latitude": 16.999198772727272,
+    "longitude": -93.11662277272727
+  },
+  {
+    "municipality": "Chicomuselo",
+    "latitude": 15.762532000000016,
+    "longitude": -92.36584604489796
+  },
+  {
+    "municipality": "Chilón",
+    "latitude": 17.097469664634154,
+    "longitude": -92.12618412195111
+  },
+  {
+    "municipality": "Cintalapa",
+    "latitude": 16.652793655332296,
+    "longitude": -93.84864547140656
+  },
+  {
+    "municipality": "Coapilla",
+    "latitude": 17.118280297872346,
+    "longitude": -93.12723014893614
+  },
+  {
+    "municipality": "Comitán de Domínguez",
+    "latitude": 16.25351293949044,
+    "longitude": -92.17768940764333
+  },
+  {
+    "municipality": "Copainalá",
+    "latitude": 17.104924045454545,
+    "longitude": -93.24270103896103
+  },
+  {
+    "municipality": "El Bosque",
+    "latitude": 17.017834525423726,
+    "longitude": -92.74483822033896
+  },
+  {
+    "municipality": "El Parral",
+    "latitude": 16.3210445,
+    "longitude": -92.99487392187498
+  },
+  {
+    "municipality": "El Porvenir",
+    "latitude": 15.432400962962966,
+    "longitude": -92.26425781481478
+  },
+  {
+    "municipality": "Emiliano Zapata",
+    "latitude": 16.51703823140497,
+    "longitude": -92.88178419008263
+  },
+  {
+    "municipality": "Escuintla",
+    "latitude": 15.337058945544555,
+    "longitude": -92.57315225742573
+  },
+  {
+    "municipality": "Francisco León",
+    "latitude": 17.28302186,
+    "longitude": -93.2868029
+  },
+  {
+    "municipality": "Frontera Comalapa",
+    "latitude": 15.740894436507938,
+    "longitude": -92.07712514682547
+  },
+  {
+    "municipality": "Frontera Hidalgo",
+    "latitude": 14.752565857142857,
+    "longitude": -92.20903435714285
+  },
+  {
+    "municipality": "Huehuetán",
+    "latitude": 15.029859267857152,
+    "longitude": -92.40390035714283
+  },
+  {
+    "municipality": "Huitiupán",
+    "latitude": 17.24104089887641,
+    "longitude": -92.70778700000001
+  },
+  {
+    "municipality": "Huixtla",
+    "latitude": 15.145184451923077,
+    "longitude": -92.5106806875
+  },
+  {
+    "municipality": "Huixtán",
+    "latitude": 16.706950904761907,
+    "longitude": -92.40212266666666
+  },
+  {
+    "municipality": "Ixhuatán",
+    "latitude": 17.298554038461535,
+    "longitude": -93.00859013461539
+  },
+  {
+    "municipality": "Ixtacomitán",
+    "latitude": 17.428149887323944,
+    "longitude": -93.09379990140846
+  },
+  {
+    "municipality": "Ixtapa",
+    "latitude": 16.81207987654321,
+    "longitude": -92.91406099999998
+  },
+  {
+    "municipality": "Ixtapangajoya",
+    "latitude": 17.47881320833333,
+    "longitude": -92.987326
+  },
+  {
+    "municipality": "Jiquipilas",
+    "latitude": 16.567663985221678,
+    "longitude": -93.6415029162562
+  },
+  {
+    "municipality": "Jitotol",
+    "latitude": 17.096718034482755,
+    "longitude": -92.83875115517242
+  },
+  {
+    "municipality": "Juárez",
+    "latitude": 17.694047604166663,
+    "longitude": -93.18729072916666
+  },
+  {
+    "municipality": "La Concordia",
+    "latitude": 15.917240827651518,
+    "longitude": -92.85253200378787
+  },
+  {
+    "municipality": "La Grandeza",
+    "latitude": 15.509488888888889,
+    "longitude": -92.22246975555557
+  },
+  {
+    "municipality": "La Independencia",
+    "latitude": 16.213940718181824,
+    "longitude": -91.74399550909091
+  },
+  {
+    "municipality": "La Libertad",
+    "latitude": 17.576403811764706,
+    "longitude": -91.75004155294117
+  },
+  {
+    "municipality": "La Trinitaria",
+    "latitude": 16.018193913140323,
+    "longitude": -91.93120103786195
+  },
+  {
+    "municipality": "Larráinzar",
+    "latitude": 16.913470088607596,
+    "longitude": -92.76309829113926
+  },
+  {
+    "municipality": "Las Margaritas",
+    "latitude": 16.34010774820143,
+    "longitude": -91.75604492805759
+  },
+  {
+    "municipality": "Las Rosas",
+    "latitude": 16.35768490476191,
+    "longitude": -92.3710333253968
+  },
+  {
+    "municipality": "Mapastepec",
+    "latitude": 15.422098634651594,
+    "longitude": -92.94413357062146
+  },
+  {
+    "municipality": "Maravilla Tenejapa",
+    "latitude": 16.205752542857137,
+    "longitude": -91.26010277142855
+  },
+  {
+    "municipality": "Marqués de Comillas",
+    "latitude": 16.2160615,
+    "longitude": -90.75933642857142
+  },
+  {
+    "municipality": "Mazapa de Madero",
+    "latitude": 15.364278392156862,
+    "longitude": -92.18826739215686
+  },
+  {
+    "municipality": "Mazatán",
+    "latitude": 14.878009993548389,
+    "longitude": -92.46852730967736
+  },
+  {
+    "municipality": "Metapa",
+    "latitude": 14.827521142857142,
+    "longitude": -92.19799842857142
+  },
+  {
+    "municipality": "Mezcalapa",
+    "latitude": 17.21949857142858,
+    "longitude": -93.60038148000001
+  },
+  {
+    "municipality": "Mitontic",
+    "latitude": 16.876473722222222,
+    "longitude": -92.57137377777777
+  },
+  {
+    "municipality": "Montecristo de Guerrero",
+    "latitude": 15.677014724999996,
+    "longitude": -92.64345182500003
+  },
+  {
+    "municipality": "Motozintla",
+    "latitude": 15.297850859237531,
+    "longitude": -92.34435971847499
+  },
+  {
+    "municipality": "Nicolás Ruíz",
+    "latitude": 16.448021,
+    "longitude": -92.603947
+  },
+  {
+    "municipality": "Ocozocoautla de Espinosa",
+    "latitude": 16.778011503486738,
+    "longitude": -93.43569635704328
+  },
+  {
+    "municipality": "Ocosingo",
+    "latitude": 16.87497858616649,
+    "longitude": -91.81465600937858
+  },
+  {
+    "municipality": "Ocotepec",
+    "latitude": 17.218033674999994,
+    "longitude": -93.17396065000003
+  },
+  {
+    "municipality": "Ostuacán",
+    "latitude": 17.439241115384615,
+    "longitude": -93.41578270192312
+  },
+  {
+    "municipality": "Osumacinta",
+    "latitude": 16.8882512,
+    "longitude": -93.07042846666667
+  },
+  {
+    "municipality": "Oxchuc",
+    "latitude": 16.79702106493507,
+    "longitude": -92.2987653896104
+  },
+  {
+    "municipality": "Palenque",
+    "latitude": 17.493244427914107,
+    "longitude": -91.87922344325148
+  },
+  {
+    "municipality": "Pantelhó",
+    "latitude": 17.06336732520325,
+    "longitude": -92.45488077235774
+  },
+  {
+    "municipality": "Pantepec",
+    "latitude": 17.18947467924528,
+    "longitude": -93.05356186792454
+  },
+  {
+    "municipality": "Pichucalco",
+    "latitude": 17.540883268292685,
+    "longitude": -93.16361599999999
+  },
+  {
+    "municipality": "Pijijiapan",
+    "latitude": 15.650673486624202,
+    "longitude": -93.2075897248407
+  },
+  {
+    "municipality": "Pueblo Nuevo Solistahuacán",
+    "latitude": 17.211436623529405,
+    "longitude": -92.84813270588236
+  },
+  {
+    "municipality": "Rayón",
+    "latitude": 17.20085926829268,
+    "longitude": -92.99831026829268
+  },
+  {
+    "municipality": "Reforma",
+    "latitude": 17.869011485714285,
+    "longitude": -93.2250151142857
+  },
+  {
+    "municipality": "Rincón Chamula San Pedro",
+    "latitude": 17.20831777777778,
+    "longitude": -92.93035666666667
+  },
+  {
+    "municipality": "Sabanilla",
+    "latitude": 17.30520123943663,
+    "longitude": -92.58634271830985
+  },
+  {
+    "municipality": "Salto de Agua",
+    "latitude": 17.418377556603748,
+    "longitude": -92.20100028616355
+  },
+  {
+    "municipality": "San Andrés Duraznal",
+    "latitude": 17.157193538461538,
+    "longitude": -92.79640253846152
+  },
+  {
+    "municipality": "San Cristóbal de las Casas",
+    "latitude": 16.689581562499995,
+    "longitude": -92.6094687946429
+  },
+  {
+    "municipality": "San Fernando",
+    "latitude": 16.90270255487804,
+    "longitude": -93.22142694512195
+  },
+  {
+    "municipality": "San Juan Cancuc",
+    "latitude": 16.941515853658537,
+    "longitude": -92.3872784390244
+  },
+  {
+    "municipality": "San Lucas",
+    "latitude": 16.601512076923076,
+    "longitude": -92.698325
+  },
+  {
+    "municipality": "Santiago el Pinar",
+    "latitude": 16.946848199999998,
+    "longitude": -92.7202842
+  },
+  {
+    "municipality": "Siltepec",
+    "latitude": 15.550210414634135,
+    "longitude": -92.38970729878052
+  },
+  {
+    "municipality": "Simojovel",
+    "latitude": 17.147167360655743,
+    "longitude": -92.67417128688523
+  },
+  {
+    "municipality": "Sitalá",
+    "latitude": 17.039935885496185,
+    "longitude": -92.35216249618318
+  },
+  {
+    "municipality": "Socoltenango",
+    "latitude": 16.17549933913043,
+    "longitude": -92.36679882608694
+  },
+  {
+    "municipality": "Solosuchiapa",
+    "latitude": 17.394394378787872,
+    "longitude": -93.01296066666666
+  },
+  {
+    "municipality": "Soyaló",
+    "latitude": 16.91369166666667,
+    "longitude": -92.96568042857145
+  },
+  {
+    "municipality": "Suchiapa",
+    "latitude": 16.60845160902255,
+    "longitude": -93.1006881578947
+  },
+  {
+    "municipality": "Suchiate",
+    "latitude": 14.643664745222937,
+    "longitude": -92.22031378343951
+  },
+  {
+    "municipality": "Sunuapa",
+    "latitude": 17.48437992857143,
+    "longitude": -93.24720771428572
+  },
+  {
+    "municipality": "Tapachula",
+    "latitude": 14.950354487854243,
+    "longitude": -92.3008391578947
+  },
+  {
+    "municipality": "Tapalapa",
+    "latitude": 17.23087195238095,
+    "longitude": -93.11635557142856
+  },
+  {
+    "municipality": "Tapilula",
+    "latitude": 17.25386263829787,
+    "longitude": -93.00934495744681
+  },
+  {
+    "municipality": "Tecpatán",
+    "latitude": 17.16243396370968,
+    "longitude": -93.3826678508064
+  },
+  {
+    "municipality": "Tenejapa",
+    "latitude": 16.842863208955226,
+    "longitude": -92.48158249253731
+  },
+  {
+    "municipality": "Teopisca",
+    "latitude": 16.559414487999994,
+    "longitude": -92.516290624
+  },
+  {
+    "municipality": "Tila",
+    "latitude": 17.35325760897435,
+    "longitude": -92.48204205128208
+  },
+  {
+    "municipality": "Tonalá",
+    "latitude": 15.986368905053576,
+    "longitude": -93.67879222052073
+  },
+  {
+    "municipality": "Totolapa",
+    "latitude": 16.516904187500003,
+    "longitude": -92.68133946875
+  },
+  {
+    "municipality": "Tumbalá",
+    "latitude": 17.307621674796753,
+    "longitude": -92.27921539024389
+  },
+  {
+    "municipality": "Tuxtla Chico",
+    "latitude": 14.926068847457623,
+    "longitude": -92.18850733898303
+  },
+  {
+    "municipality": "Tuxtla Gutiérrez",
+    "latitude": 16.70618085815603,
+    "longitude": -93.13682344680853
+  },
+  {
+    "municipality": "Tuzantán",
+    "latitude": 15.136983503875962,
+    "longitude": -92.42174257364339
+  },
+  {
+    "municipality": "Tzimol",
+    "latitude": 16.121155637168137,
+    "longitude": -92.244739840708
+  },
+  {
+    "municipality": "Unión Juárez",
+    "latitude": 15.062294749999996,
+    "longitude": -92.09699692500001
+  },
+  {
+    "municipality": "Venustiano Carranza",
+    "latitude": 16.325536934604905,
+    "longitude": -92.55850425613082
+  },
+  {
+    "municipality": "Villa Comaltitlán",
+    "latitude": 15.189328139072845,
+    "longitude": -92.58812084105965
+  },
+  {
+    "municipality": "Villa Corzo",
+    "latitude": 16.106820460098557,
+    "longitude": -93.22494856551718
+  },
+  {
+    "municipality": "Villaflores",
+    "latitude": 16.342265272824925,
+    "longitude": -93.33723668635875
+  },
+  {
+    "municipality": "Yajalón",
+    "latitude": 17.185861519047613,
+    "longitude": -92.32835095238096
+  },
+  {
+    "municipality": "Zinacantán",
+    "latitude": 16.724472666666674,
+    "longitude": -92.77955776190475
+  }
+]

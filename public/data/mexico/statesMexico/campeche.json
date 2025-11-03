@@ -1,0 +1,57 @@
+[
+  {
+    "municipality": "Calakmul",
+    "latitude": 18.42428379910714,
+    "longitude": -89.42864583035713
+  },
+  {
+    "municipality": "Calkiní",
+    "latitude": 20.35551588888889,
+    "longitude": -90.08604423015873
+  },
+  {
+    "municipality": "Campeche",
+    "latitude": 19.7355100672043,
+    "longitude": -90.38144085483869
+  },
+  {
+    "municipality": "Candelaria",
+    "latitude": 18.097415879834283,
+    "longitude": -90.84075374447514
+  },
+  {
+    "municipality": "Carmen",
+    "latitude": 18.50065984307697,
+    "longitude": -91.39253360717946
+  },
+  {
+    "municipality": "Champotón",
+    "latitude": 19.194639357723577,
+    "longitude": -90.64885883739845
+  },
+  {
+    "municipality": "Escárcega",
+    "latitude": 18.595163148760324,
+    "longitude": -90.68591096694215
+  },
+  {
+    "municipality": "Hecelchakán",
+    "latitude": 20.149273625,
+    "longitude": -90.11327500000002
+  },
+  {
+    "municipality": "Hopelchén",
+    "latitude": 19.587713560344824,
+    "longitude": -89.69561940086201
+  },
+  {
+    "municipality": "Palizada",
+    "latitude": 18.12061485294118,
+    "longitude": -91.91212365686268
+  },
+  {
+    "municipality": "Tenabo",
+    "latitude": 19.975289105263162,
+    "longitude": -90.2286922982456
+  }
+]

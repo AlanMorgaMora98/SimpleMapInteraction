@@ -1,0 +1,27 @@
+[
+  {
+    "municipality": "Comondú",
+    "latitude": 25.419321876135395,
+    "longitude": -111.7407907151115
+  },
+  {
+    "municipality": "La Paz",
+    "latitude": 23.977641956945533,
+    "longitude": -110.38753671567827
+  },
+  {
+    "municipality": "Loreto",
+    "latitude": 25.97036768663593,
+    "longitude": -111.46637312442394
+  },
+  {
+    "municipality": "Los Cabos",
+    "latitude": 23.211403911111134,
+    "longitude": -109.76053740296295
+  },
+  {
+    "municipality": "Mulegé",
+    "latitude": 27.145631552117266,
+    "longitude": -112.77609765960915
+  }
+]

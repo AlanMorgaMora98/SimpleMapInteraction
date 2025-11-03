@@ -1,0 +1,612 @@
+[
+  {
+    "municipality": "Asunción Cuyotepeji",
+    "latitude": 17.92451783333333,
+    "longitude": -97.67905166666667
+  },
+  {
+    "municipality": "Asunción Ixtaltepec",
+    "latitude": 16.54795520224719,
+    "longitude": -95.03090998876402
+  },
+  {
+    "municipality": "Calihualá",
+    "latitude": 17.5407646,
+    "longitude": -98.2672984
+  },
+  {
+    "municipality": "Ciénega de Zimatlán",
+    "latitude": 16.893560833333336,
+    "longitude": -96.7687105
+  },
+  {
+    "municipality": "Constancia del Rosario",
+    "latitude": 17.059782285714288,
+    "longitude": -97.99514264285715
+  },
+  {
+    "municipality": "Cosolapa",
+    "latitude": 18.584281972972974,
+    "longitude": -96.66304929729732
+  },
+  {
+    "municipality": "Cosoltepec",
+    "latitude": 18.140274733333335,
+    "longitude": -97.80989386666667
+  },
+  {
+    "municipality": "Cuyamecalco Villa de Zaragoza",
+    "latitude": 17.966069222222224,
+    "longitude": -96.83826872222221
+  },
+  {
+    "municipality": "Fresnillo de Trujano",
+    "latitude": 17.925875166666668,
+    "longitude": -98.13243033333333
+  },
+  {
+    "municipality": "Guadalupe de Ramírez",
+    "latitude": 17.756176999999997,
+    "longitude": -98.18918566666667
+  },
+  {
+    "municipality": "Heroica Ciudad de Juchitán de Zaragoza",
+    "latitude": 16.447207052325584,
+    "longitude": -94.98965656395349
+  },
+  {
+    "municipality": "La Pe",
+    "latitude": 16.617977500000002,
+    "longitude": -96.789432
+  },
+  {
+    "municipality": "La Trinidad Vista Hermosa",
+    "latitude": 17.770980200000004,
+    "longitude": -97.50177740000001
+  },
+  {
+    "municipality": "Magdalena Apasco",
+    "latitude": 17.237260833333334,
+    "longitude": -96.82306425000002
+  },
+  {
+    "municipality": "Magdalena Peñasco",
+    "latitude": 17.238477772727276,
+    "longitude": -97.56064759090908
+  },
+  {
+    "municipality": "San Andrés Huayápam",
+    "latitude": 17.09978322222222,
+    "longitude": -96.6689513888889
+  },
+  {
+    "municipality": "San Andrés Huaxpaltepec",
+    "latitude": 16.334602285714286,
+    "longitude": -97.90845628571431
+  },
+  {
+    "municipality": "San Andrés Nuxiño",
+    "latitude": 17.234527333333336,
+    "longitude": -97.06879720000002
+  },
+  {
+    "municipality": "San Antonio Nanahuatípam",
+    "latitude": 18.140525500000003,
+    "longitude": -97.13037349999999
+  },
+  {
+    "municipality": "San Bartolo Coyotepec",
+    "latitude": 16.936695076923076,
+    "longitude": -96.71279130769231
+  },
+  {
+    "municipality": "San Blas Atempa",
+    "latitude": 16.345866423076924,
+    "longitude": -95.16608703846154
+  },
+  {
+    "municipality": "San Carlos Yautepec",
+    "latitude": 16.484810630136984,
+    "longitude": -95.94647504109585
+  },
+  {
+    "municipality": "San Dionisio del Mar",
+    "latitude": 16.32775342857143,
+    "longitude": -94.75133128571429
+  },
+  {
+    "municipality": "San Felipe Tejalápam",
+    "latitude": 17.096818000000006,
+    "longitude": -96.8645361515152
+  },
+  {
+    "municipality": "San Francisco Chapulapa",
+    "latitude": 17.925742285714286,
+    "longitude": -96.7500195
+  },
+  {
+    "municipality": "San Francisco Lachigoló",
+    "latitude": 17.025212444444442,
+    "longitude": -96.59966911111113
+  },
+  {
+    "municipality": "San Francisco Tlapancingo",
+    "latitude": 17.478998285714287,
+    "longitude": -98.28297442857145
+  },
+  {
+    "municipality": "San Ildefonso Villa Alta",
+    "latitude": 17.362474600000002,
+    "longitude": -96.14711820000001
+  },
+  {
+    "municipality": "San Jerónimo Coatlán",
+    "latitude": 16.179661431818182,
+    "longitude": -96.98202220454546
+  },
+  {
+    "municipality": "San José Estancia Grande",
+    "latitude": 16.36655357142857,
+    "longitude": -98.25384457142857
+  },
+  {
+    "municipality": "San José Independencia",
+    "latitude": 18.243566272727268,
+    "longitude": -96.64621627272727
+  },
+  {
+    "municipality": "San José Lachiguiri",
+    "latitude": 16.411536888888893,
+    "longitude": -96.33945822222223
+  },
+  {
+    "municipality": "San Juan Bautista Jayacatlán",
+    "latitude": 17.425662000000003,
+    "longitude": -96.8272125
+  },
+  {
+    "municipality": "San Juan Chicomezúchil",
+    "latitude": 17.296797555555557,
+    "longitude": -96.50643488888889
+  },
+  {
+    "municipality": "San Juan Cieneguilla",
+    "latitude": 17.848617500000003,
+    "longitude": -98.264542
+  },
+  {
+    "municipality": "San Juan Coatzóspam",
+    "latitude": 18.04574425,
+    "longitude": -96.75296374999999
+  },
+  {
+    "municipality": "San Juan de los Cués",
+    "latitude": 18.059735888888888,
+    "longitude": -97.01714744444445
+  },
+  {
+    "municipality": "San Juan Evangelista Analco",
+    "latitude": 17.404797,
+    "longitude": -96.53368525000002
+  },
+  {
+    "municipality": "San Juan Juquila Mixes",
+    "latitude": 16.908227892857145,
+    "longitude": -95.89251257142857
+  },
+  {
+    "municipality": "San Juan Mixtepec",
+    "latitude": 17.30192848571428,
+    "longitude": -97.84118537142858
+  },
+  {
+    "municipality": "San Juan Petlapa",
+    "latitude": 17.50703,
+    "longitude": -96.03631983333332
+  },
+  {
+    "municipality": "San Juan Yatzona",
+    "latitude": 17.402024333333333,
+    "longitude": -96.170419
+  },
+  {
+    "municipality": "San Lorenzo Albarradas",
+    "latitude": 16.912822523809524,
+    "longitude": -96.25291485714288
+  },
+  {
+    "municipality": "San Lucas Ojitlán",
+    "latitude": 18.041821344262292,
+    "longitude": -96.38400031147536
+  },
+  {
+    "municipality": "San Lucas Quiaviní",
+    "latitude": 16.894802,
+    "longitude": -96.468094
+  },
+  {
+    "municipality": "San Lucas Zoquiápam",
+    "latitude": 18.120007322580644,
+    "longitude": -96.90708400000001
+  },
+  {
+    "municipality": "San Martín Lachilá",
+    "latitude": 16.610327666666667,
+    "longitude": -96.84610166666666
+  },
+  {
+    "municipality": "San Martín Zacatepec",
+    "latitude": 17.816470428571428,
+    "longitude": -98.07331914285714
+  },
+  {
+    "municipality": "San Mateo Cajonos",
+    "latitude": 17.160383500000002,
+    "longitude": -96.20546
+  },
+  {
+    "municipality": "San Mateo Peñasco",
+    "latitude": 17.1501875,
+    "longitude": -97.51839166666666
+  },
+  {
+    "municipality": "San Mateo Río Hondo",
+    "latitude": 16.127280023809526,
+    "longitude": -96.5108932857143
+  },
+  {
+    "municipality": "San Miguel Amatlán",
+    "latitude": 17.23219211764706,
+    "longitude": -96.4554838235294
+  },
+  {
+    "municipality": "San Miguel Chicahua",
+    "latitude": 17.628679205882346,
+    "longitude": -97.19578529411763
+  },
+  {
+    "municipality": "San Miguel Huautla",
+    "latitude": 17.74407283333333,
+    "longitude": -97.15049658333334
+  },
+  {
+    "municipality": "San Miguel Peras",
+    "latitude": 16.931132636363635,
+    "longitude": -97.00833781818181
+  },
+  {
+    "municipality": "San Miguel Tenango",
+    "latitude": 16.23895326086956,
+    "longitude": -95.55930152173914
+  },
+  {
+    "municipality": "San Miguel Tlacamama",
+    "latitude": 16.4307635,
+    "longitude": -98.09139483333334
+  },
+  {
+    "municipality": "San Miguel Tlacotepec",
+    "latitude": 17.443724999999997,
+    "longitude": -98.01184446666666
+  },
+  {
+    "municipality": "San Pablo Huitzo",
+    "latitude": 17.299032099999998,
+    "longitude": -96.8798918
+  },
+  {
+    "municipality": "San Pedro Atoyac",
+    "latitude": 16.506889307692308,
+    "longitude": -97.97531507692308
+  },
+  {
+    "municipality": "San Pedro Comitancillo",
+    "latitude": 16.475565666666665,
+    "longitude": -95.14625366666667
+  },
+  {
+    "municipality": "San Pedro Coxcaltepec Cántaros",
+    "latitude": 17.517041499999998,
+    "longitude": -97.11421620000002
+  },
+  {
+    "municipality": "San Pedro el Alto",
+    "latitude": 16.01122148275862,
+    "longitude": -96.47588675862067
+  },
+  {
+    "municipality": "San Pedro Mártir Quiechapa",
+    "latitude": 16.415227,
+    "longitude": -96.247539
+  },
+  {
+    "municipality": "San Pedro Mixtepec",
+    "latitude": 15.96100562337662,
+    "longitude": -97.01512385714288
+  },
+  {
+    "municipality": "San Pedro Molinos",
+    "latitude": 17.100953875,
+    "longitude": -97.551187625
+  },
+  {
+    "municipality": "San Pedro Pochutla",
+    "latitude": 15.788793248366007,
+    "longitude": -96.43062562091505
+  },
+  {
+    "municipality": "San Pedro Teutila",
+    "latitude": 17.958129210526316,
+    "longitude": -96.66572268421054
+  },
+  {
+    "municipality": "San Sebastián Abasolo",
+    "latitude": 16.9864905,
+    "longitude": -96.59094749999998
+  },
+  {
+    "municipality": "San Sebastián Ixcapa",
+    "latitude": 16.519492800000002,
+    "longitude": -98.14288239999999
+  },
+  {
+    "municipality": "San Sebastián Nicananduta",
+    "latitude": 17.517672333333334,
+    "longitude": -97.68296766666667
+  },
+  {
+    "municipality": "San Sebastián Tecomaxtlahuaca",
+    "latitude": 17.355594406779662,
+    "longitude": -98.08055001694915
+  },
+  {
+    "municipality": "San Sebastián Teitipac",
+    "latitude": 16.949179375,
+    "longitude": -96.621327625
+  },
+  {
+    "municipality": "San Sebastián Tutla",
+    "latitude": 17.048121142857145,
+    "longitude": -96.68087114285713
+  },
+  {
+    "municipality": "San Simón Almolongas",
+    "latitude": 16.416553444444446,
+    "longitude": -96.7114221111111
+  },
+  {
+    "municipality": "San Vicente Nuñú",
+    "latitude": 17.441132,
+    "longitude": -97.44314666666666
+  },
+  {
+    "municipality": "Santa Ana Tavela",
+    "latitude": 16.6630665,
+    "longitude": -95.91106500000001
+  },
+  {
+    "municipality": "Santa Catarina Ixtepeji",
+    "latitude": 17.210807206896554,
+    "longitude": -96.57890100000003
+  },
+  {
+    "municipality": "Santa Catarina Minas",
+    "latitude": 16.7773488,
+    "longitude": -96.62551959999999
+  },
+  {
+    "municipality": "Santa Catarina Quiané",
+    "latitude": 16.8849805,
+    "longitude": -96.7386025
+  },
+  {
+    "municipality": "Santa Cruz Mixtepec",
+    "latitude": 16.788548187499998,
+    "longitude": -96.88401193750002
+  },
+  {
+    "municipality": "Santa Cruz Tacahua",
+    "latitude": 16.92028709090909,
+    "longitude": -97.48193109090909
+  },
+  {
+    "municipality": "Santa Inés del Monte",
+    "latitude": 16.923546599999998,
+    "longitude": -96.85739573333333
+  },
+  {
+    "municipality": "Santa Lucía Monteverde",
+    "latitude": 16.949282103448272,
+    "longitude": -97.71263720689655
+  },
+  {
+    "municipality": "Santa María Atzompa",
+    "latitude": 17.098845696969697,
+    "longitude": -96.78479836363638
+  },
+  {
+    "municipality": "Santa María Camotlán",
+    "latitude": 17.882000700000003,
+    "longitude": -97.6854356
+  },
+  {
+    "municipality": "Santa María Cortijo",
+    "latitude": 16.426073999999996,
+    "longitude": -98.31936825000001
+  },
+  {
+    "municipality": "Santa María Ecatepec",
+    "latitude": 16.31396733333333,
+    "longitude": -95.8532948095238
+  },
+  {
+    "municipality": "Santa María Guienagati",
+    "latitude": 16.75189675555556,
+    "longitude": -95.36344408888888
+  },
+  {
+    "municipality": "Santa María Huazolotitlán",
+    "latitude": 16.230103,
+    "longitude": -97.9378624736842
+  },
+  {
+    "municipality": "Santa María Teopoxco",
+    "latitude": 18.177153275862068,
+    "longitude": -96.9665754137931
+  },
+  {
+    "municipality": "Santa María Xadani",
+    "latitude": 16.38195765714286,
+    "longitude": -95.02730248571426
+  },
+  {
+    "municipality": "Santiago Cacaloxtepec",
+    "latitude": 17.73408733333333,
+    "longitude": -97.740863
+  },
+  {
+    "municipality": "Santiago Camotlán",
+    "latitude": 17.550760636363638,
+    "longitude": -96.17171745454547
+  },
+  {
+    "municipality": "Santiago del Río",
+    "latitude": 17.448849666666664,
+    "longitude": -98.09177116666666
+  },
+  {
+    "municipality": "Santiago Ihuitlán Plumas",
+    "latitude": 17.87514125,
+    "longitude": -97.448406
+  },
+  {
+    "municipality": "Santiago Lachiguiri",
+    "latitude": 16.763903358208953,
+    "longitude": -95.52692720895523
+  },
+  {
+    "municipality": "Santiago Tetepec",
+    "latitude": 16.349411437500002,
+    "longitude": -97.68934199999998
+  },
+  {
+    "municipality": "Santiago Tilantongo",
+    "latitude": 17.24801454166667,
+    "longitude": -97.34337162499999
+  },
+  {
+    "municipality": "Santiago Tillo",
+    "latitude": 17.46491290909091,
+    "longitude": -97.31999572727273
+  },
+  {
+    "municipality": "Santiago Texcalcingo",
+    "latitude": 18.214567444444448,
+    "longitude": -96.97368211111112
+  },
+  {
+    "municipality": "Santiago Xiacuí",
+    "latitude": 17.2748212,
+    "longitude": -96.42408899999998
+  },
+  {
+    "municipality": "Santiago Xanica",
+    "latitude": 16.00536824489796,
+    "longitude": -96.24763791836733
+  },
+  {
+    "municipality": "Santiago Yaveo",
+    "latitude": 17.54786795238096,
+    "longitude": -95.42368506060603
+  },
+  {
+    "municipality": "Santo Domingo Albarradas",
+    "latitude": 17.0700252,
+    "longitude": -96.1950244
+  },
+  {
+    "municipality": "Santo Domingo Tomaltepec",
+    "latitude": 17.05376666666667,
+    "longitude": -96.62238111111111
+  },
+  {
+    "municipality": "Santo Domingo Tonaltepec",
+    "latitude": 17.604621375,
+    "longitude": -97.355428125
+  },
+  {
+    "municipality": "Santo Domingo Xagacía",
+    "latitude": 17.153120666666666,
+    "longitude": -96.25905666666667
+  },
+  {
+    "municipality": "Santo Tomás Tamazulapan",
+    "latitude": 16.237699,
+    "longitude": -96.56701775
+  },
+  {
+    "municipality": "Santos Reyes Pápalo",
+    "latitude": 17.796998333333335,
+    "longitude": -96.87411566666667
+  },
+  {
+    "municipality": "Santos Reyes Tepejillo",
+    "latitude": 17.438094375,
+    "longitude": -97.93518237500001
+  },
+  {
+    "municipality": "Santos Reyes Yucuná",
+    "latitude": 17.7754594,
+    "longitude": -98.00098719999998
+  },
+  {
+    "municipality": "Soledad Etla",
+    "latitude": 17.163970142857142,
+    "longitude": -96.82099400000001
+  },
+  {
+    "municipality": "Tataltepec de Valdés",
+    "latitude": 16.3235163,
+    "longitude": -97.55852989999998
+  },
+  {
+    "municipality": "Tamazulápam del Espíritu Santo",
+    "latitude": 17.039479727272727,
+    "longitude": -96.03705384848483
+  },
+  {
+    "municipality": "Teotongo",
+    "latitude": 17.739838181818183,
+    "longitude": -97.543279
+  },
+  {
+    "municipality": "Tlacolula de Matamoros",
+    "latitude": 16.95697927272727,
+    "longitude": -96.47169709090913
+  },
+  {
+    "municipality": "Tlalixtac de Cabrera",
+    "latitude": 17.06691794117647,
+    "longitude": -96.646072
+  },
+  {
+    "municipality": "Trinidad Zaachila",
+    "latitude": 16.92254325,
+    "longitude": -96.77476300000001
+  },
+  {
+    "municipality": "Villa de Tamazulápam del Progreso",
+    "latitude": 17.692764304347833,
+    "longitude": -97.57351317391304
+  },
+  {
+    "municipality": "Yaxe",
+    "latitude": 16.726907999999998,
+    "longitude": -96.472536
+  },
+  {
+    "municipality": "Zimatlán de Álvarez",
+    "latitude": 16.809047027397266,
+    "longitude": -96.99356545205482
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "municipality": "Ahualulco",
+    "latitude": 22.460891725274724,
+    "longitude": -101.22923407692306
+  },
+  {
+    "municipality": "Alaquines",
+    "latitude": 22.08664837931034,
+    "longitude": -99.55471567241379
+  },
+  {
+    "municipality": "Aquismón",
+    "latitude": 21.693876195238108,
+    "longitude": -99.09879835714285
+  },
+  {
+    "municipality": "Armadillo de los Infante",
+    "latitude": 22.234210160919538,
+    "longitude": -100.64412448275861
+  },
+  {
+    "municipality": "Axtla de Terrazas",
+    "latitude": 21.437960618181823,
+    "longitude": -98.87004110909092
+  },
+  {
+    "municipality": "Cárdenas",
+    "latitude": 22.00002342857143,
+    "longitude": -99.66054674285711
+  },
+  {
+    "municipality": "Catorce",
+    "latitude": 23.645316563758392,
+    "longitude": -101.007361671141
+  },
+  {
+    "municipality": "Cedral",
+    "latitude": 23.8639405511811,
+    "longitude": -100.68178205511813
+  },
+  {
+    "municipality": "Cerritos",
+    "latitude": 22.445413681818184,
+    "longitude": -100.2921855
+  },
+  {
+    "municipality": "Cerro de San Pedro",
+    "latitude": 22.174231520000003,
+    "longitude": -100.82973208000003
+  },
+  {
+    "municipality": "Charcas",
+    "latitude": 23.19256518721463,
+    "longitude": -101.13496222374425
+  },
+  {
+    "municipality": "Ciudad del Maíz",
+    "latitude": 22.4347144137931,
+    "longitude": -99.66178575862065
+  },
+  {
+    "municipality": "Ciudad Fernández",
+    "latitude": 21.97583138461539,
+    "longitude": -100.13779687179488
+  },
+  {
+    "municipality": "Ciudad Valles",
+    "latitude": 22.033686818443815,
+    "longitude": -99.05794504034579
+  },
+  {
+    "municipality": "Coxcatlán",
+    "latitude": 21.522249028985502,
+    "longitude": -98.91177468115941
+  },
+  {
+    "municipality": "Ebano",
+    "latitude": 22.21356077173913,
+    "longitude": -98.47774468478252
+  },
+  {
+    "municipality": "El Naranjo",
+    "latitude": 22.473681029850738,
+    "longitude": -99.34585967164182
+  },
+  {
+    "municipality": "Guadalcázar",
+    "latitude": 22.848560176470585,
+    "longitude": -100.34660788970584
+  },
+  {
+    "municipality": "Huehuetlán",
+    "latitude": 21.521429075471694,
+    "longitude": -98.98331701886791
+  },
+  {
+    "municipality": "Lagunillas",
+    "latitude": 21.61361124324324,
+    "longitude": -99.5962513108108
+  },
+  {
+    "municipality": "Matehuala",
+    "latitude": 23.577327626609456,
+    "longitude": -100.62061045064385
+  },
+  {
+    "municipality": "Matlapa",
+    "latitude": 21.33496417391304,
+    "longitude": -98.82792846739129
+  },
+  {
+    "municipality": "Mexquitic de Carmona",
+    "latitude": 22.284171663865553,
+    "longitude": -101.12119463025206
+  },
+  {
+    "municipality": "Moctezuma",
+    "latitude": 22.690720651315797,
+    "longitude": -101.07876784210522
+  },
+  {
+    "municipality": "Rayón",
+    "latitude": 21.837857720930238,
+    "longitude": -99.60522788372097
+  },
+  {
+    "municipality": "Rioverde",
+    "latitude": 21.905628999999987,
+    "longitude": -100.0364280239362
+  },
+  {
+    "municipality": "Salinas",
+    "latitude": 22.708375146341467,
+    "longitude": -101.6806082520325
+  },
+  {
+    "municipality": "San Antonio",
+    "latitude": 21.618045506493512,
+    "longitude": -98.87163838961044
+  },
+  {
+    "municipality": "San Ciro de Acosta",
+    "latitude": 21.599357925531912,
+    "longitude": -99.89066071276588
+  },
+  {
+    "municipality": "San Luis Potosí",
+    "latitude": 22.33850598207886,
+    "longitude": -100.95854390681012
+  },
+  {
+    "municipality": "San Martín Chalchicuautla",
+    "latitude": 21.39825921666666,
+    "longitude": -98.62241579999997
+  },
+  {
+    "municipality": "San Nicolás Tolentino",
+    "latitude": 22.164236796296308,
+    "longitude": -100.49999966666665
+  },
+  {
+    "municipality": "San Vicente Tancuayalab",
+    "latitude": 21.785408480446932,
+    "longitude": -98.58918033519554
+  },
+  {
+    "municipality": "Santa Catarina",
+    "latitude": 21.577534388349523,
+    "longitude": -99.42511349514558
+  },
+  {
+    "municipality": "Santa María del Río",
+    "latitude": 21.770983171745158,
+    "longitude": -100.57313926869803
+  },
+  {
+    "municipality": "Santo Domingo",
+    "latitude": 23.349994174311924,
+    "longitude": -101.67952696330272
+  },
+  {
+    "municipality": "Soledad de Graciano Sánchez",
+    "latitude": 22.212031905940588,
+    "longitude": -100.88808813366337
+  },
+  {
+    "municipality": "Tamasopo",
+    "latitude": 21.89353265909091,
+    "longitude": -99.3585331181818
+  },
+  {
+    "municipality": "Tamazunchale",
+    "latitude": 21.242881422535223,
+    "longitude": -98.78442111619717
+  },
+  {
+    "municipality": "Tampacán",
+    "latitude": 21.414513540816323,
+    "longitude": -98.73873541836736
+  },
+  {
+    "municipality": "Tampamolón Corona",
+    "latitude": 21.557337142857143,
+    "longitude": -98.77933999378881
+  },
+  {
+    "municipality": "Tamuín",
+    "latitude": 22.07835339544514,
+    "longitude": -98.72465514906825
+  },
+  {
+    "municipality": "Tancanhuitz",
+    "latitude": 21.5964356060606,
+    "longitude": -98.94464316017316
+  },
+  {
+    "municipality": "Tanlajás",
+    "latitude": 21.70434651470588,
+    "longitude": -98.86231907352943
+  },
+  {
+    "municipality": "Tanquián de Escobedo",
+    "latitude": 21.592418088235295,
+    "longitude": -98.65669706862741
+  },
+  {
+    "municipality": "Tierra Nueva",
+    "latitude": 21.659605430656946,
+    "longitude": -100.50498332116787
+  },
+  {
+    "municipality": "Vanegas",
+    "latitude": 24.029526063291147,
+    "longitude": -100.94989031645571
+  },
+  {
+    "municipality": "Venado",
+    "latitude": 22.935736659420286,
+    "longitude": -101.11382976811592
+  },
+  {
+    "municipality": "Villa de Arista",
+    "latitude": 22.66536548437499,
+    "longitude": -100.85568139843747
+  },
+  {
+    "municipality": "Villa de Arriaga",
+    "latitude": 21.95106653846155,
+    "longitude": -101.33702483846146
+  },
+  {
+    "municipality": "Villa de Guadalupe",
+    "latitude": 23.278178538461535,
+    "longitude": -100.69698588461539
+  },
+  {
+    "municipality": "Villa de la Paz",
+    "latitude": 23.66908307142857,
+    "longitude": -100.7250019285714
+  },
+  {
+    "municipality": "Villa de Ramos",
+    "latitude": 22.930218348684214,
+    "longitude": -101.98100440131577
+  },
+  {
+    "municipality": "Villa de Reyes",
+    "latitude": 21.84105165727698,
+    "longitude": -100.9465189953052
+  },
+  {
+    "municipality": "Villa Hidalgo",
+    "latitude": 22.533812666666666,
+    "longitude": -100.66963201333331
+  },
+  {
+    "municipality": "Villa Juárez",
+    "latitude": 22.283024714285723,
+    "longitude": -100.21913528571427
+  },
+  {
+    "municipality": "Xilitla",
+    "latitude": 21.376968353773588,
+    "longitude": -99.00078693396229
+  },
+  {
+    "municipality": "Zaragoza",
+    "latitude": 22.025621477272733,
+    "longitude": -100.68977034659088
+  }
+]

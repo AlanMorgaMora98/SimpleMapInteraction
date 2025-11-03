@@ -1,0 +1,192 @@
+[
+  {
+    "municipality": "Abasolo",
+    "latitude": 27.1488015,
+    "longitude": -101.31255752380953
+  },
+  {
+    "municipality": "Acuña",
+    "latitude": 29.338015245222916,
+    "longitude": -101.38340836942683
+  },
+  {
+    "municipality": "Allende",
+    "latitude": 28.32425510416668,
+    "longitude": -100.88339190277783
+  },
+  {
+    "municipality": "Arteaga",
+    "latitude": 25.371495828006086,
+    "longitude": -100.66202930136988
+  },
+  {
+    "municipality": "Candela",
+    "latitude": 26.849989773109243,
+    "longitude": -100.71086311764702
+  },
+  {
+    "municipality": "Castaños",
+    "latitude": 26.664580257028106,
+    "longitude": -101.38161814056222
+  },
+  {
+    "municipality": "Cuatro Ciénegas",
+    "latitude": 26.860437362869206,
+    "longitude": -102.09895301265823
+  },
+  {
+    "municipality": "Escobedo",
+    "latitude": 27.316229444444442,
+    "longitude": -101.32724636507939
+  },
+  {
+    "municipality": "Francisco I. Madero",
+    "latitude": 25.89164832178216,
+    "longitude": -103.25880464356429
+  },
+  {
+    "municipality": "Frontera",
+    "latitude": 26.965546310526324,
+    "longitude": -101.48105097894731
+  },
+  {
+    "municipality": "General Cepeda",
+    "latitude": 25.442598650375942,
+    "longitude": -101.50849171052633
+  },
+  {
+    "municipality": "Guerrero",
+    "latitude": 28.286384296296298,
+    "longitude": -100.44115811111102
+  },
+  {
+    "municipality": "Hidalgo",
+    "latitude": 27.84231117045455,
+    "longitude": -99.99426744318184
+  },
+  {
+    "municipality": "Jiménez",
+    "latitude": 29.064979164634128,
+    "longitude": -100.88280745121946
+  },
+  {
+    "municipality": "Juárez",
+    "latitude": 27.58849928387096,
+    "longitude": -100.64313243225803
+  },
+  {
+    "municipality": "Lamadrid",
+    "latitude": 27.089039324324325,
+    "longitude": -101.82352454054052
+  },
+  {
+    "municipality": "Matamoros",
+    "latitude": 25.555335256227753,
+    "longitude": -103.24233307117434
+  },
+  {
+    "municipality": "Monclova",
+    "latitude": 26.947937811827956,
+    "longitude": -101.31697750268815
+  },
+  {
+    "municipality": "Morelos",
+    "latitude": 28.381596770700625,
+    "longitude": -100.91846381528659
+  },
+  {
+    "municipality": "Múzquiz",
+    "latitude": 28.067103525451554,
+    "longitude": -101.66062292282434
+  },
+  {
+    "municipality": "Nadadores",
+    "latitude": 27.07233369811322,
+    "longitude": -101.63598822641514
+  },
+  {
+    "municipality": "Nava",
+    "latitude": 28.513777495297795,
+    "longitude": -100.61433510971781
+  },
+  {
+    "municipality": "Ocampo",
+    "latitude": 27.961469197889187,
+    "longitude": -102.83882664907648
+  },
+  {
+    "municipality": "Parras",
+    "latitude": 25.50270614673912,
+    "longitude": -102.11349308423904
+  },
+  {
+    "municipality": "Piedras Negras",
+    "latitude": 28.757372506578953,
+    "longitude": -100.5827270592105
+  },
+  {
+    "municipality": "Progreso",
+    "latitude": 27.464885689189195,
+    "longitude": -101.07578742567571
+  },
+  {
+    "municipality": "Ramos Arizpe",
+    "latitude": 25.743523279379158,
+    "longitude": -101.07804363636365
+  },
+  {
+    "municipality": "Sabinas",
+    "latitude": 27.8841850505618,
+    "longitude": -101.13281471910118
+  },
+  {
+    "municipality": "Sacramento",
+    "latitude": 27.012893030303033,
+    "longitude": -101.75679487878789
+  },
+  {
+    "municipality": "Saltillo",
+    "latitude": 25.210187825256977,
+    "longitude": -101.12727458884
+  },
+  {
+    "municipality": "San Buenaventura",
+    "latitude": 27.338762856540065,
+    "longitude": -101.69285116033755
+  },
+  {
+    "municipality": "San Juan de Sabinas",
+    "latitude": 27.96147922666667,
+    "longitude": -101.31687315999993
+  },
+  {
+    "municipality": "San Pedro",
+    "latitude": 25.792133188160697,
+    "longitude": -103.03528053699783
+  },
+  {
+    "municipality": "Sierra Mojada",
+    "latitude": 27.575841742857158,
+    "longitude": -103.65497358571427
+  },
+  {
+    "municipality": "Torreón",
+    "latitude": 25.48494513888889,
+    "longitude": -103.3499122685185
+  },
+  {
+    "municipality": "Viesca",
+    "latitude": 25.3316394214876,
+    "longitude": -103.19280057851246
+  },
+  {
+    "municipality": "Villa Unión",
+    "latitude": 28.204689168888887,
+    "longitude": -100.78435964888888
+  },
+  {
+    "municipality": "Zaragoza",
+    "latitude": 28.725476068131854,
+    "longitude": -101.15351075604401
+  }
+]

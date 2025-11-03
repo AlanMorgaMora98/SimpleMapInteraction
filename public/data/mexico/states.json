@@ -1,0 +1,192 @@
+[{
+  "state": "Aguascalientes",
+  "latitude": 22.072424679550963,
+  "longitude": -102.3076925037383,
+  "children": "data/mexico/statesMexico/aguascalientes.json"
+},
+{
+  "state": "Baja California",
+  "latitude": 32.16361169573461,
+  "longitude": -116.30314368461677,
+  "children": "data/mexico/statesMexico/baja-california.json"
+},
+{
+  "state": "Baja California Sur",
+  "latitude": 25.144873396589055,
+  "longitude": -111.22626712355716,
+  "children": "data/mexico/statesMexico/baja-california-sur.json"
+},
+{
+  "state": "Campeche",
+  "latitude": 19.157825375285878,
+  "longitude": -90.49217258430184,
+  "children": "data/mexico/statesMexico/campeche.json"
+},
+{
+  "state": "Chiapas",
+  "latitude": 16.497999555159172,
+  "longitude": -92.63970339423166,
+  "children": "data/mexico/statesMexico/chiapas.json"
+},
+{
+  "state": "Chihuahua",
+  "latitude": 28.351050318487175,
+  "longitude": -106.6160957446624,
+  "children": "data/mexico/statesMexico/chihuahua.json"
+},
+{
+  "state": "Ciudad de México",
+  "latitude": 19.34508941956005,
+  "longitude": -99.15325161549731,
+  "children": "data/mexico/statesMexico/ciudad-de-mexico.json"
+},
+{
+  "state": "Coahuila",
+  "latitude": 27.171975924532884,
+  "longitude": -101.55443024813405,
+  "children": "data/mexico/statesMexico/coahuila-de-zaragoza.json"
+},
+{
+  "state": "Colima",
+  "latitude": 19.17199958520997,
+  "longitude": -103.85965601988944,
+  "children": "data/mexico/statesMexico/colima.json"
+},
+{
+  "state": "Durango",
+  "latitude": 24.936135381568878,
+  "longitude": -104.71183325398005,
+  "children": "data/mexico/statesMexico/durango.json"
+},
+{
+  "state": "Guanajuato",
+  "latitude": 20.70872388079389,
+  "longitude": -100.97822117196797,
+  "children": "data/mexico/statesMexico/guanajuato.json"
+},
+{
+  "state": "Guerrero",
+  "latitude": 17.603072672198287,
+  "longitude": -99.4330865332077,
+  "children": "data/mexico/statesMexico/guerrero.json"
+},
+{
+  "state": "Hidalgo",
+  "latitude": 20.414745699235,
+  "longitude": -98.82853802594867,
+  "children": "data/mexico/statesMexico/hidalgo.json"
+},
+{
+  "state": "Jalisco",
+  "latitude": 20.503974427252164,
+  "longitude": -103.47801129744668,
+  "children": "data/mexico/statesMexico/jalisco.json"
+},
+{
+  "state": "México",
+  "latitude": 19.399781139496284,
+  "longitude": -99.41811914832161,
+  "children": "data/mexico/statesMexico/mexico.json"
+},
+{
+  "state": "Michoacán de Ocampo",
+  "latitude": 19.592093662002934,
+  "longitude": -101.72894682760807,
+  "children": "data/mexico/statesMexico/michoacan-de-ocampo.json"
+},
+{
+  "state": "Morelos",
+  "latitude": 18.785273073272382,
+  "longitude": -99.06447562279382,
+  "children": "data/mexico/statesMexico/morelos.json"
+},
+{
+  "state": "Nayarit",
+  "latitude": 21.612047793914265,
+  "longitude": -104.9045736885445,
+  "children": "data/mexico/statesMexico/nayarit.json"
+},
+{
+  "state": "Nuevo León",
+  "latitude": 25.677848987480008,
+  "longitude": -99.97854959979908,
+  "children": "data/mexico/statesMexico/nuevo-leon.json"
+},
+{
+  "state": "Oaxaca",
+  "latitude": 17.09480291837741,
+  "longitude": -96.85371514883823,
+  "children": "data/mexico/statesMexico/oaxaca.json"
+},
+{
+  "state": "Puebla",
+  "latitude": 19.12076780693857,
+  "longitude": -97.90565393068613,
+  "children": "data/mexico/statesMexico/puebla.json"
+},
+{
+  "state": "Querétaro",
+  "latitude": 20.78795977100644,
+  "longitude": -99.91410127758904,
+  "children": "data/mexico/statesMexico/queretaro.json"
+},
+{
+  "state": "Quintana Roo",
+  "latitude": 20.227380499287243,
+  "longitude": -87.61694630944338,
+  "children": "data/mexico/statesMexico/quintana-roo.json"
+},
+{
+  "state": "San Luis Potosí",
+  "latitude": 22.21180832515034,
+  "longitude": -100.01777980432487,
+  "children": "data/mexico/statesMexico/san-luis-potosi.json"
+},
+{
+  "state": "Sinaloa",
+  "latitude": 24.79677259561704,
+  "longitude": -107.39045390406226,
+  "children": "data/mexico/statesMexico/sinaloa.json"
+},
+{
+  "state": "Sonora",
+  "latitude": 29.620420823768377,
+  "longitude": -110.28374094228859,
+  "children": "data/mexico/statesMexico/sonora.json"
+},
+{
+  "state": "Tabasco",
+  "latitude": 17.95144645624265,
+  "longitude": -92.70923853415773,
+  "children": "data/mexico/statesMexico/tabasco.json"
+},
+{
+  "state": "Tamaulipas",
+  "latitude": 24.21991134477258,
+  "longitude": -98.82317373720538,
+  "children": "data/mexico/statesMexico/tamaulipas.json"
+},
+{
+  "state": "Tlaxcala",
+  "latitude": 19.342950737026232,
+  "longitude": -98.17709507379548,
+  "children": "data/mexico/statesMexico/tlaxcala.json"
+},
+{
+  "state": "Veracruz",
+  "latitude": 19.346112382279962,
+  "longitude": -96.69711338579734,
+  "children": "data/mexico/statesMexico/veracruz.json"
+},
+{
+  "state": "Yucatán",
+  "latitude": 20.81451524110606,
+  "longitude": -89.12400087086701,
+  "children": "data/mexico/statesMexico/yucatan.json"
+},
+{
+  "state": "Zacatecas",
+  "latitude": 22.615264943276273,
+  "longitude": -102.77211444149302,
+  "children": "data/mexico/statesMexico/zacatecas.json"
+}]

@@ -1,0 +1,232 @@
+[
+  {
+    "municipality": "Abasolo",
+    "latitude": 20.506521967455615,
+    "longitude": -101.53836638757392
+  },
+  {
+    "municipality": "Acámbaro",
+    "latitude": 20.05890080215826,
+    "longitude": -100.73929294244599
+  },
+  {
+    "municipality": "Apaseo el Alto",
+    "latitude": 20.425744944785276,
+    "longitude": -100.56618630674843
+  },
+  {
+    "municipality": "Apaseo el Grande",
+    "latitude": 20.552046971193413,
+    "longitude": -100.63833525102882
+  },
+  {
+    "municipality": "Atarjea",
+    "latitude": 21.244784225,
+    "longitude": -99.80787480000002
+  },
+  {
+    "municipality": "Celaya",
+    "latitude": 20.534829283482143,
+    "longitude": -100.80800239955352
+  },
+  {
+    "municipality": "Comonfort",
+    "latitude": 20.728293164893604,
+    "longitude": -100.78541232978728
+  },
+  {
+    "municipality": "Coroneo",
+    "latitude": 20.210722964285715,
+    "longitude": -100.37647353571427
+  },
+  {
+    "municipality": "Cortazar",
+    "latitude": 20.469529472222217,
+    "longitude": -100.96098307222229
+  },
+  {
+    "municipality": "Cuerámaro",
+    "latitude": 20.620206409090912,
+    "longitude": -101.66201519090912
+  },
+  {
+    "municipality": "Doctor Mora",
+    "latitude": 21.138783441860465,
+    "longitude": -100.36063174418605
+  },
+  {
+    "municipality": "Dolores Hidalgo Cuna de la Independencia Nacional",
+    "latitude": 21.161400151618412,
+    "longitude": -100.90189413458265
+  },
+  {
+    "municipality": "Guanajuato",
+    "latitude": 21.001854222996506,
+    "longitude": -101.2661943902439
+  },
+  {
+    "municipality": "Huanímaro",
+    "latitude": 20.358190320754712,
+    "longitude": -101.50130347169812
+  },
+  {
+    "municipality": "Irapuato",
+    "latitude": 20.67719674100718,
+    "longitude": -101.3719123723021
+  },
+  {
+    "municipality": "Jaral del Progreso",
+    "latitude": 20.35558054166667,
+    "longitude": -101.05169804166667
+  },
+  {
+    "municipality": "Jerécuaro",
+    "latitude": 20.19887826804123,
+    "longitude": -100.50864171134022
+  },
+  {
+    "municipality": "León",
+    "latitude": 21.092330063218387,
+    "longitude": -101.64703363936785
+  },
+  {
+    "municipality": "Manuel Doblado",
+    "latitude": 20.7208247925072,
+    "longitude": -101.85512070317012
+  },
+  {
+    "municipality": "Moroleón",
+    "latitude": 20.100094076923078,
+    "longitude": -101.23005846153846
+  },
+  {
+    "municipality": "Ocampo",
+    "latitude": 21.60325444444446,
+    "longitude": -101.46913212169305
+  },
+  {
+    "municipality": "Pénjamo",
+    "latitude": 20.403006382905957,
+    "longitude": -101.80498251623945
+  },
+  {
+    "municipality": "Pueblo Nuevo",
+    "latitude": 20.545487111111107,
+    "longitude": -101.36431447619049
+  },
+  {
+    "municipality": "Purísima del Rincón",
+    "latitude": 20.952477843283578,
+    "longitude": -101.90713532835821
+  },
+  {
+    "municipality": "Romita",
+    "latitude": 20.841702356125342,
+    "longitude": -101.56084493732186
+  },
+  {
+    "municipality": "Salamanca",
+    "latitude": 20.587191416666656,
+    "longitude": -101.17581818201755
+  },
+  {
+    "municipality": "Salvatierra",
+    "latitude": 20.214409322834648,
+    "longitude": -100.90403148031497
+  },
+  {
+    "municipality": "San Diego de la Unión",
+    "latitude": 21.400715190045247,
+    "longitude": -100.80811995022628
+  },
+  {
+    "municipality": "San Felipe",
+    "latitude": 21.457635700000022,
+    "longitude": -101.24343033018869
+  },
+  {
+    "municipality": "San Francisco del Rincón",
+    "latitude": 20.93739450819672,
+    "longitude": -101.79138173770498
+  },
+  {
+    "municipality": "San José Iturbide",
+    "latitude": 21.032955217898838,
+    "longitude": -100.41147919455251
+  },
+  {
+    "municipality": "San Luis de la Paz",
+    "latitude": 21.362833519626175,
+    "longitude": -100.49642722429917
+  },
+  {
+    "municipality": "San Miguel de Allende",
+    "latitude": 20.941332616987193,
+    "longitude": -100.71130049038464
+  },
+  {
+    "municipality": "Santa Catarina",
+    "latitude": 21.150884152173912,
+    "longitude": -100.07027417391303
+  },
+  {
+    "municipality": "Santa Cruz de Juventino Rosas",
+    "latitude": 20.636713434389137,
+    "longitude": -100.98126625791853
+  },
+  {
+    "municipality": "Santiago Maravatío",
+    "latitude": 20.163339999999994,
+    "longitude": -101.00206613333333
+  },
+  {
+    "municipality": "Silao de la Victoria",
+    "latitude": 20.939296856262832,
+    "longitude": -101.44988086652972
+  },
+  {
+    "municipality": "Tarandacuao",
+    "latitude": 20.00255215217391,
+    "longitude": -100.53137660869565
+  },
+  {
+    "municipality": "Tarimoro",
+    "latitude": 20.298716339130447,
+    "longitude": -100.75865699999999
+  },
+  {
+    "municipality": "Tierra Blanca",
+    "latitude": 21.03220229113924,
+    "longitude": -100.1562012151899
+  },
+  {
+    "municipality": "Uriangato",
+    "latitude": 20.110323847457625,
+    "longitude": -101.15990272881356
+  },
+  {
+    "municipality": "Valle de Santiago",
+    "latitude": 20.40969378671328,
+    "longitude": -101.25318571678321
+  },
+  {
+    "municipality": "Victoria",
+    "latitude": 21.35474548469389,
+    "longitude": -100.22368026020413
+  },
+  {
+    "municipality": "Villagrán",
+    "latitude": 20.53567073446329,
+    "longitude": -100.98061420338983
+  },
+  {
+    "municipality": "Xichú",
+    "latitude": 21.34302206896553,
+    "longitude": -99.9997273218391
+  },
+  {
+    "municipality": "Yuriria",
+    "latitude": 20.187028913669067,
+    "longitude": -101.20551256834524
+  }
+]

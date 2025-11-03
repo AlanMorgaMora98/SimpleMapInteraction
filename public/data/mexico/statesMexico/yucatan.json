@@ -1,0 +1,532 @@
+[
+  {
+    "municipality": "Abalá",
+    "latitude": 20.666348351351356,
+    "longitude": -89.65806545945948
+  },
+  {
+    "municipality": "Acanceh",
+    "latitude": 20.840142076923083,
+    "longitude": -89.45047561538462
+  },
+  {
+    "municipality": "Akil",
+    "latitude": 20.264945636363624,
+    "longitude": -89.34963627272728
+  },
+  {
+    "municipality": "Baca",
+    "latitude": 21.11566591304348,
+    "longitude": -89.40125049999997
+  },
+  {
+    "municipality": "Bokobá",
+    "latitude": 21.007131533333336,
+    "longitude": -89.17628513333332
+  },
+  {
+    "municipality": "Buctzotz",
+    "latitude": 21.22360188549619,
+    "longitude": -88.66429182824426
+  },
+  {
+    "municipality": "Cacalchén",
+    "latitude": 20.989322400000006,
+    "longitude": -89.23903391111111
+  },
+  {
+    "municipality": "Calotmul",
+    "latitude": 21.022600704225354,
+    "longitude": -88.13274407042253
+  },
+  {
+    "municipality": "Cansahcab",
+    "latitude": 21.167551935483875,
+    "longitude": -89.0887431935484
+  },
+  {
+    "municipality": "Cantamayec",
+    "latitude": 20.427850145454546,
+    "longitude": -89.07141065454545
+  },
+  {
+    "municipality": "Celestún",
+    "latitude": 20.89815971794872,
+    "longitude": -90.29793364102564
+  },
+  {
+    "municipality": "Cenotillo",
+    "latitude": 21.06235212903225,
+    "longitude": -88.58650813978497
+  },
+  {
+    "municipality": "Chacsinkín",
+    "latitude": 20.189765466666664,
+    "longitude": -89.00262300000001
+  },
+  {
+    "municipality": "Chankom",
+    "latitude": 20.54773927272727,
+    "longitude": -88.54123422727271
+  },
+  {
+    "municipality": "Chapab",
+    "latitude": 20.4923768,
+    "longitude": -89.47997146666667
+  },
+  {
+    "municipality": "Chemax",
+    "latitude": 20.727149925764213,
+    "longitude": -87.87496678602622
+  },
+  {
+    "municipality": "Chicxulub Pueblo",
+    "latitude": 21.141506441860468,
+    "longitude": -89.51147448837209
+  },
+  {
+    "municipality": "Chichimilá",
+    "latitude": 20.47285665217391,
+    "longitude": -88.18378960869563
+  },
+  {
+    "municipality": "Chikindzonot",
+    "latitude": 20.2635125,
+    "longitude": -88.55423245
+  },
+  {
+    "municipality": "Chocholá",
+    "latitude": 20.75130898591548,
+    "longitude": -89.84054904225353
+  },
+  {
+    "municipality": "Chumayel",
+    "latitude": 20.45325152631579,
+    "longitude": -89.29563415789474
+  },
+  {
+    "municipality": "Conkal",
+    "latitude": 21.081737245283023,
+    "longitude": -89.51561856603779
+  },
+  {
+    "municipality": "Cuncunul",
+    "latitude": 20.62936711764706,
+    "longitude": -88.34282135294119
+  },
+  {
+    "municipality": "Cuzamá",
+    "latitude": 20.73151441666667,
+    "longitude": -89.33575116666667
+  },
+  {
+    "municipality": "Dzemul",
+    "latitude": 21.247792803571436,
+    "longitude": -89.33170933928571
+  },
+  {
+    "municipality": "Dzidzantún",
+    "latitude": 21.29115677777778,
+    "longitude": -89.02870984722223
+  },
+  {
+    "municipality": "Dzilam de Bravo",
+    "latitude": 21.393622366336636,
+    "longitude": -88.75450094059407
+  },
+  {
+    "municipality": "Dzilam González",
+    "latitude": 21.337094541401264,
+    "longitude": -88.71430563694268
+  },
+  {
+    "municipality": "Dzitás",
+    "latitude": 20.83199448,
+    "longitude": -88.51897587999999
+  },
+  {
+    "municipality": "Dzoncauich",
+    "latitude": 21.099346960000002,
+    "longitude": -88.85650068
+  },
+  {
+    "municipality": "Dzán",
+    "latitude": 20.39175256521739,
+    "longitude": -89.46304295652175
+  },
+  {
+    "municipality": "Espita",
+    "latitude": 21.037381122137393,
+    "longitude": -88.36655624427482
+  },
+  {
+    "municipality": "Halachó",
+    "latitude": 20.503871450704224,
+    "longitude": -90.10894333802817
+  },
+  {
+    "municipality": "Hocabá",
+    "latitude": 20.808086312500002,
+    "longitude": -89.23683896875002
+  },
+  {
+    "municipality": "Hoctún",
+    "latitude": 20.876547280000004,
+    "longitude": -89.19547812
+  },
+  {
+    "municipality": "Homún",
+    "latitude": 20.69794458536585,
+    "longitude": -89.25230946341465
+  },
+  {
+    "municipality": "Huhí",
+    "latitude": 20.704466625,
+    "longitude": -89.15187958333333
+  },
+  {
+    "municipality": "Hunucmá",
+    "latitude": 21.032499989898994,
+    "longitude": -89.87905532323232
+  },
+  {
+    "municipality": "Ixil",
+    "latitude": 21.18511029032258,
+    "longitude": -89.4763112580645
+  },
+  {
+    "municipality": "Izamal",
+    "latitude": 20.928606372549023,
+    "longitude": -88.99086569607843
+  },
+  {
+    "municipality": "Kanasín",
+    "latitude": 20.919304125,
+    "longitude": -89.53157338281252
+  },
+  {
+    "municipality": "Kantunil",
+    "latitude": 20.780888565217396,
+    "longitude": -88.99333052173914
+  },
+  {
+    "municipality": "Kaua",
+    "latitude": 20.61894063157895,
+    "longitude": -88.42659868421055
+  },
+  {
+    "municipality": "Kinchil",
+    "latitude": 20.88692219565217,
+    "longitude": -90.0071172826087
+  },
+  {
+    "municipality": "Kopomá",
+    "latitude": 20.641066954545458,
+    "longitude": -89.90966677272726
+  },
+  {
+    "municipality": "Mama",
+    "latitude": 20.493389761904766,
+    "longitude": -89.37395671428571
+  },
+  {
+    "municipality": "Maní",
+    "latitude": 20.370723162790703,
+    "longitude": -89.37558593023257
+  },
+  {
+    "municipality": "Maxcanú",
+    "latitude": 20.624416936619728,
+    "longitude": -90.05160220422536
+  },
+  {
+    "municipality": "Mayapán",
+    "latitude": 20.494592258064515,
+    "longitude": -89.191031
+  },
+  {
+    "municipality": "Mocochá",
+    "latitude": 21.111526083333327,
+    "longitude": -89.453596625
+  },
+  {
+    "municipality": "Motul",
+    "latitude": 21.12478786394558,
+    "longitude": -89.2866745238095
+  },
+  {
+    "municipality": "Muna",
+    "latitude": 20.47849592682927,
+    "longitude": -89.72531307317072
+  },
+  {
+    "municipality": "Muxupip",
+    "latitude": 21.045323470588233,
+    "longitude": -89.32759070588234
+  },
+  {
+    "municipality": "Mérida",
+    "latitude": 20.985881632152584,
+    "longitude": -89.62214371389649
+  },
+  {
+    "municipality": "Opichén",
+    "latitude": 20.557862538461542,
+    "longitude": -89.87506792307694
+  },
+  {
+    "municipality": "Oxkutzcab",
+    "latitude": 20.238180434343437,
+    "longitude": -89.44956831313135
+  },
+  {
+    "municipality": "Panabá",
+    "latitude": 21.346429991489373,
+    "longitude": -88.29887621702129
+  },
+  {
+    "municipality": "Peto",
+    "latitude": 20.074281269938652,
+    "longitude": -88.84179901840491
+  },
+  {
+    "municipality": "Progreso",
+    "latitude": 21.236150576923073,
+    "longitude": -89.61676134615388
+  },
+  {
+    "municipality": "Quintana Roo",
+    "latitude": 20.8455379,
+    "longitude": -88.6504434
+  },
+  {
+    "municipality": "Río Lagartos",
+    "latitude": 21.506789010989,
+    "longitude": -88.12046805494502
+  },
+  {
+    "municipality": "Sacalum",
+    "latitude": 20.51285407692308,
+    "longitude": -89.60785903846153
+  },
+  {
+    "municipality": "Samahil",
+    "latitude": 20.86494967857143,
+    "longitude": -89.9125325892857
+  },
+  {
+    "municipality": "San Felipe",
+    "latitude": 21.461692465648856,
+    "longitude": -88.26961881679384
+  },
+  {
+    "municipality": "Sanahcat",
+    "latitude": 20.777011,
+    "longitude": -89.21416950000001
+  },
+  {
+    "municipality": "Santa Elena",
+    "latitude": 20.31442852173913,
+    "longitude": -89.71152721739129
+  },
+  {
+    "municipality": "Seyé",
+    "latitude": 20.853233692307704,
+    "longitude": -89.37616839999998
+  },
+  {
+    "municipality": "Sinanché",
+    "latitude": 21.282244625000004,
+    "longitude": -89.2015133125
+  },
+  {
+    "municipality": "Sotuta",
+    "latitude": 20.60269629032258,
+    "longitude": -89.0079803655914
+  },
+  {
+    "municipality": "Sucilá",
+    "latitude": 21.212357434782604,
+    "longitude": -88.37774346195653
+  },
+  {
+    "municipality": "Sudzal",
+    "latitude": 20.818212189189193,
+    "longitude": -88.9043554864865
+  },
+  {
+    "municipality": "Suma",
+    "latitude": 21.107809944444444,
+    "longitude": -89.15457038888889
+  },
+  {
+    "municipality": "Tahdziú",
+    "latitude": 20.238860166666665,
+    "longitude": -88.91204038095238
+  },
+  {
+    "municipality": "Tahmek",
+    "latitude": 20.88172575,
+    "longitude": -89.28381132500002
+  },
+  {
+    "municipality": "Teabo",
+    "latitude": 20.38695072,
+    "longitude": -89.24017641333333
+  },
+  {
+    "municipality": "Tecoh",
+    "latitude": 20.69454516363636,
+    "longitude": -89.4565005818182
+  },
+  {
+    "municipality": "Tekal de Venegas",
+    "latitude": 21.01694483870968,
+    "longitude": -88.85933212903225
+  },
+  {
+    "municipality": "Tekantó",
+    "latitude": 21.005727151515146,
+    "longitude": -89.10546687878788
+  },
+  {
+    "municipality": "Tekax",
+    "latitude": 20.034803956692915,
+    "longitude": -89.26400339370082
+  },
+  {
+    "municipality": "Tekit",
+    "latitude": 20.554483623188403,
+    "longitude": -89.28866204347824
+  },
+  {
+    "municipality": "Tekom",
+    "latitude": 20.53438472222222,
+    "longitude": -88.34418408333332
+  },
+  {
+    "municipality": "Telchac Pueblo",
+    "latitude": 21.197553700000004,
+    "longitude": -89.267367425
+  },
+  {
+    "municipality": "Telchac Puerto",
+    "latitude": 21.313330124999997,
+    "longitude": -89.26766858333333
+  },
+  {
+    "municipality": "Temax",
+    "latitude": 21.161914225,
+    "longitude": -88.90098097500004
+  },
+  {
+    "municipality": "Temozón",
+    "latitude": 20.862122146464635,
+    "longitude": -88.12429985353533
+  },
+  {
+    "municipality": "Tepakán",
+    "latitude": 21.060428666666667,
+    "longitude": -89.02260633333334
+  },
+  {
+    "municipality": "Tetiz",
+    "latitude": 20.969334162790698,
+    "longitude": -89.95425344186047
+  },
+  {
+    "municipality": "Teya",
+    "latitude": 21.065535428571426,
+    "longitude": -89.07094614285714
+  },
+  {
+    "municipality": "Ticul",
+    "latitude": 20.380393976470586,
+    "longitude": -89.52532307058824
+  },
+  {
+    "municipality": "Timucuy",
+    "latitude": 20.831371879999995,
+    "longitude": -89.52843315999999
+  },
+  {
+    "municipality": "Tinum",
+    "latitude": 20.70546737735849,
+    "longitude": -88.50450343396223
+  },
+  {
+    "municipality": "Tixcacalcupul",
+    "latitude": 20.434712603773587,
+    "longitude": -88.30477720754718
+  },
+  {
+    "municipality": "Tixkokob",
+    "latitude": 20.985022037499995,
+    "longitude": -89.38082022500002
+  },
+  {
+    "municipality": "Tixmehuac",
+    "latitude": 20.2685860625,
+    "longitude": -89.08049053124999
+  },
+  {
+    "municipality": "Tixpéhual",
+    "latitude": 20.96814788461538,
+    "longitude": -89.46996392307689
+  },
+  {
+    "municipality": "Tizimín",
+    "latitude": 21.236101867857126,
+    "longitude": -87.94827217380953
+  },
+  {
+    "municipality": "Tunkás",
+    "latitude": 20.889203736842102,
+    "longitude": -88.7528989122807
+  },
+  {
+    "municipality": "Tzucacab",
+    "latitude": 19.976127986754967,
+    "longitude": -89.03690350331122
+  },
+  {
+    "municipality": "Uayma",
+    "latitude": 20.743769781250002,
+    "longitude": -88.3488749375
+  },
+  {
+    "municipality": "Ucú",
+    "latitude": 21.026248299999995,
+    "longitude": -89.7426764
+  },
+  {
+    "municipality": "Umán",
+    "latitude": 20.867002778656143,
+    "longitude": -89.7574073438736
+  },
+  {
+    "municipality": "Valladolid",
+    "latitude": 20.689057951086944,
+    "longitude": -88.12486147010871
+  },
+  {
+    "municipality": "Xocchel",
+    "latitude": 20.81907661111111,
+    "longitude": -89.15287416666666
+  },
+  {
+    "municipality": "Yaxcabá",
+    "latitude": 20.474026855172415,
+    "longitude": -88.77715833793098
+  },
+  {
+    "municipality": "Yaxkukul",
+    "latitude": 21.05743715625,
+    "longitude": -89.437218375
+  },
+  {
+    "municipality": "Yobaín",
+    "latitude": 21.28420165116279,
+    "longitude": -89.1205031627907
+  }
+]

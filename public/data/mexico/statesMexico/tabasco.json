@@ -1,0 +1,87 @@
+[
+  {
+    "municipality": "Balancán",
+    "latitude": 17.82614052493439,
+    "longitude": -91.37484376640411
+  },
+  {
+    "municipality": "Cárdenas",
+    "latitude": 18.137693597701148,
+    "longitude": -93.56210721839084
+  },
+  {
+    "municipality": "Centla",
+    "latitude": 18.433425895734604,
+    "longitude": -92.69625709952598
+  },
+  {
+    "municipality": "Centro",
+    "latitude": 17.987304748815163,
+    "longitude": -92.88706063981049
+  },
+  {
+    "municipality": "Comalcalco",
+    "latitude": 18.265117610169494,
+    "longitude": -93.30429927118647
+  },
+  {
+    "municipality": "Cunduacán",
+    "latitude": 18.081907826086958,
+    "longitude": -93.23084255652168
+  },
+  {
+    "municipality": "Emiliano Zapata",
+    "latitude": 17.736023965116274,
+    "longitude": -91.70401706976743
+  },
+  {
+    "municipality": "Huimanguillo",
+    "latitude": 17.814252698005692,
+    "longitude": -93.6630897065527
+  },
+  {
+    "municipality": "Jalapa",
+    "latitude": 17.785923000000004,
+    "longitude": -92.77437891803278
+  },
+  {
+    "municipality": "Jalpa de Méndez",
+    "latitude": 18.190693857142858,
+    "longitude": -93.09259022222223
+  },
+  {
+    "municipality": "Jonuta",
+    "latitude": 18.04916896491228,
+    "longitude": -92.11918090643273
+  },
+  {
+    "municipality": "Macuspana",
+    "latitude": 17.81568749315068,
+    "longitude": -92.46973982648409
+  },
+  {
+    "municipality": "Nacajuca",
+    "latitude": 18.13521857894737,
+    "longitude": -92.96224998684208
+  },
+  {
+    "municipality": "Paraíso",
+    "latitude": 18.375188510638296,
+    "longitude": -93.20361285106382
+  },
+  {
+    "municipality": "Tacotalpa",
+    "latitude": 17.50569292222222,
+    "longitude": -92.75286088888892
+  },
+  {
+    "municipality": "Teapa",
+    "latitude": 17.602906192982456,
+    "longitude": -92.95189221052634
+  },
+  {
+    "municipality": "Tenosique",
+    "latitude": 17.432243369565214,
+    "longitude": -91.30803194202899
+  }
+]

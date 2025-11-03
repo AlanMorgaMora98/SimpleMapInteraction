@@ -1,0 +1,422 @@
+[
+  {
+    "municipality": "Acatlán",
+    "latitude": 20.208784500000004,
+    "longitude": -98.44341859259255
+  },
+  {
+    "municipality": "Acaxochitlán",
+    "latitude": 20.16436009375,
+    "longitude": -98.18742718749999
+  },
+  {
+    "municipality": "Actopan",
+    "latitude": 20.284760428571435,
+    "longitude": -98.91527180952383
+  },
+  {
+    "municipality": "Agua Blanca de Iturbide",
+    "latitude": 20.360442214285715,
+    "longitude": -98.36915889285714
+  },
+  {
+    "municipality": "Ajacuba",
+    "latitude": 20.14600984210526,
+    "longitude": -99.0601482105263
+  },
+  {
+    "municipality": "Alfajayucan",
+    "latitude": 20.412345833333333,
+    "longitude": -99.38561623611108
+  },
+  {
+    "municipality": "Almoloya",
+    "latitude": 19.743477323809522,
+    "longitude": -98.34075705714285
+  },
+  {
+    "municipality": "Apan",
+    "latitude": 19.738347336538464,
+    "longitude": -98.43542497115384
+  },
+  {
+    "municipality": "Atitalaquia",
+    "latitude": 20.054872086956525,
+    "longitude": -99.22235073913043
+  },
+  {
+    "municipality": "Atlapexco",
+    "latitude": 21.025424120000007,
+    "longitude": -98.36877048000001
+  },
+  {
+    "municipality": "Atotonilco de Tula",
+    "latitude": 19.967583862068967,
+    "longitude": -99.23842020689655
+  },
+  {
+    "municipality": "Atotonilco el Grande",
+    "latitude": 20.34692269117647,
+    "longitude": -98.67431980882357
+  },
+  {
+    "municipality": "Calnali",
+    "latitude": 20.902293249999992,
+    "longitude": -98.57053543478257
+  },
+  {
+    "municipality": "Cardonal",
+    "latitude": 20.63066094117647,
+    "longitude": -99.0751777411765
+  },
+  {
+    "municipality": "Chapantongo",
+    "latitude": 20.26551862222222,
+    "longitude": -99.46588553333338
+  },
+  {
+    "municipality": "Chapulhuacán",
+    "latitude": 21.143913981651377,
+    "longitude": -98.92903235779812
+  },
+  {
+    "municipality": "Chilcuautla",
+    "latitude": 20.33708561764706,
+    "longitude": -99.23294370588235
+  },
+  {
+    "municipality": "Cuautepec de Hinojosa",
+    "latitude": 19.98351724242424,
+    "longitude": -98.28607022222222
+  },
+  {
+    "municipality": "El Arenal",
+    "latitude": 20.216748499999998,
+    "longitude": -98.8893425769231
+  },
+  {
+    "municipality": "Eloxochitlán",
+    "latitude": 20.72719161538462,
+    "longitude": -98.87683103846153
+  },
+  {
+    "municipality": "Emiliano Zapata",
+    "latitude": 19.66046023809524,
+    "longitude": -98.56449395238096
+  },
+  {
+    "municipality": "Epazoyucan",
+    "latitude": 20.02759328947369,
+    "longitude": -98.63839002631579
+  },
+  {
+    "municipality": "Francisco I. Madero",
+    "latitude": 20.238469605263152,
+    "longitude": -99.07889523684211
+  },
+  {
+    "municipality": "Huascade Ocampo",
+    "latitude": 20.232624361111117,
+    "longitude": -98.54504693055553
+  },
+  {
+    "municipality": "Huautla",
+    "latitude": 21.041631453333327,
+    "longitude": -98.24839214666667
+  },
+  {
+    "municipality": "Huazalingo",
+    "latitude": 21.000043558139534,
+    "longitude": -98.49036386046512
+  },
+  {
+    "municipality": "Huehuetla",
+    "latitude": 20.5132870425532,
+    "longitude": -98.07104659574475
+  },
+  {
+    "municipality": "Huejutla de Reyes",
+    "latitude": 21.116022225352104,
+    "longitude": -98.47619964788726
+  },
+  {
+    "municipality": "Huichapan",
+    "latitude": 20.389695192660554,
+    "longitude": -99.65226760550462
+  },
+  {
+    "municipality": "Ixmiquilpan",
+    "latitude": 20.53904258119657,
+    "longitude": -99.19328490598289
+  },
+  {
+    "municipality": "Jacala de Ledezma",
+    "latitude": 20.967125145454546,
+    "longitude": -99.14951090909094
+  },
+  {
+    "municipality": "Jaltocán",
+    "latitude": 21.150679399999994,
+    "longitude": -98.52452236666667
+  },
+  {
+    "municipality": "Juárez Hidalgo",
+    "latitude": 20.8330598125,
+    "longitude": -98.837352375
+  },
+  {
+    "municipality": "La Misión",
+    "latitude": 21.07031417777778,
+    "longitude": -99.07181849999999
+  },
+  {
+    "municipality": "Lolotla",
+    "latitude": 21.009338145161294,
+    "longitude": -98.7312875
+  },
+  {
+    "municipality": "Metepec",
+    "latitude": 20.263742024390247,
+    "longitude": -98.34367775609758
+  },
+  {
+    "municipality": "Metztitlán",
+    "latitude": 20.568481772357725,
+    "longitude": -98.7958514471545
+  },
+  {
+    "municipality": "Mineral de la Reforma",
+    "latitude": 20.072550160000006,
+    "longitude": -98.73023027999999
+  },
+  {
+    "municipality": "Mineral del Chico",
+    "latitude": 20.21793128571429,
+    "longitude": -98.74972231428572
+  },
+  {
+    "municipality": "Mineral del Monte",
+    "latitude": 20.143899519999998,
+    "longitude": -98.66278944
+  },
+  {
+    "municipality": "Mixquiahuala de Juárez",
+    "latitude": 20.22158957894737,
+    "longitude": -99.18326297368421
+  },
+  {
+    "municipality": "Molango de Escamilla",
+    "latitude": 20.84599563265306,
+    "longitude": -98.76133661224492
+  },
+  {
+    "municipality": "Nicolás Flores",
+    "latitude": 20.794557083333338,
+    "longitude": -99.17333039583336
+  },
+  {
+    "municipality": "Nopala de Villagrán",
+    "latitude": 20.231549777777772,
+    "longitude": -99.68089783333328
+  },
+  {
+    "municipality": "Omitlán de Juárez",
+    "latitude": 20.1785086969697,
+    "longitude": -98.63635139393939
+  },
+  {
+    "municipality": "Pacula",
+    "latitude": 20.97070782051282,
+    "longitude": -99.32173792307692
+  },
+  {
+    "municipality": "Pachuca de Soto",
+    "latitude": 20.09809974193549,
+    "longitude": -98.78922093548387
+  },
+  {
+    "municipality": "Pisaflores",
+    "latitude": 21.227843827160502,
+    "longitude": -98.99467097530862
+  },
+  {
+    "municipality": "Progreso de Obregón",
+    "latitude": 20.293286521739127,
+    "longitude": -99.18929169565216
+  },
+  {
+    "municipality": "San Agustín Metzquititlán",
+    "latitude": 20.504597551020407,
+    "longitude": -98.62535457142857
+  },
+  {
+    "municipality": "San Agustín Tlaxiaca",
+    "latitude": 20.10688377272727,
+    "longitude": -98.90831449999997
+  },
+  {
+    "municipality": "San Bartolo Tutotepec",
+    "latitude": 20.45118299242424,
+    "longitude": -98.1985396439394
+  },
+  {
+    "municipality": "San Felipe Orizatlán",
+    "latitude": 21.24176911888112,
+    "longitude": -98.58409130069928
+  },
+  {
+    "municipality": "San Salvador",
+    "latitude": 20.293111699999994,
+    "longitude": -99.03279616000003
+  },
+  {
+    "municipality": "Santiago de Anaya",
+    "latitude": 20.406090774193547,
+    "longitude": -98.97522283870968
+  },
+  {
+    "municipality": "Santiago Tulantepec de Lugo Guerrero",
+    "latitude": 20.041330571428578,
+    "longitude": -98.39019099999999
+  },
+  {
+    "municipality": "Singuilucan",
+    "latitude": 19.989304101562507,
+    "longitude": -98.51645671093743
+  },
+  {
+    "municipality": "Tasquillo",
+    "latitude": 20.54681981818182,
+    "longitude": -99.34573121212118
+  },
+  {
+    "municipality": "Tecozautla",
+    "latitude": 20.532893683544305,
+    "longitude": -99.64646920253162
+  },
+  {
+    "municipality": "Tenango de Doria",
+    "latitude": 20.354737254237293,
+    "longitude": -98.2033062033898
+  },
+  {
+    "municipality": "Tepeapulco",
+    "latitude": 19.804274093333333,
+    "longitude": -98.50238185333333
+  },
+  {
+    "municipality": "Tepehuacán de Guerrero",
+    "latitude": 21.066679250000007,
+    "longitude": -98.84373038000001
+  },
+  {
+    "municipality": "Tepeji del Río de Ocampo",
+    "latitude": 19.90221948051948,
+    "longitude": -99.35030288311687
+  },
+  {
+    "municipality": "Tepetitlán",
+    "latitude": 20.18335168181818,
+    "longitude": -99.38880236363637
+  },
+  {
+    "municipality": "Tetepango",
+    "latitude": 20.115339777777777,
+    "longitude": -99.16265877777778
+  },
+  {
+    "municipality": "Tezontepec de Aldama",
+    "latitude": 20.17261469767442,
+    "longitude": -99.28304039534882
+  },
+  {
+    "municipality": "Tianguistengo",
+    "latitude": 20.783259306666665,
+    "longitude": -98.55254529333331
+  },
+  {
+    "municipality": "Tizayuca",
+    "latitude": 19.861429857142856,
+    "longitude": -98.95153366666666
+  },
+  {
+    "municipality": "Tlahuelilpan",
+    "latitude": 20.13087727777778,
+    "longitude": -99.22491344444445
+  },
+  {
+    "municipality": "Tlahuiltepa",
+    "latitude": 20.89838135877863,
+    "longitude": -98.96131566412214
+  },
+  {
+    "municipality": "Tlanalapa",
+    "latitude": 19.82512606451613,
+    "longitude": -98.59503109677419
+  },
+  {
+    "municipality": "Tlanchinol",
+    "latitude": 21.030205957446807,
+    "longitude": -98.6501349361702
+  },
+  {
+    "municipality": "Tlaxcoapan",
+    "latitude": 20.096377,
+    "longitude": -99.22590036363637
+  },
+  {
+    "municipality": "Tolcayuca",
+    "latitude": 19.945237150000004,
+    "longitude": -98.92141640000001
+  },
+  {
+    "municipality": "Tula de Allende",
+    "latitude": 20.048007223684216,
+    "longitude": -99.3537442105263
+  },
+  {
+    "municipality": "Tulancingo de Bravo",
+    "latitude": 20.119633637500005,
+    "longitude": -98.36301796250004
+  },
+  {
+    "municipality": "Villa de Tezontepec",
+    "latitude": 19.905338115384616,
+    "longitude": -98.80662176923079
+  },
+  {
+    "municipality": "Xochiatipan",
+    "latitude": 20.857320536585366,
+    "longitude": -98.28175287804879
+  },
+  {
+    "municipality": "Xochicoatlán",
+    "latitude": 20.797173628571432,
+    "longitude": -98.63734054285715
+  },
+  {
+    "municipality": "Yahualica",
+    "latitude": 20.915049243243246,
+    "longitude": -98.37885662162165
+  },
+  {
+    "municipality": "Zacualtipán de Ángeles",
+    "latitude": 20.656188568627456,
+    "longitude": -98.59362884313724
+  },
+  {
+    "municipality": "Zapotlán de Juárez",
+    "latitude": 19.99346837037037,
+    "longitude": -98.8629208148148
+  },
+  {
+    "municipality": "Zempoala",
+    "latitude": 19.939268199999997,
+    "longitude": -98.67141214285714
+  },
+  {
+    "municipality": "Zimapán",
+    "latitude": 20.74470714545454,
+    "longitude": -99.3555701939394
+  }
+]
