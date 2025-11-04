@@ -1,0 +1,5 @@
+[
+    {"type": "B2", "description": "2-axle bus" },
+    {"type": "B3", "description": "3-axle bus"},
+    {"type": "B4", "description": "4-axle bus"}
+]
