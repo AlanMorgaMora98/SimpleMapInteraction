@@ -7,9 +7,10 @@ export class ServiceClientRouting {
 
   async get<T>(endpoint: string): Promise<T> {
     const response = await fetch(`${this.baseUrl}${endpoint}`)
-    if (!response.ok) throw new Error(`HTTP error: ${response.status}`)
-      console.log(response.json())
-    return response.json()
+    if (!response.ok) 
+      throw new Error(`HTTP error: ${response.status}`)
+    const body = await response.json()
+    return body
   }
 }
 

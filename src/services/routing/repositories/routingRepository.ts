@@ -2,14 +2,15 @@
 import { serviceClientRouting } from "../ServiceClientRouting"
 import { OsrmAdapter } from "../adapters/osrmAdapter"
 import type { OSRMCoordinate, OSRMRouteResponse } from "../types/osrm"
-import type { RouteRespose } from "../types/IRoutingService"
+import type { RouteRespose } from "../types/RoutingService"
 
 export class RoutingRepository {
   private profile = "car"
 
   async getRoute(coordinates: OSRMCoordinate[]): Promise<RouteRespose> {
+
     if (coordinates.length < 2)
-      throw new Error("Se necesitan al menos dos coordenadas")
+      throw new Error("At leats 2 coordinates")
 
     const coordsString = coordinates
       .map(c => `${c.lon},${c.lat}`)
