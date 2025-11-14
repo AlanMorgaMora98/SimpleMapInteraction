@@ -35,12 +35,6 @@
   "children": "data/mexico/statesMexico/chihuahua.json"
 },
 {
-  "title": "Ciudad de México",
-  "latitude": 19.34508941956005,
-  "longitude": -99.15325161549731,
-  "children": "data/mexico/statesMexico/ciudad-de-mexico.json"
-},
-{
   "title": "Coahuila",
   "latitude": 27.171975924532884,
   "longitude": -101.55443024813405,
@@ -87,6 +81,12 @@
   "latitude": 19.399781139496284,
   "longitude": -99.41811914832161,
   "children": "data/mexico/statesMexico/mexico.json"
+},
+{
+  "title": "Mexico City",
+  "latitude": 19.34508941956005,
+  "longitude": -99.15325161549731,
+  "children": "data/mexico/statesMexico/ciudad-de-mexico.json"
 },
 {
   "title": "Michoacán de Ocampo",
