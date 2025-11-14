@@ -1,0 +1,57 @@
+[
+  {
+    "municipality": "Bacalar",
+    "latitude": 18.90443678220859,
+    "longitude": -88.48561035889564
+  },
+  {
+    "municipality": "Benito Juárez",
+    "latitude": 21.08998938392856,
+    "longitude": -86.99022410416667
+  },
+  {
+    "municipality": "Cozumel",
+    "latitude": 20.444672984455956,
+    "longitude": -86.9337579119171
+  },
+  {
+    "municipality": "Felipe Carrillo Puerto",
+    "latitude": 19.628341888217527,
+    "longitude": -88.14017383685803
+  },
+  {
+    "municipality": "Isla Mujeres",
+    "latitude": 21.268479451977406,
+    "longitude": -86.92379525423729
+  },
+  {
+    "municipality": "José María Morelos",
+    "latitude": 19.73430700456621,
+    "longitude": -88.77329984474885
+  },
+  {
+    "municipality": "Lázaro Cárdenas",
+    "latitude": 21.031420525714275,
+    "longitude": -87.41923027999997
+  },
+  {
+    "municipality": "Othón P. Blanco",
+    "latitude": 18.527555593840198,
+    "longitude": -88.3606610885466
+  },
+  {
+    "municipality": "Puerto Morelos",
+    "latitude": 20.97097766666667,
+    "longitude": -87.09265782170544
+  },
+  {
+    "municipality": "Solidaridad",
+    "latitude": 20.645000498084286,
+    "longitude": -87.1559558965517
+  },
+  {
+    "municipality": "Tulum",
+    "latitude": 20.256003712499997,
+    "longitude": -87.51104300624996
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "municipality": "Armería",
+    "latitude": 18.96359521134021,
+    "longitude": -103.98166056185565
+  },
+  {
+    "municipality": "Colima",
+    "latitude": 19.176926308026022,
+    "longitude": -103.68034626681126
+  },
+  {
+    "municipality": "Comala",
+    "latitude": 19.382642142450138,
+    "longitude": -103.74193570655274
+  },
+  {
+    "municipality": "Coquimatlán",
+    "latitude": 19.198475448905107,
+    "longitude": -103.8448809270073
+  },
+  {
+    "municipality": "Cuauhtémoc",
+    "latitude": 19.32967400479617,
+    "longitude": -103.61082903836918
+  },
+  {
+    "municipality": "Ixtlahuacán",
+    "latitude": 18.97391709876544,
+    "longitude": -103.69351432098766
+  },
+  {
+    "municipality": "Manzanillo",
+    "latitude": 19.11289217303371,
+    "longitude": -104.32403238202241
+  },
+  {
+    "municipality": "Minatitlán",
+    "latitude": 19.374179746376807,
+    "longitude": -104.05600828985501
+  },
+  {
+    "municipality": "Tecomán",
+    "latitude": 18.8958145470914,
+    "longitude": -103.87588184487531
+  },
+  {
+    "municipality": "Villa de Álvarez",
+    "latitude": 19.31187917131473,
+    "longitude": -103.78747086055778
+  }
+]

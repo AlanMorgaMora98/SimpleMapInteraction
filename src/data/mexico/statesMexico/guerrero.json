@@ -1,0 +1,412 @@
+[
+  {
+    "municipality": "Acatepec",
+    "latitude": 17.22314851515152,
+    "longitude": -98.91446484090905
+  },
+  {
+    "municipality": "Acapulco de Juárez",
+    "latitude": 16.928201196491226,
+    "longitude": -99.7442269157895
+  },
+  {
+    "municipality": "Ahuacuotzingo",
+    "latitude": 17.74260683766234,
+    "longitude": -98.91820862987012
+  },
+  {
+    "municipality": "Ajuchitlán del Progreso",
+    "latitude": 17.954405884210537,
+    "longitude": -100.58618507368423
+  },
+  {
+    "municipality": "Alcozauca de Guerrero",
+    "latitude": 17.372373894736842,
+    "longitude": -98.37018668421054
+  },
+  {
+    "municipality": "Alpoyeca",
+    "latitude": 17.645801833333334,
+    "longitude": -98.51255041666666
+  },
+  {
+    "municipality": "Apaxtla",
+    "latitude": 18.076348830508476,
+    "longitude": -99.99560783050845
+  },
+  {
+    "municipality": "Arcelia",
+    "latitude": 18.265478881944443,
+    "longitude": -100.18653965972221
+  },
+  {
+    "municipality": "Atlamajalcingo del Monte",
+    "latitude": 17.30188476190476,
+    "longitude": -98.57069304761906
+  },
+  {
+    "municipality": "Atlixtac",
+    "latitude": 17.482657367521377,
+    "longitude": -98.89461971794874
+  },
+  {
+    "municipality": "Atenango del Río",
+    "latitude": 18.17982654285714,
+    "longitude": -99.11045791428572
+  },
+  {
+    "municipality": "Atoyac de Álvarez",
+    "latitude": 17.270752292576415,
+    "longitude": -100.3481660742358
+  },
+  {
+    "municipality": "Ayutla de los Libres",
+    "latitude": 16.951467903846158,
+    "longitude": -99.06552363461537
+  },
+  {
+    "municipality": "Azoyú",
+    "latitude": 16.65071374418604,
+    "longitude": -98.57861962790702
+  },
+  {
+    "municipality": "Benito Juárez",
+    "latitude": 17.10820644444444,
+    "longitude": -100.46745606944447
+  },
+  {
+    "municipality": "Buenavista de Cuéllar",
+    "latitude": 18.469251507692306,
+    "longitude": -99.41296646153847
+  },
+  {
+    "municipality": "Chilapa de Álvarez",
+    "latitude": 17.515185430622015,
+    "longitude": -99.11636452631578
+  },
+  {
+    "municipality": "Chilpancingo de los Bravo",
+    "latitude": 17.400609240223464,
+    "longitude": -99.60620860335194
+  },
+  {
+    "municipality": "Coahuayutla de José María Izazaga",
+    "latitude": 18.27631232031249,
+    "longitude": -101.63244177343746
+  },
+  {
+    "municipality": "Cochoapa el Grande",
+    "latitude": 17.11352681132076,
+    "longitude": -98.41429265408806
+  },
+  {
+    "municipality": "Cocula",
+    "latitude": 18.147502428571425,
+    "longitude": -99.70270176190476
+  },
+  {
+    "municipality": "Copala",
+    "latitude": 16.606069500000004,
+    "longitude": -98.93653794230767
+  },
+  {
+    "municipality": "Copanatoyac",
+    "latitude": 17.429281090909093,
+    "longitude": -98.70015614545457
+  },
+  {
+    "municipality": "Copalillo",
+    "latitude": 17.970286953846152,
+    "longitude": -99.05472753846155
+  },
+  {
+    "municipality": "Coyuca de Benítez",
+    "latitude": 17.070733638888882,
+    "longitude": -100.09088345555554
+  },
+  {
+    "municipality": "Coyuca de Catalán",
+    "latitude": 18.070036026086957,
+    "longitude": -100.95180548043473
+  },
+  {
+    "municipality": "Cuajinicuilapa",
+    "latitude": 16.493213656565654,
+    "longitude": -98.50480854040406
+  },
+  {
+    "municipality": "Cualác",
+    "latitude": 17.729062283783787,
+    "longitude": -98.67258787837841
+  },
+  {
+    "municipality": "Cuautepec",
+    "latitude": 16.70509951351351,
+    "longitude": -98.98487791891891
+  },
+  {
+    "municipality": "Cuetzala del Progreso",
+    "latitude": 18.119009653846152,
+    "longitude": -99.81436573076925
+  },
+  {
+    "municipality": "Cutzamala de Pinzón",
+    "latitude": 18.65851849479166,
+    "longitude": -100.59931983333331
+  },
+  {
+    "municipality": "Eduardo Neri",
+    "latitude": 17.772144274193547,
+    "longitude": -99.60578883870963
+  },
+  {
+    "municipality": "Florencio Villarreal",
+    "latitude": 16.69875844444445,
+    "longitude": -99.15430624074078
+  },
+  {
+    "municipality": "General Canuto A. Neri",
+    "latitude": 18.431204140845065,
+    "longitude": -100.09956839436619
+  },
+  {
+    "municipality": "General Heliodoro Castillo",
+    "latitude": 17.74185056013746,
+    "longitude": -100.02912510996559
+  },
+  {
+    "municipality": "Huamuxtitlán",
+    "latitude": 17.78912353846154,
+    "longitude": -98.555871
+  },
+  {
+    "municipality": "Huitzuco de los Figueroa",
+    "latitude": 18.29011079069767,
+    "longitude": -99.26025458139533
+  },
+  {
+    "municipality": "Iguala de la Independencia",
+    "latitude": 18.301427515789474,
+    "longitude": -99.54941682105267
+  },
+  {
+    "municipality": "Igualapa",
+    "latitude": 16.755421444444448,
+    "longitude": -98.48377655555555
+  },
+  {
+    "municipality": "Iliatenco",
+    "latitude": 17.035657804347828,
+    "longitude": -98.67180252173912
+  },
+  {
+    "municipality": "Ixcateopan de Cuauhtémoc",
+    "latitude": 18.474259085714284,
+    "longitude": -99.79032357142859
+  },
+  {
+    "municipality": "José Joaquín de Herrera",
+    "latitude": 17.439058986486486,
+    "longitude": -99.00179816216216
+  },
+  {
+    "municipality": "Juan R. Escudero",
+    "latitude": 17.133092355555558,
+    "longitude": -99.50837371111113
+  },
+  {
+    "municipality": "Juchitán",
+    "latitude": 16.583072170731707,
+    "longitude": -98.67163260975609
+  },
+  {
+    "municipality": "La Unión de Isidoro Montes de Oca",
+    "latitude": 18.000662779342726,
+    "longitude": -101.86454947417839
+  },
+  {
+    "municipality": "Leonardo Bravo",
+    "latitude": 17.621809196969696,
+    "longitude": -99.83059209090911
+  },
+  {
+    "municipality": "Malinaltepec",
+    "latitude": 17.177892960937506,
+    "longitude": -98.70581759374997
+  },
+  {
+    "municipality": "Marquelia",
+    "latitude": 16.59859268292683,
+    "longitude": -98.76500346341464
+  },
+  {
+    "municipality": "Mártir de Cuilapan",
+    "latitude": 17.81606956521739,
+    "longitude": -99.34823356521738
+  },
+  {
+    "municipality": "Metlatónoc",
+    "latitude": 17.169287782608695,
+    "longitude": -98.41963255434783
+  },
+  {
+    "municipality": "Mochitlán",
+    "latitude": 17.38160164444444,
+    "longitude": -99.36737564444444
+  },
+  {
+    "municipality": "Olinalá",
+    "latitude": 17.86483969396551,
+    "longitude": -98.75020723706896
+  },
+  {
+    "municipality": "Ometepec",
+    "latitude": 16.68124443373494,
+    "longitude": -98.38076184939766
+  },
+  {
+    "municipality": "Pedro Ascencio Alquisiras",
+    "latitude": 18.546933999999997,
+    "longitude": -99.86347460674159
+  },
+  {
+    "municipality": "Petatlán",
+    "latitude": 17.604963887096773,
+    "longitude": -101.17389069354837
+  },
+  {
+    "municipality": "Pilcaya",
+    "latitude": 18.711251363636368,
+    "longitude": -99.62674902272728
+  },
+  {
+    "municipality": "Pungarabato",
+    "latitude": 18.349451571428574,
+    "longitude": -100.63947471428571
+  },
+  {
+    "municipality": "Quechultenango",
+    "latitude": 17.346103227272728,
+    "longitude": -99.17307880681815
+  },
+  {
+    "municipality": "San Luis Acatlán",
+    "latitude": 16.901608669491527,
+    "longitude": -98.69655836440676
+  },
+  {
+    "municipality": "San Marcos",
+    "latitude": 16.772341192546573,
+    "longitude": -99.37276754658383
+  },
+  {
+    "municipality": "San Miguel Totolapan",
+    "latitude": 17.852475990950232,
+    "longitude": -100.3035054705882
+  },
+  {
+    "municipality": "Taxco de Alarcón",
+    "latitude": 18.547642482014382,
+    "longitude": -99.63032047482014
+  },
+  {
+    "municipality": "Tecoanapa",
+    "latitude": 16.97404486764706,
+    "longitude": -99.26393702941178
+  },
+  {
+    "municipality": "Técpan de Galeana",
+    "latitude": 17.37551350826448,
+    "longitude": -100.76427415702477
+  },
+  {
+    "municipality": "Teloloapan",
+    "latitude": 18.35817099156118,
+    "longitude": -99.93998398312235
+  },
+  {
+    "municipality": "Tepecoacuilco de Trujano",
+    "latitude": 18.146196246753245,
+    "longitude": -99.47311462337659
+  },
+  {
+    "municipality": "Tetipac",
+    "latitude": 18.652106092592593,
+    "longitude": -99.67790416666666
+  },
+  {
+    "municipality": "Tierra Colorada (Juan R. Escudero)",
+    "latitude": 17.133092355555558,
+    "longitude": -99.50837371111113
+  },
+  {
+    "municipality": "Tixtla de Guerrero",
+    "latitude": 17.58061218461539,
+    "longitude": -99.37914950769232
+  },
+  {
+    "municipality": "Tlacoachistlahuaca",
+    "latitude": 16.932800232558144,
+    "longitude": -98.25857320930231
+  },
+  {
+    "municipality": "Tlacoapa",
+    "latitude": 17.245274492063494,
+    "longitude": -98.76981877777779
+  },
+  {
+    "municipality": "Tlalchapa",
+    "latitude": 18.429651000000003,
+    "longitude": -100.453511625
+  },
+  {
+    "municipality": "Tlalixtaquilla de Maldonado",
+    "latitude": 17.575079315789473,
+    "longitude": -98.39338905263158
+  },
+  {
+    "municipality": "Tlapa de Comonfort",
+    "latitude": 17.53567587323944,
+    "longitude": -98.60506854225348
+  },
+  {
+    "municipality": "Tlapehuala",
+    "latitude": 18.27245214285714,
+    "longitude": -100.4517069047619
+  },
+  {
+    "municipality": "Xalpatláhuac",
+    "latitude": 17.44625720689655,
+    "longitude": -98.58153579310343
+  },
+  {
+    "municipality": "Xochihuehuetlán",
+    "latitude": 17.905833136363636,
+    "longitude": -98.51742863636363
+  },
+  {
+    "municipality": "Xochistlahuaca",
+    "latitude": 16.810041959677427,
+    "longitude": -98.19014166129031
+  },
+  {
+    "municipality": "Zapotitlán Tablas",
+    "latitude": 17.39510810638298,
+    "longitude": -98.79763765957446
+  },
+  {
+    "municipality": "Zihuatanejo de Azueta",
+    "latitude": 17.808758974264702,
+    "longitude": -101.4230525735293
+  },
+  {
+    "municipality": "Zirándaro",
+    "latitude": 18.3677613699732,
+    "longitude": -101.19011639142094
+  },
+  {
+    "municipality": "Zitlala",
+    "latitude": 17.720021027777776,
+    "longitude": -99.19708122222222
+  }
+]

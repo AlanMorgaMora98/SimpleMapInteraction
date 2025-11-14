@@ -1,0 +1,222 @@
+[
+  {
+    "municipality": "Abasolo",
+    "latitude": 24.10785558823529,
+    "longitude": -98.30492178074864
+  },
+  {
+    "municipality": "Aldama",
+    "latitude": 23.002100518037526,
+    "longitude": -98.02265601010104
+  },
+  {
+    "municipality": "Altamira",
+    "latitude": 22.522697329087034,
+    "longitude": -98.06494799150745
+  },
+  {
+    "municipality": "Antiguo Morelos",
+    "latitude": 22.591493103896102,
+    "longitude": -99.09906893506492
+  },
+  {
+    "municipality": "Burgos",
+    "latitude": 24.949995300448414,
+    "longitude": -98.81241335426012
+  },
+  {
+    "municipality": "Bustamante",
+    "latitude": 23.330108375000005,
+    "longitude": -99.90622775000001
+  },
+  {
+    "municipality": "Camargo",
+    "latitude": 26.23381148793567,
+    "longitude": -98.84838179088467
+  },
+  {
+    "municipality": "Casas",
+    "latitude": 23.582799739436613,
+    "longitude": -98.66993494366191
+  },
+  {
+    "municipality": "Ciudad Madero",
+    "latitude": 22.246279,
+    "longitude": -97.837
+  },
+  {
+    "municipality": "Cruillas",
+    "latitude": 24.644271761006284,
+    "longitude": -98.40074123270443
+  },
+  {
+    "municipality": "El Mante",
+    "latitude": 22.670352922885577,
+    "longitude": -98.93613623880594
+  },
+  {
+    "municipality": "Gómez Farías",
+    "latitude": 22.961728485714293,
+    "longitude": -99.07799222285713
+  },
+  {
+    "municipality": "González",
+    "latitude": 22.761318363001745,
+    "longitude": -98.53680096858642
+  },
+  {
+    "municipality": "Guerrero",
+    "latitude": 26.919279842105258,
+    "longitude": -99.46488603383459
+  },
+  {
+    "municipality": "Gustavo Díaz Ordaz",
+    "latitude": 26.161438357843153,
+    "longitude": -98.64117371568621
+  },
+  {
+    "municipality": "Güémez",
+    "latitude": 23.90834320738637,
+    "longitude": -99.07496531818182
+  },
+  {
+    "municipality": "Hidalgo",
+    "latitude": 24.215014555555573,
+    "longitude": -99.36036518148141
+  },
+  {
+    "municipality": "Jaumave",
+    "latitude": 23.449798141666665,
+    "longitude": -99.39930930833334
+  },
+  {
+    "municipality": "Jiménez",
+    "latitude": 24.26402711842106,
+    "longitude": -98.49727017105265
+  },
+  {
+    "municipality": "Llera",
+    "latitude": 23.26795191315789,
+    "longitude": -98.92544647105254
+  },
+  {
+    "municipality": "Mainero",
+    "latitude": 24.582112125000005,
+    "longitude": -99.56706397727272
+  },
+  {
+    "municipality": "Matamoros",
+    "latitude": 25.733287025438635,
+    "longitude": -97.59999856666667
+  },
+  {
+    "municipality": "Méndez",
+    "latitude": 25.23191414028777,
+    "longitude": -98.4596726079137
+  },
+  {
+    "municipality": "Mier",
+    "latitude": 26.43052004166667,
+    "longitude": -99.23611294444441
+  },
+  {
+    "municipality": "Miguel Alemán",
+    "latitude": 26.275019427536222,
+    "longitude": -99.05611860869567
+  },
+  {
+    "municipality": "Miquihuana",
+    "latitude": 23.5979812,
+    "longitude": -99.77611052000002
+  },
+  {
+    "municipality": "Nuevo Laredo",
+    "latitude": 27.454088176165808,
+    "longitude": -99.62683573057001
+  },
+  {
+    "municipality": "Nuevo Morelos",
+    "latitude": 22.500180464285716,
+    "longitude": -99.20114716071434
+  },
+  {
+    "municipality": "Ocampo",
+    "latitude": 22.836692770334942,
+    "longitude": -99.28503949282295
+  },
+  {
+    "municipality": "Padilla",
+    "latitude": 24.057906567901227,
+    "longitude": -98.8972847489712
+  },
+  {
+    "municipality": "Palmillas",
+    "latitude": 23.237760617647062,
+    "longitude": -99.55407176470588
+  },
+  {
+    "municipality": "Reynosa",
+    "latitude": 25.934264759154956,
+    "longitude": -98.34784415633808
+  },
+  {
+    "municipality": "Río Bravo",
+    "latitude": 25.842598831715176,
+    "longitude": -98.03960509708723
+  },
+  {
+    "municipality": "San Carlos",
+    "latitude": 24.403274896103877,
+    "longitude": -98.98642335389603
+  },
+  {
+    "municipality": "San Fernando",
+    "latitude": 24.920109970914144,
+    "longitude": -98.02534144598339
+  },
+  {
+    "municipality": "San Nicolás",
+    "latitude": 24.647056166666665,
+    "longitude": -98.80530946666666
+  },
+  {
+    "municipality": "Soto la Marina",
+    "latitude": 23.732741355769235,
+    "longitude": -98.02908923763746
+  },
+  {
+    "municipality": "Tacotalpa",
+    "latitude": 22.968492599999998,
+    "longitude": -99.70987535757575
+  },
+  {
+    "municipality": "Tampico",
+    "latitude": 22.289927714285714,
+    "longitude": -97.93513842857143
+  },
+  {
+    "municipality": "Tula",
+    "latitude": 22.968492599999998,
+    "longitude": -99.70987535757575
+  },
+  {
+    "municipality": "Valle Hermoso",
+    "latitude": 25.69409427220631,
+    "longitude": -97.83345642979943
+  },
+  {
+    "municipality": "Victoria",
+    "latitude": 23.76415620689657,
+    "longitude": -99.13857754083489
+  },
+  {
+    "municipality": "Villagrán",
+    "latitude": 24.51984555172412,
+    "longitude": -99.42216373891624
+  },
+  {
+    "municipality": "Xicoténcatl",
+    "latitude": 23.011497832699618,
+    "longitude": -98.98355090494293
+  }
+]

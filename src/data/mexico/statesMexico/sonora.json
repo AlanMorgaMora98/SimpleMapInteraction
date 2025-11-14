@@ -1,0 +1,362 @@
+[
+  {
+    "municipality": "Aconchi",
+    "latitude": 29.794839153846155,
+    "longitude": -110.22066042307691
+  },
+  {
+    "municipality": "Agua Prieta",
+    "latitude": 31.201951723140496,
+    "longitude": -109.40241573553719
+  },
+  {
+    "municipality": "Alamos",
+    "latitude": 27.076593905263145,
+    "longitude": -108.90597315578941
+  },
+  {
+    "municipality": "Altar",
+    "latitude": 30.957005134969332,
+    "longitude": -111.91445947239276
+  },
+  {
+    "municipality": "Arivechi",
+    "latitude": 28.87178300833334,
+    "longitude": -109.07108684166668
+  },
+  {
+    "municipality": "Arizpe",
+    "latitude": 30.39656697073168,
+    "longitude": -110.16847109268288
+  },
+  {
+    "municipality": "Atil",
+    "latitude": 30.828812968749993,
+    "longitude": -111.56587687500001
+  },
+  {
+    "municipality": "Bacadéhuachi",
+    "latitude": 29.85332171428572,
+    "longitude": -109.09442088571429
+  },
+  {
+    "municipality": "Bacanora",
+    "latitude": 28.857378008000012,
+    "longitude": -109.36997232800002
+  },
+  {
+    "municipality": "Bacerac",
+    "latitude": 30.296708287500003,
+    "longitude": -108.82092136249999
+  },
+  {
+    "municipality": "Bacoachi",
+    "latitude": 30.653796271739132,
+    "longitude": -109.97980104347825
+  },
+  {
+    "municipality": "Bácum",
+    "latitude": 27.51578428196721,
+    "longitude": -110.10991883934433
+  },
+  {
+    "municipality": "Banámichi",
+    "latitude": 30.042859516129038,
+    "longitude": -110.24349750000002
+  },
+  {
+    "municipality": "Bavispe",
+    "latitude": 30.56618469512195,
+    "longitude": -108.96505048780493
+  },
+  {
+    "municipality": "Baviácora",
+    "latitude": 29.619284510638302,
+    "longitude": -110.14558263829788
+  },
+  {
+    "municipality": "Benito Juárez",
+    "latitude": 27.117972131736515,
+    "longitude": -109.84024085628738
+  },
+  {
+    "municipality": "Benjamín Hill",
+    "latitude": 30.197988246753244,
+    "longitude": -111.20582351948049
+  },
+  {
+    "municipality": "Caborca",
+    "latitude": 30.791985457044706,
+    "longitude": -112.50188507903773
+  },
+  {
+    "municipality": "Cajeme",
+    "latitude": 27.506780458583464,
+    "longitude": -109.93398138835538
+  },
+  {
+    "municipality": "Cananea",
+    "latitude": 30.979485163398696,
+    "longitude": -110.24906194771248
+  },
+  {
+    "municipality": "Carbó",
+    "latitude": 29.718695301470564,
+    "longitude": -111.01415772794117
+  },
+  {
+    "municipality": "Cucurpe",
+    "latitude": 30.39056518023256,
+    "longitude": -110.67532473837208
+  },
+  {
+    "municipality": "Cumpas",
+    "latitude": 30.058278645502632,
+    "longitude": -109.78915190476197
+  },
+  {
+    "municipality": "Divisaderos",
+    "latitude": 29.617393419354837,
+    "longitude": -109.39235238709675
+  },
+  {
+    "municipality": "Empalme",
+    "latitude": 28.008179274390248,
+    "longitude": -110.67992540243907
+  },
+  {
+    "municipality": "Etchojoa",
+    "latitude": 27.010667276836152,
+    "longitude": -109.66109040677962
+  },
+  {
+    "municipality": "Fronteras",
+    "latitude": 30.820832881118875,
+    "longitude": -109.61031221678324
+  },
+  {
+    "municipality": "General Plutarco Elías Calles",
+    "latitude": 31.751510393782382,
+    "longitude": -112.71743594818656
+  },
+  {
+    "municipality": "Granados",
+    "latitude": 29.787992590909095,
+    "longitude": -109.31614863636364
+  },
+  {
+    "municipality": "Guaymas",
+    "latitude": 28.051535422338578,
+    "longitude": -110.7172600767889
+  },
+  {
+    "municipality": "Hermosillo",
+    "latitude": 28.97760236200451,
+    "longitude": -111.21545066043382
+  },
+  {
+    "municipality": "Huachinera",
+    "latitude": 30.143784094594594,
+    "longitude": -108.93067286486486
+  },
+  {
+    "municipality": "Huásabas",
+    "latitude": 29.95938649295773,
+    "longitude": -109.37521173239438
+  },
+  {
+    "municipality": "Huatabampo",
+    "latitude": 26.722317100386093,
+    "longitude": -109.48417492664096
+  },
+  {
+    "municipality": "Huépac",
+    "latitude": 29.9333183125,
+    "longitude": -110.29868971874998
+  },
+  {
+    "municipality": "Imuris",
+    "latitude": 30.824146224880373,
+    "longitude": -110.79460165071768
+  },
+  {
+    "municipality": "La Colorada",
+    "latitude": 28.754827802030466,
+    "longitude": -110.4089526243655
+  },
+  {
+    "municipality": "Magdalena",
+    "latitude": 30.677392139682564,
+    "longitude": -111.01694460317468
+  },
+  {
+    "municipality": "Mazatán",
+    "latitude": 28.98247373387097,
+    "longitude": -110.1517057580645
+  },
+  {
+    "municipality": "Moctezuma",
+    "latitude": 29.764508754838694,
+    "longitude": -109.67853738709675
+  },
+  {
+    "municipality": "Naco",
+    "latitude": 31.255656409090914,
+    "longitude": -109.97638160606061
+  },
+  {
+    "municipality": "Nacozari de García",
+    "latitude": 30.416115364197534,
+    "longitude": -109.62127941358024
+  },
+  {
+    "municipality": "Nácori Chico",
+    "latitude": 29.67372146242774,
+    "longitude": -108.81725517919075
+  },
+  {
+    "municipality": "Navojoa",
+    "latitude": 27.081086089494143,
+    "longitude": -109.47453962451362
+  },
+  {
+    "municipality": "Nogales",
+    "latitude": 31.19043736734695,
+    "longitude": -110.97237714285713
+  },
+  {
+    "municipality": "Onavas",
+    "latitude": 28.452854,
+    "longitude": -109.46956286666666
+  },
+  {
+    "municipality": "Opodepe",
+    "latitude": 30.044454142045478,
+    "longitude": -110.76472231250004
+  },
+  {
+    "municipality": "Oquitoa",
+    "latitude": 30.754429441860456,
+    "longitude": -111.71349644186046
+  },
+  {
+    "municipality": "Pitiquito",
+    "latitude": 30.244932907120724,
+    "longitude": -111.97072523529415
+  },
+  {
+    "municipality": "Puerto Peñasco",
+    "latitude": 31.411046346938782,
+    "longitude": -113.26780756122454
+  },
+  {
+    "municipality": "Quiriego",
+    "latitude": 27.576619399193536,
+    "longitude": -109.38540491935484
+  },
+  {
+    "municipality": "Rayón",
+    "latitude": 29.756939569444455,
+    "longitude": -110.56155659722224
+  },
+  {
+    "municipality": "Rosario",
+    "latitude": 28.013795226720667,
+    "longitude": -109.31097712955463
+  },
+  {
+    "municipality": "Sahuaripa",
+    "latitude": 28.951718377934302,
+    "longitude": -108.97783317605627
+  },
+  {
+    "municipality": "San Felipe de Jesús",
+    "latitude": 29.863892363636364,
+    "longitude": -110.3273812727273
+  },
+  {
+    "municipality": "San Ignacio Río Muerto",
+    "latitude": 27.38836780701756,
+    "longitude": -110.25903271578944
+  },
+  {
+    "municipality": "San Javier",
+    "latitude": 28.596196366666668,
+    "longitude": -109.76403199999999
+  },
+  {
+    "municipality": "San Luis Río Colorado",
+    "latitude": 32.31678603294891,
+    "longitude": -114.8569491120264
+  },
+  {
+    "municipality": "San Miguel de Horcasitas",
+    "latitude": 29.44265259863945,
+    "longitude": -110.82268497278912
+  },
+  {
+    "municipality": "San Pedro de la Cueva",
+    "latitude": 29.28791572661871,
+    "longitude": -109.72521420143887
+  },
+  {
+    "municipality": "Santa Ana",
+    "latitude": 30.5184815669643,
+    "longitude": -111.12730112946429
+  },
+  {
+    "municipality": "Santa Cruz",
+    "latitude": 31.207457920353967,
+    "longitude": -110.57897907079649
+  },
+  {
+    "municipality": "Sáric",
+    "latitude": 31.228150050420172,
+    "longitude": -111.42791705882352
+  },
+  {
+    "municipality": "Soyopa",
+    "latitude": 28.796965806201552,
+    "longitude": -109.64529279069771
+  },
+  {
+    "municipality": "Suaqui Grande",
+    "latitude": 28.387920796296296,
+    "longitude": -109.89134107407409
+  },
+  {
+    "municipality": "Tepache",
+    "latitude": 29.476433039473694,
+    "longitude": -109.51115694736839
+  },
+  {
+    "municipality": "Trincheras",
+    "latitude": 30.391856180722897,
+    "longitude": -111.50968793975902
+  },
+  {
+    "municipality": "Tubutama",
+    "latitude": 30.856588478873242,
+    "longitude": -111.42099626056338
+  },
+  {
+    "municipality": "Ures",
+    "latitude": 29.324278267676775,
+    "longitude": -110.34344589898998
+  },
+  {
+    "municipality": "Villa Hidalgo",
+    "latitude": 30.230542939759026,
+    "longitude": -109.34445833734931
+  },
+  {
+    "municipality": "Villa Pesqueira",
+    "latitude": 29.049327666666652,
+    "longitude": -110.0036011690141
+  },
+  {
+    "municipality": "Yécora",
+    "latitude": 28.400190586956516,
+    "longitude": -108.94875384299516
+  }
+]

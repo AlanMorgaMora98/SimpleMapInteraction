@@ -1,0 +1,27 @@
+[
+  {
+    "municipality": "Ensenada",
+    "latitude": 31.233509098320347,
+    "longitude": -116.03413335231521
+  },
+  {
+    "municipality": "Mexicali",
+    "latitude": 32.379658583889224,
+    "longitude": -115.16369487429462
+  },
+  {
+    "municipality": "Playas de Rosarito",
+    "latitude": 32.28104508362371,
+    "longitude": -116.96552050522652
+  },
+  {
+    "municipality": "Tecate",
+    "latitude": 32.47758615789471,
+    "longitude": -116.46373431578955
+  },
+  {
+    "municipality": "Tijuana",
+    "latitude": 32.446259554945016,
+    "longitude": -116.88863537545794
+  }
+]

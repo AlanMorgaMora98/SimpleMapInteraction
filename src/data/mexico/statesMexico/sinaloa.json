@@ -1,0 +1,92 @@
+[
+  {
+    "municipality": "Ahome",
+    "latitude": 25.900464652495362,
+    "longitude": -109.06799226987059
+  },
+  {
+    "municipality": "Angostura",
+    "latitude": 25.294880074257414,
+    "longitude": -108.12676875742567
+  },
+  {
+    "municipality": "Badiraguato",
+    "latitude": 25.639743622641472,
+    "longitude": -107.39878647798733
+  },
+  {
+    "municipality": "Choix",
+    "latitude": 26.641297844783697,
+    "longitude": -108.2303396844784
+  },
+  {
+    "municipality": "Concordia",
+    "latitude": 23.375776023569028,
+    "longitude": -105.99535957575755
+  },
+  {
+    "municipality": "Cosalá",
+    "latitude": 24.472413575163383,
+    "longitude": -106.77540482352943
+  },
+  {
+    "municipality": "Culiacán",
+    "latitude": 24.693588665416353,
+    "longitude": -107.3523470645161
+  },
+  {
+    "municipality": "El Fuerte",
+    "latitude": 26.206594585106416,
+    "longitude": -108.73611956170217
+  },
+  {
+    "municipality": "Elota",
+    "latitude": 24.034007337078652,
+    "longitude": -106.84624399438209
+  },
+  {
+    "municipality": "Escuinapa",
+    "latitude": 22.72893823076923,
+    "longitude": -105.72925731983808
+  },
+  {
+    "municipality": "Guasave",
+    "latitude": 25.574633662121204,
+    "longitude": -108.509266019697
+  },
+  {
+    "municipality": "Mazatlán",
+    "latitude": 23.377544182274203,
+    "longitude": -106.34917257190628
+  },
+  {
+    "municipality": "Mocorito",
+    "latitude": 25.332209258575205,
+    "longitude": -107.77614464379947
+  },
+  {
+    "municipality": "Navolato",
+    "latitude": 24.734270069767437,
+    "longitude": -107.69116128118385
+  },
+  {
+    "municipality": "Rosario",
+    "latitude": 23.02010049373433,
+    "longitude": -105.85940938095243
+  },
+  {
+    "municipality": "Salvador Alvarado",
+    "latitude": 25.426002318749987,
+    "longitude": -108.07396423750004
+  },
+  {
+    "municipality": "San Ignacio",
+    "latitude": 23.954433077562328,
+    "longitude": -106.41089450692516
+  },
+  {
+    "municipality": "Sinaloa",
+    "latitude": 25.93500904704098,
+    "longitude": -108.09953810166921
+  }
+]

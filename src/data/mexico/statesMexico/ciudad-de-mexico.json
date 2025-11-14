@@ -1,0 +1,82 @@
+[
+  {
+    "municipality": "Azcapotzalco",
+    "latitude": 19.484103,
+    "longitude": -99.184361
+  },
+  {
+    "municipality": "Benito Juárez",
+    "latitude": 19.371992,
+    "longitude": -99.157853
+  },
+  {
+    "municipality": "Cuajimalpa de Morelos",
+    "latitude": 19.335841043478258,
+    "longitude": -99.3180034347826
+  },
+  {
+    "municipality": "Cuauhtémoc",
+    "latitude": 19.441647,
+    "longitude": -99.151884
+  },
+  {
+    "municipality": "Coyoacán",
+    "latitude": 19.350214,
+    "longitude": -99.162146
+  },
+  {
+    "municipality": "Gustavo A. Madero",
+    "latitude": 19.482945,
+    "longitude": -99.113471
+  },
+  {
+    "municipality": "Iztacalco",
+    "latitude": 19.395901,
+    "longitude": -99.097613
+  },
+  {
+    "municipality": "Iztapalapa",
+    "latitude": 19.359004,
+    "longitude": -99.092623
+  },
+  {
+    "municipality": "La Magdalena Contreras",
+    "latitude": 19.26955747058824,
+    "longitude": -99.26275623529412
+  },
+  {
+    "municipality": "Miguel Hidalgo",
+    "latitude": 19.407269,
+    "longitude": -99.190754
+  },
+  {
+    "municipality": "Milpa Alta",
+    "latitude": 19.190794493562237,
+    "longitude": -99.04233539484983
+  },
+  {
+    "municipality": "Tláhuac",
+    "latitude": 19.2705912,
+    "longitude": -98.99288806000003
+  },
+  {
+    "municipality": "Tlalpan",
+    "latitude": 19.200107455445547,
+    "longitude": -99.2021848069307
+  },
+  {
+    "municipality": "Venustiano Carranza",
+    "latitude": 19.419262,
+    "longitude": -99.113701
+  },
+  {
+    "municipality": "Xochimilco",
+    "latitude": 19.22984293877551,
+    "longitude": -99.09860969387755
+  },
+  {
+    "municipality": "Álvaro Obregón",
+    "latitude": 19.31235911111111,
+    "longitude": -99.27084222222223
+  }
+]

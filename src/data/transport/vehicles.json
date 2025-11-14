@@ -1,0 +1,16 @@
+[{
+    "type": "motorbike",
+    "children": null
+},
+{
+    "type": "car",
+    "children": null
+},
+{
+    "type": "bus",
+    "children": "data/transport/busDescription.json"
+},
+{
+    "type": "truck",
+    "children": "data/transport/truckDescription.json"
+}]

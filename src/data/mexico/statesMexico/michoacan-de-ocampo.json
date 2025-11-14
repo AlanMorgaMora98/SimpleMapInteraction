@@ -1,0 +1,567 @@
+[
+  {
+    "municipality": "Álvaro Obregón",
+    "latitude": 19.862649796610174,
+    "longitude": -101.01978472881362
+  },
+  {
+    "municipality": "Acuitzio",
+    "latitude": 19.47093217777778,
+    "longitude": -101.32892668888891
+  },
+  {
+    "municipality": "Aguililla",
+    "latitude": 18.772016897435897,
+    "longitude": -102.7640239487179
+  },
+  {
+    "municipality": "Angamacutiro",
+    "latitude": 20.13494229032258,
+    "longitude": -101.7269407096774
+  },
+  {
+    "municipality": "Angangueo",
+    "latitude": 19.62203560869565,
+    "longitude": -100.30203565217391
+  },
+  {
+    "municipality": "Apatzingán",
+    "latitude": 18.98301457525083,
+    "longitude": -102.42248141471566
+  },
+  {
+    "municipality": "Aporo",
+    "latitude": 19.656269785714283,
+    "longitude": -100.39650385714285
+  },
+  {
+    "municipality": "Aquila",
+    "latitude": 18.376067160747652,
+    "longitude": -103.22506826728979
+  },
+  {
+    "municipality": "Ario",
+    "latitude": 19.16219992907801,
+    "longitude": -101.70664370921982
+  },
+  {
+    "municipality": "Arteaga",
+    "latitude": 18.323882372916668,
+    "longitude": -102.3680899770834
+  },
+  {
+    "municipality": "Buenavista",
+    "latitude": 19.191100609022556,
+    "longitude": -102.58339163157898
+  },
+  {
+    "municipality": "Briseñas",
+    "latitude": 20.251776181818183,
+    "longitude": -102.57031827272726
+  },
+  {
+    "municipality": "Carácuaro",
+    "latitude": 18.987142230769237,
+    "longitude": -101.04189031221718
+  },
+  {
+    "municipality": "Charapan",
+    "latitude": 19.658048214285714,
+    "longitude": -102.24499571428571
+  },
+  {
+    "municipality": "Charo",
+    "latitude": 19.659484791208786,
+    "longitude": -101.0128815054945
+  },
+  {
+    "municipality": "Chavinda",
+    "latitude": 20.04745909090909,
+    "longitude": -102.43872786363637
+  },
+  {
+    "municipality": "Cherán",
+    "latitude": 19.71250542857143,
+    "longitude": -102.002324
+  },
+  {
+    "municipality": "Chilchota",
+    "latitude": 19.83793432,
+    "longitude": -102.09078548
+  },
+  {
+    "municipality": "Chinicuila",
+    "latitude": 18.722323726872247,
+    "longitude": -103.38940804405284
+  },
+  {
+    "municipality": "Chucándiro",
+    "latitude": 19.891482190476193,
+    "longitude": -101.34840814285714
+  },
+  {
+    "municipality": "Churintzio",
+    "latitude": 20.13075164,
+    "longitude": -102.07595291999998
+  },
+  {
+    "municipality": "Churumuco",
+    "latitude": 18.706570326530606,
+    "longitude": -101.61118481632658
+  },
+  {
+    "municipality": "Coahuayana",
+    "latitude": 18.72699768518519,
+    "longitude": -103.63844950925932
+  },
+  {
+    "municipality": "Coalcomán de Vázquez Pallares",
+    "latitude": 18.674013639639632,
+    "longitude": -103.1107582288288
+  },
+  {
+    "municipality": "Coeneo",
+    "latitude": 19.81218804761905,
+    "longitude": -101.61833292857145
+  },
+  {
+    "municipality": "Cojumatlán de Régules",
+    "latitude": 20.11411525,
+    "longitude": -102.8705225625
+  },
+  {
+    "municipality": "Contepec",
+    "latitude": 19.9551871875,
+    "longitude": -100.21331941249997
+  },
+  {
+    "municipality": "Copándaro",
+    "latitude": 19.88981236842105,
+    "longitude": -101.23932742105264
+  },
+  {
+    "municipality": "Cotija",
+    "latitude": 19.74519905434782,
+    "longitude": -102.71024910869562
+  },
+  {
+    "municipality": "Cuitzeo",
+    "latitude": 19.99827116666667,
+    "longitude": -101.14330979999998
+  },
+  {
+    "municipality": "Ecuandureo",
+    "latitude": 20.154237882352945,
+    "longitude": -102.22608708823529
+  },
+  {
+    "municipality": "Epitacio Huerta",
+    "latitude": 20.144759639534886,
+    "longitude": -100.28574253488374
+  },
+  {
+    "municipality": "Erongarícuaro",
+    "latitude": 19.593180259259263,
+    "longitude": -101.71938025925927
+  },
+  {
+    "municipality": "Gabriel Zamora",
+    "latitude": 19.177588098039216,
+    "longitude": -102.01539284313729
+  },
+  {
+    "municipality": "Hidalgo",
+    "latitude": 19.590336256198327,
+    "longitude": -100.66882315151518
+  },
+  {
+    "municipality": "Huandacareo",
+    "latitude": 19.978596291666666,
+    "longitude": -101.28477645833334
+  },
+  {
+    "municipality": "Huaniqueo",
+    "latitude": 19.89444622580645,
+    "longitude": -101.51255632258065
+  },
+  {
+    "municipality": "Huetamo",
+    "latitude": 18.66266745197739,
+    "longitude": -101.05847000564972
+  },
+  {
+    "municipality": "Huiramba",
+    "latitude": 19.5251331,
+    "longitude": -101.46195710000002
+  },
+  {
+    "municipality": "Indaparapeo",
+    "latitude": 19.766340739999997,
+    "longitude": -100.94934804
+  },
+  {
+    "municipality": "Irimbo",
+    "latitude": 19.708521431818188,
+    "longitude": -100.46432361363635
+  },
+  {
+    "municipality": "Ixtlán",
+    "latitude": 20.14254464864865,
+    "longitude": -102.41198381081082
+  },
+  {
+    "municipality": "Jacona",
+    "latitude": 19.948691317460323,
+    "longitude": -102.31915992063496
+  },
+  {
+    "municipality": "Jiménez",
+    "latitude": 19.924049241379315,
+    "longitude": -101.729557
+  },
+  {
+    "municipality": "Jiquilpan",
+    "latitude": 19.98407727777778,
+    "longitude": -102.75411253703707
+  },
+  {
+    "municipality": "José Sixto Verduzco",
+    "latitude": 20.277275825,
+    "longitude": -101.56066275000002
+  },
+  {
+    "municipality": "Juárez",
+    "latitude": 19.304560057692317,
+    "longitude": -100.43335315384616
+  },
+  {
+    "municipality": "Jungapeo",
+    "latitude": 19.44918632954545,
+    "longitude": -100.51496242045451
+  },
+  {
+    "municipality": "La Huacana",
+    "latitude": 18.8853239122807,
+    "longitude": -101.87498008771928
+  },
+  {
+    "municipality": "La Piedad",
+    "latitude": 20.317286381944438,
+    "longitude": -102.03382855555554
+  },
+  {
+    "municipality": "Lagunillas",
+    "latitude": 19.570896066666666,
+    "longitude": -101.4191814
+  },
+  {
+    "municipality": "Lázaro Cárdenas",
+    "latitude": 18.071968419117642,
+    "longitude": -102.3868579522058
+  },
+  {
+    "municipality": "Los Reyes",
+    "latitude": 19.6498849516129,
+    "longitude": -102.41267600000005
+  },
+  {
+    "municipality": "Madero",
+    "latitude": 19.335147266288956,
+    "longitude": -101.1535164532578
+  },
+  {
+    "municipality": "Maravatío",
+    "latitude": 19.890178074324325,
+    "longitude": -100.42410372297294
+  },
+  {
+    "municipality": "Marcos Castellanos",
+    "latitude": 20.03551095555556,
+    "longitude": -102.97242351111112
+  },
+  {
+    "municipality": "Morelia",
+    "latitude": 19.65227897329378,
+    "longitude": -101.25455176557868
+  },
+  {
+    "municipality": "Morelos",
+    "latitude": 19.992717151515148,
+    "longitude": -101.43633015151512
+  },
+  {
+    "municipality": "Múgica",
+    "latitude": 18.98336430769231,
+    "longitude": -102.12298603076925
+  },
+  {
+    "municipality": "Nahuatzen",
+    "latitude": 19.627218411764705,
+    "longitude": -101.89737364705881
+  },
+  {
+    "municipality": "Nocupétaro",
+    "latitude": 19.1136761754386,
+    "longitude": -101.21408477777779
+  },
+  {
+    "municipality": "Numarán",
+    "latitude": 20.27221459375,
+    "longitude": -101.963564
+  },
+  {
+    "municipality": "Nuevo Parangaricutiro",
+    "latitude": 19.392256815789477,
+    "longitude": -102.1818097894737
+  },
+  {
+    "municipality": "Nuevo Urecho",
+    "latitude": 19.154020434782616,
+    "longitude": -101.86094750000002
+  },
+  {
+    "municipality": "Ocampo",
+    "latitude": 19.584247547619043,
+    "longitude": -100.34248283333334
+  },
+  {
+    "municipality": "Pajacuarán",
+    "latitude": 20.13494666666667,
+    "longitude": -102.52613742857143
+  },
+  {
+    "municipality": "Panindícuaro",
+    "latitude": 20.009342820512828,
+    "longitude": -101.76260861538461
+  },
+  {
+    "municipality": "Paracho",
+    "latitude": 19.642862815789478,
+    "longitude": -102.06010702631578
+  },
+  {
+    "municipality": "Parácuaro",
+    "latitude": 19.047233747474746,
+    "longitude": -102.22447593939388
+  },
+  {
+    "municipality": "Pátzcuaro",
+    "latitude": 19.507687423076934,
+    "longitude": -101.58243426923075
+  },
+  {
+    "municipality": "Penjamillo",
+    "latitude": 20.13415355223881,
+    "longitude": -101.91275211940295
+  },
+  {
+    "municipality": "Peribán",
+    "latitude": 19.502825240384613,
+    "longitude": -102.4286721730769
+  },
+  {
+    "municipality": "Purépero",
+    "latitude": 19.90635575,
+    "longitude": -101.99713409375002
+  },
+  {
+    "municipality": "Puruándiro",
+    "latitude": 20.11340694366198,
+    "longitude": -101.52290264788734
+  },
+  {
+    "municipality": "Queréndaro",
+    "latitude": 19.694929951219514,
+    "longitude": -100.84202136585365
+  },
+  {
+    "municipality": "Quiroga",
+    "latitude": 19.672811052631584,
+    "longitude": -101.54593231578947
+  },
+  {
+    "municipality": "Sahuayo",
+    "latitude": 20.057762395348842,
+    "longitude": -102.75189088372093
+  },
+  {
+    "municipality": "Salvador Escalante",
+    "latitude": 19.373129754901964,
+    "longitude": -101.6954348039216
+  },
+  {
+    "municipality": "San Lucas",
+    "latitude": 18.536830761904767,
+    "longitude": -100.75004542857141
+  },
+  {
+    "municipality": "Santa Ana Maya",
+    "latitude": 20.04015903846154,
+    "longitude": -101.04089373076924
+  },
+  {
+    "municipality": "Senguio",
+    "latitude": 19.752475467741935,
+    "longitude": -100.33957648387099
+  },
+  {
+    "municipality": "Susupuato",
+    "latitude": 19.19584600000001,
+    "longitude": -100.40688950000003
+  },
+  {
+    "municipality": "Tacámbaro",
+    "latitude": 19.239655956730765,
+    "longitude": -101.4473472788462
+  },
+  {
+    "municipality": "Tancítaro",
+    "latitude": 19.310344863636377,
+    "longitude": -102.34972074999997
+  },
+  {
+    "municipality": "Tangamandapio",
+    "latitude": 19.91043165517241,
+    "longitude": -102.43826493103448
+  },
+  {
+    "municipality": "Tangancícuaro",
+    "latitude": 19.88364766666666,
+    "longitude": -102.23094483333335
+  },
+  {
+    "municipality": "Tanhuato",
+    "latitude": 20.284989826086957,
+    "longitude": -102.33892165217392
+  },
+  {
+    "municipality": "Taretan",
+    "latitude": 19.328142296296296,
+    "longitude": -101.91035659259258
+  },
+  {
+    "municipality": "Tarímbaro",
+    "latitude": 19.7914954015748,
+    "longitude": -101.15028870866142
+  },
+  {
+    "municipality": "Tepalcatepec",
+    "latitude": 19.05699834285715,
+    "longitude": -102.84359900952386
+  },
+  {
+    "municipality": "Tingambato",
+    "latitude": 19.494846388888888,
+    "longitude": -101.86400261111112
+  },
+  {
+    "municipality": "Tingüindín",
+    "latitude": 19.780803037037035,
+    "longitude": -102.4987167777778
+  },
+  {
+    "municipality": "Tiquicheo de Nicolás Romero",
+    "latitude": 19.079351744186052,
+    "longitude": -100.8221458039867
+  },
+  {
+    "municipality": "Tlalpujahua",
+    "latitude": 19.78033424242424,
+    "longitude": -100.19686646969696
+  },
+  {
+    "municipality": "Tlazazalca",
+    "latitude": 19.99971132142857,
+    "longitude": -102.07330835714284
+  },
+  {
+    "municipality": "Tocumbo",
+    "latitude": 19.61986135869565,
+    "longitude": -102.60197461956524
+  },
+  {
+    "municipality": "Tumbiscatío",
+    "latitude": 18.54372338387097,
+    "longitude": -102.52339602580648
+  },
+  {
+    "municipality": "Turicato",
+    "latitude": 18.95831404907976,
+    "longitude": -101.42350557055218
+  },
+  {
+    "municipality": "Tuxpan",
+    "latitude": 19.567833341176478,
+    "longitude": -100.48594348235294
+  },
+  {
+    "municipality": "Tuzantla",
+    "latitude": 19.244053232758635,
+    "longitude": -100.61857731465523
+  },
+  {
+    "municipality": "Tzintzuntzan",
+    "latitude": 19.604962930232553,
+    "longitude": -101.5498184883721
+  },
+  {
+    "municipality": "Tzitzio",
+    "latitude": 19.446534725947526,
+    "longitude": -100.90925926530602
+  },
+  {
+    "municipality": "Uruapan",
+    "latitude": 19.42650456,
+    "longitude": -102.0969500433333
+  },
+  {
+    "municipality": "Venustiano Carranza",
+    "latitude": 20.125772666666673,
+    "longitude": -102.66939120512818
+  },
+  {
+    "municipality": "Villamar",
+    "latitude": 19.96069772222222,
+    "longitude": -102.59906911111113
+  },
+  {
+    "municipality": "Vista Hermosa",
+    "latitude": 20.27761731818182,
+    "longitude": -102.45755377272727
+  },
+  {
+    "municipality": "Yurécuaro",
+    "latitude": 20.31210437931034,
+    "longitude": -102.24752196551725
+  },
+  {
+    "municipality": "Zacapu",
+    "latitude": 19.815035684931512,
+    "longitude": -101.80241889041095
+  },
+  {
+    "municipality": "Zamora",
+    "latitude": 20.021590944827594,
+    "longitude": -102.2869160068965
+  },
+  {
+    "municipality": "Zináparo",
+    "latitude": 20.16982515,
+    "longitude": -101.9992444
+  },
+  {
+    "municipality": "Zinapécuaro",
+    "latitude": 19.86907060185185,
+    "longitude": -100.74441825925929
+  },
+  {
+    "municipality": "Ziracuaretiro",
+    "latitude": 19.415858116279068,
+    "longitude": -101.90677360465118
+  },
+  {
+    "municipality": "Zitácuaro",
+    "latitude": 19.43295525730993,
+    "longitude": -100.35648307602341
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "municipality": "Aguascalientes",
+    "latitude": 21.83211951355421,
+    "longitude": -102.28227977560229
+  },
+  {
+    "municipality": "Asientos",
+    "latitude": 22.137366986486487,
+    "longitude": -102.04127593243243
+  },
+  {
+    "municipality": "Calvillo",
+    "latitude": 21.87956459333333,
+    "longitude": -102.71521499666666
+  },
+  {
+    "municipality": "Cosío",
+    "latitude": 22.358808529411768,
+    "longitude": -102.28053835294119
+  },
+  {
+    "municipality": "El Llano",
+    "latitude": 21.881600565217415,
+    "longitude": -102.07877198550726
+  },
+  {
+    "municipality": "Jesús María",
+    "latitude": 21.94769985849055,
+    "longitude": -102.38289982704393
+  },
+  {
+    "municipality": "Pabellón de Arteaga",
+    "latitude": 22.11865607421876,
+    "longitude": -102.28290475000006
+  },
+  {
+    "municipality": "Rincón de Romos",
+    "latitude": 22.216096220447287,
+    "longitude": -102.3008352236421
+  },
+  {
+    "municipality": "San Francisco de los Romo",
+    "latitude": 22.036776283185844,
+    "longitude": -102.2610863539823
+  },
+  {
+    "municipality": "San José de Gracia",
+    "latitude": 22.16348843801655,
+    "longitude": -102.52903085123963
+  },
+  {
+    "municipality": "Tepezalá",
+    "latitude": 22.224494412698405,
+    "longitude": -102.2297794920635
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "municipality": "Apozol",
+    "latitude": 21.46765087837838,
+    "longitude": -103.05567445945945
+  },
+  {
+    "municipality": "Apulco",
+    "latitude": 21.466728230769235,
+    "longitude": -102.69325282051285
+  },
+  {
+    "municipality": "Atolinga",
+    "latitude": 21.777348071428573,
+    "longitude": -103.44681392857142
+  },
+  {
+    "municipality": "Benito Juárez",
+    "latitude": 21.50427595348837,
+    "longitude": -103.56745413953486
+  },
+  {
+    "municipality": "Calera",
+    "latitude": 22.982421485029942,
+    "longitude": -102.69119586826349
+  },
+  {
+    "municipality": "Cañitas de Felipe Pescador",
+    "latitude": 23.579092533333327,
+    "longitude": -102.71785186666666
+  },
+  {
+    "municipality": "Chalchihuites",
+    "latitude": 23.44221430612245,
+    "longitude": -103.89617108163263
+  },
+  {
+    "municipality": "Concepción del Oro",
+    "latitude": 24.53133042727273,
+    "longitude": -101.29404937272726
+  },
+  {
+    "municipality": "Cuauhtémoc",
+    "latitude": 22.480983491803272,
+    "longitude": -102.34677011475408
+  },
+  {
+    "municipality": "El Plateado de Joaquín Amaro",
+    "latitude": 22.00092279310345,
+    "longitude": -103.0551737586207
+  },
+  {
+    "municipality": "El Salvador",
+    "latitude": 24.47096257377049,
+    "longitude": -100.91742650819674
+  },
+  {
+    "municipality": "Fresnillo",
+    "latitude": 23.226524776595706,
+    "longitude": -102.97090755186159
+  },
+  {
+    "municipality": "Genaro Codina",
+    "latitude": 22.5023579868421,
+    "longitude": -102.51863985526316
+  },
+  {
+    "municipality": "General Enrique Estrada",
+    "latitude": 23.017130839506176,
+    "longitude": -102.7676822345679
+  },
+  {
+    "municipality": "General Francisco R. Murguía",
+    "latitude": 24.102374320610686,
+    "longitude": -102.93897215267182
+  },
+  {
+    "municipality": "General Pánfilo Natera",
+    "latitude": 22.65577494366197,
+    "longitude": -102.09677577464787
+  },
+  {
+    "municipality": "Guadalupe",
+    "latitude": 22.729888398963734,
+    "longitude": -102.4633360310881
+  },
+  {
+    "municipality": "Huanusco",
+    "latitude": 21.74981331884058,
+    "longitude": -102.89009220289857
+  },
+  {
+    "municipality": "Jalpa",
+    "latitude": 21.636119877358492,
+    "longitude": -102.97582876415089
+  },
+  {
+    "municipality": "Jerez",
+    "latitude": 22.690748838427954,
+    "longitude": -103.00068789956335
+  },
+  {
+    "municipality": "Jiménez del Teul",
+    "latitude": 23.172628539823013,
+    "longitude": -103.8666075044248
+  },
+  {
+    "municipality": "Juan Aldama",
+    "latitude": 24.25818222499999,
+    "longitude": -103.32716475000002
+  },
+  {
+    "municipality": "Juchipila",
+    "latitude": 21.38343012280702,
+    "longitude": -103.10533884210527
+  },
+  {
+    "municipality": "Loreto",
+    "latitude": 22.270505673076926,
+    "longitude": -101.9290253269231
+  },
+  {
+    "municipality": "Luis Moya",
+    "latitude": 22.438252949999995,
+    "longitude": -102.2513061875
+  },
+  {
+    "municipality": "Mazapil",
+    "latitude": 24.431592538194433,
+    "longitude": -101.8868549618056
+  },
+  {
+    "municipality": "Melchor Ocampo",
+    "latitude": 24.831315750000005,
+    "longitude": -101.78856510416665
+  },
+  {
+    "municipality": "Mezquital del Oro",
+    "latitude": 21.20469015151515,
+    "longitude": -103.34708290909087
+  },
+  {
+    "municipality": "Miguel Auza",
+    "latitude": 24.149062908256884,
+    "longitude": -103.46286953211006
+  },
+  {
+    "municipality": "Momax",
+    "latitude": 21.93456194285714,
+    "longitude": -103.29515885714284
+  },
+  {
+    "municipality": "Monte Escobedo",
+    "latitude": 22.390544880952397,
+    "longitude": -103.49063617857139
+  },
+  {
+    "municipality": "Morelos",
+    "latitude": 22.863376764705876,
+    "longitude": -102.6442022156863
+  },
+  {
+    "municipality": "Moyahua de Estrada",
+    "latitude": 21.180593420454553,
+    "longitude": -103.16700128409092
+  },
+  {
+    "municipality": "Nochistlán de Mejía",
+    "latitude": 21.441409139423097,
+    "longitude": -102.85080315865386
+  },
+  {
+    "municipality": "Noria de Ángeles",
+    "latitude": 22.384371431372543,
+    "longitude": -101.89490113725493
+  },
+  {
+    "municipality": "Ojocaliente",
+    "latitude": 22.57837265277777,
+    "longitude": -102.2423938194445
+  },
+  {
+    "municipality": "Pinos",
+    "latitude": 22.27089407449856,
+    "longitude": -101.54350862750714
+  },
+  {
+    "municipality": "Pánuco",
+    "latitude": 23.01802012980771,
+    "longitude": -102.4311260913461
+  },
+  {
+    "municipality": "Río Grande",
+    "latitude": 23.80821203092784,
+    "longitude": -103.06820370103095
+  },
+  {
+    "municipality": "Sain Alto",
+    "latitude": 23.596151030927835,
+    "longitude": -103.27155836082474
+  },
+  {
+    "municipality": "Santa María de la Paz",
+    "latitude": 21.514028000000003,
+    "longitude": -103.36127480952382
+  },
+  {
+    "municipality": "Sombrerete",
+    "latitude": 23.6440187962963,
+    "longitude": -103.61344145555549
+  },
+  {
+    "municipality": "Susticacán",
+    "latitude": 22.612830375,
+    "longitude": -103.1480825
+  },
+  {
+    "municipality": "Tabasco",
+    "latitude": 21.910193099999997,
+    "longitude": -102.93615447142855
+  },
+  {
+    "municipality": "Tepechitlán",
+    "latitude": 21.628149616438357,
+    "longitude": -103.32883121917811
+  },
+  {
+    "municipality": "Tepetongo",
+    "latitude": 22.455358306666675,
+    "longitude": -103.13466038666668
+  },
+  {
+    "municipality": "Teúl de González Ortega",
+    "latitude": 21.369105239669423,
+    "longitude": -103.45565163636363
+  },
+  {
+    "municipality": "Tlaltenango de Sánchez Román",
+    "latitude": 21.776602885416676,
+    "longitude": -103.24593110416662
+  },
+  {
+    "municipality": "Trancoso",
+    "latitude": 22.754187302325587,
+    "longitude": -102.32111804651161
+  },
+  {
+    "municipality": "Trinidad García de la Cadena",
+    "latitude": 21.221932000000002,
+    "longitude": -103.49414742528732
+  },
+  {
+    "municipality": "Valparaíso",
+    "latitude": 22.77392851871658,
+    "longitude": -103.70434341443863
+  },
+  {
+    "municipality": "Vetagrande",
+    "latitude": 22.85051875,
+    "longitude": -102.4873618
+  },
+  {
+    "municipality": "Villa García",
+    "latitude": 22.132532153846153,
+    "longitude": -101.90636247692308
+  },
+  {
+    "municipality": "Villa González Ortega",
+    "latitude": 22.54095285915493,
+    "longitude": -101.94970439436622
+  },
+  {
+    "municipality": "Villa Hidalgo",
+    "latitude": 22.391547955223874,
+    "longitude": -101.74055950746265
+  },
+  {
+    "municipality": "Villa de Cos",
+    "latitude": 23.464640179144386,
+    "longitude": -102.25572725935822
+  },
+  {
+    "municipality": "Villanueva",
+    "latitude": 22.28633929885056,
+    "longitude": -102.85803502873569
+  },
+  {
+    "municipality": "Zacatecas",
+    "latitude": 22.73766897058824,
+    "longitude": -102.67218573529412
+  }
+]

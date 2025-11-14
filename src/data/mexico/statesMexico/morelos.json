@@ -1,0 +1,167 @@
+[
+  {
+    "municipality": "Amacuzac",
+    "latitude": 18.6005712826087,
+    "longitude": -99.37330132608695
+  },
+  {
+    "municipality": "Atlatlahucan",
+    "latitude": 18.935739479166667,
+    "longitude": -98.89542393749997
+  },
+  {
+    "municipality": "Ayala",
+    "latitude": 18.724311517857156,
+    "longitude": -98.95218860714287
+  },
+  {
+    "municipality": "Axochiapan",
+    "latitude": 18.517477591549294,
+    "longitude": -98.74672308450705
+  },
+  {
+    "municipality": "Coatlán del Río",
+    "latitude": 18.731186,
+    "longitude": -99.44930673913045
+  },
+  {
+    "municipality": "Cuautla",
+    "latitude": 18.82221664615385,
+    "longitude": -98.95201347692309
+  },
+  {
+    "municipality": "Cuernavaca",
+    "latitude": 18.956424550724638,
+    "longitude": -99.23954326086958
+  },
+  {
+    "municipality": "Emiliano Zapata",
+    "latitude": 18.8100912051282,
+    "longitude": -99.18699394871794
+  },
+  {
+    "municipality": "Huitzilac",
+    "latitude": 19.03005985897436,
+    "longitude": -99.24782779487184
+  },
+  {
+    "municipality": "Jantetelco",
+    "latitude": 18.702925750000006,
+    "longitude": -98.78258656818183
+  },
+  {
+    "municipality": "Jiutepec",
+    "latitude": 18.879115068965522,
+    "longitude": -99.1504561034483
+  },
+  {
+    "municipality": "Jojutla",
+    "latitude": 18.589677285714284,
+    "longitude": -99.22354445054947
+  },
+  {
+    "municipality": "Jonacatepec de Leandro Valle",
+    "latitude": 18.665699871794864,
+    "longitude": -98.80595410256412
+  },
+  {
+    "municipality": "Mazatepec",
+    "latitude": 18.71182619230769,
+    "longitude": -99.36508119230767
+  },
+  {
+    "municipality": "Miacatlán",
+    "latitude": 18.782550622641512,
+    "longitude": -99.35344711320754
+  },
+  {
+    "municipality": "Ocuituco",
+    "latitude": 18.883315115384615,
+    "longitude": -98.77952907692307
+  },
+  {
+    "municipality": "Puente de Ixtla",
+    "latitude": 18.59886641964286,
+    "longitude": -99.28609906250001
+  },
+  {
+    "municipality": "Temixco",
+    "latitude": 18.85281547727273,
+    "longitude": -99.25385700000001
+  },
+  {
+    "municipality": "Temoac",
+    "latitude": 18.76025129411764,
+    "longitude": -98.7783158235294
+  },
+  {
+    "municipality": "Tepalcingo",
+    "latitude": 18.605144448979594,
+    "longitude": -98.870796122449
+  },
+  {
+    "municipality": "Tepoztlán",
+    "latitude": 18.96463850632911,
+    "longitude": -99.09995730379748
+  },
+  {
+    "municipality": "Tetecala",
+    "latitude": 18.7093684,
+    "longitude": -99.40544774999998
+  },
+  {
+    "municipality": "Tetela del Volcán",
+    "latitude": 18.87902088235294,
+    "longitude": -98.71186137254904
+  },
+  {
+    "municipality": "Tlalnepantla",
+    "latitude": 19.02173811111111,
+    "longitude": -98.96571933333333
+  },
+  {
+    "municipality": "Tlaltizapán de Zapata",
+    "latitude": 18.70765841935483,
+    "longitude": -99.12679038709673
+  },
+  {
+    "municipality": "Tlaquiltenango",
+    "latitude": 18.551857881355918,
+    "longitude": -99.12018844067796
+  },
+  {
+    "municipality": "Tlayacapan",
+    "latitude": 18.950160795918368,
+    "longitude": -98.97654251020411
+  },
+  {
+    "municipality": "Totolapan",
+    "latitude": 18.992766545454547,
+    "longitude": -98.92069990909091
+  },
+  {
+    "municipality": "Xochitepec",
+    "latitude": 18.76998628089888,
+    "longitude": -99.23317455056181
+  },
+  {
+    "municipality": "Yautepec",
+    "latitude": 18.88429505357143,
+    "longitude": -99.04374449999996
+  },
+  {
+    "municipality": "Yecapixtla",
+    "latitude": 18.861182197802197,
+    "longitude": -98.87048521978019
+  },
+  {
+    "municipality": "Zacatepec",
+    "latitude": 18.65225470833333,
+    "longitude": -99.20791487500001
+  },
+  {
+    "municipality": "Zacualpan de Amilpas",
+    "latitude": 18.808817956521743,
+    "longitude": -98.75218060869565
+  }
+]

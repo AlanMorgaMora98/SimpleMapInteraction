@@ -1,0 +1,7 @@
+import type { SVGProps } from "react"
+
+export default function CalculatorIcon(props: SVGProps<SVGSVGElement>) {
+  return (
+    <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" {...props}>{/* Icon from Pixelarticons by Gerrit Halfmann - https://github.com/halfmage/pixelarticons/blob/master/LICENSE */}<path fill="currentColor" d="M5 2H3v20h18V2zm14 18H5V4h14zM17 6H7v4h10zM7 12h2v2H7zm6 0h-2v2h2zm2 0h2v2h-2zm-6 4H7v2h2zm2 0h2v2h-2zm6 0h-2v2h2z" /></svg>
+  )
+}

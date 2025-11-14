@@ -1,0 +1,337 @@
+[
+  {
+    "municipality": "Ahumada",
+    "latitude": 30.481822596452346,
+    "longitude": -106.48312704656323
+  },
+  {
+    "municipality": "Aldama",
+    "latitude": 28.93999135792353,
+    "longitude": -105.72343675956282
+  },
+  {
+    "municipality": "Allende",
+    "latitude": 27.05716766459627,
+    "longitude": -105.29891506832297
+  },
+  {
+    "municipality": "Aquiles Serdán",
+    "latitude": 28.58504010204081,
+    "longitude": -105.8814997755102
+  },
+  {
+    "municipality": "Ascensión",
+    "latitude": 31.274825946524054,
+    "longitude": -107.73329917112301
+  },
+  {
+    "municipality": "Bachíniva",
+    "latitude": 28.846246673684206,
+    "longitude": -107.28217475789474
+  },
+  {
+    "municipality": "Balleza",
+    "latitude": 26.728335204040395,
+    "longitude": -106.5305535656565
+  },
+  {
+    "municipality": "Batopilas de Manuel Gómez Morín",
+    "latitude": 26.95366116406249,
+    "longitude": -107.71721847460938
+  },
+  {
+    "municipality": "Bocoyna",
+    "latitude": 27.788949509652518,
+    "longitude": -107.61244533783787
+  },
+  {
+    "municipality": "Buenaventura",
+    "latitude": 30.03207036559141,
+    "longitude": -107.17540486021512
+  },
+  {
+    "municipality": "Camargo",
+    "latitude": 27.828790751953147,
+    "longitude": -104.78539641601554
+  },
+  {
+    "municipality": "Carichí",
+    "latitude": 27.75367954577465,
+    "longitude": -107.07805665845076
+  },
+  {
+    "municipality": "Casas Grandes",
+    "latitude": 30.31314557964604,
+    "longitude": -108.08508591592926
+  },
+  {
+    "municipality": "Chihuahua",
+    "latitude": 28.83077810517527,
+    "longitude": -106.20838267946567
+  },
+  {
+    "municipality": "Chínipas",
+    "latitude": 27.468012351931346,
+    "longitude": -108.49922402145921
+  },
+  {
+    "municipality": "Coronado",
+    "latitude": 26.68374951724137,
+    "longitude": -105.126838183908
+  },
+  {
+    "municipality": "Cuauhtémoc",
+    "latitude": 28.573134226753673,
+    "longitude": -106.90178685481247
+  },
+  {
+    "municipality": "Cusihuiriachi",
+    "latitude": 28.233878341935487,
+    "longitude": -106.93328277419353
+  },
+  {
+    "municipality": "Coyame del Sotol",
+    "latitude": 29.70328372857142,
+    "longitude": -105.13636110476199
+  },
+  {
+    "municipality": "Delicias",
+    "latitude": 28.167929965517278,
+    "longitude": -105.44960054158209
+  },
+  {
+    "municipality": "Dr. Belisario Domínguez",
+    "latitude": 27.984856525000005,
+    "longitude": -106.45278237500001
+  },
+  {
+    "municipality": "El Tule",
+    "latitude": 27.074078638888892,
+    "longitude": -106.31788586111111
+  },
+  {
+    "municipality": "Galeana",
+    "latitude": 30.131957073529406,
+    "longitude": -107.63292941176468
+  },
+  {
+    "municipality": "Gómez Farías",
+    "latitude": 29.345050513513513,
+    "longitude": -107.70971751351355
+  },
+  {
+    "municipality": "Gran Morelos",
+    "latitude": 28.30810772549019,
+    "longitude": -106.57625435294118
+  },
+  {
+    "municipality": "Guachochi",
+    "latitude": 27.160630771480804,
+    "longitude": -107.28934817458861
+  },
+  {
+    "municipality": "Guadalupe",
+    "latitude": 31.066288339743586,
+    "longitude": -105.80227292307688
+  },
+  {
+    "municipality": "Guadalupe y Calvo",
+    "latitude": 26.1697334573863,
+    "longitude": -107.03980641193193
+  },
+  {
+    "municipality": "Guazapares",
+    "latitude": 27.43721014683545,
+    "longitude": -108.23349507848107
+  },
+  {
+    "municipality": "Guerrero",
+    "latitude": 28.43184830527816,
+    "longitude": -107.49369827674751
+  },
+  {
+    "municipality": "Hidalgo del Parral",
+    "latitude": 27.07337319021739,
+    "longitude": -105.70457201086958
+  },
+  {
+    "municipality": "Huejotitán",
+    "latitude": 27.02752245098039,
+    "longitude": -106.10523498039215
+  },
+  {
+    "municipality": "Ignacio Zaragoza",
+    "latitude": 29.67373126506025,
+    "longitude": -107.73427733734937
+  },
+  {
+    "municipality": "Janos",
+    "latitude": 30.80253418656718,
+    "longitude": -108.42390952611944
+  },
+  {
+    "municipality": "Jiménez",
+    "latitude": 27.134604730478564,
+    "longitude": -104.73658861712843
+  },
+  {
+    "municipality": "Juárez",
+    "latitude": 31.48841833644861,
+    "longitude": -106.51766211682242
+  },
+  {
+    "municipality": "Julimes",
+    "latitude": 28.490515826446284,
+    "longitude": -105.22980366115704
+  },
+  {
+    "municipality": "La Cruz",
+    "latitude": 27.88321404545454,
+    "longitude": -105.1364998939394
+  },
+  {
+    "municipality": "López",
+    "latitude": 26.98556249586777,
+    "longitude": -105.04672651239667
+  },
+  {
+    "municipality": "Madera",
+    "latitude": 29.264095251521265,
+    "longitude": -108.36644947464484
+  },
+  {
+    "municipality": "Maguarichi",
+    "latitude": 27.815821300000007,
+    "longitude": -107.96606231999999
+  },
+  {
+    "municipality": "Manuel Benavides",
+    "latitude": 28.948481579881683,
+    "longitude": -103.92789346153846
+  },
+  {
+    "municipality": "Matachí",
+    "latitude": 28.822001734374993,
+    "longitude": -107.72059109374997
+  },
+  {
+    "municipality": "Matamoros",
+    "latitude": 26.75722941666667,
+    "longitude": -105.57808508333333
+  },
+  {
+    "municipality": "Meoqui",
+    "latitude": 28.339203269537474,
+    "longitude": -105.52335014832532
+  },
+  {
+    "municipality": "Morelos",
+    "latitude": 26.59794195767193,
+    "longitude": -107.71477237566144
+  },
+  {
+    "municipality": "Moris",
+    "latitude": 28.131065251497002,
+    "longitude": -108.71981383832336
+  },
+  {
+    "municipality": "Namiquipa",
+    "latitude": 29.17742213602942,
+    "longitude": -107.28684205882352
+  },
+  {
+    "municipality": "Nonoava",
+    "latitude": 27.4404263986928,
+    "longitude": -106.73151536601303
+  },
+  {
+    "municipality": "Nuevo Casas Grandes",
+    "latitude": 30.492481890510938,
+    "longitude": -107.84628218248179
+  },
+  {
+    "municipality": "Ocampo",
+    "latitude": 28.155572331606223,
+    "longitude": -108.21406172020728
+  },
+  {
+    "municipality": "Ojinaga",
+    "latitude": 29.302314333333324,
+    "longitude": -104.44809638461537
+  },
+  {
+    "municipality": "Praxedis G. Guerrero",
+    "latitude": 31.30543048979592,
+    "longitude": -105.9564133877551
+  },
+  {
+    "municipality": "Riva Palacio",
+    "latitude": 28.817075409395965,
+    "longitude": -106.64869424161073
+  },
+  {
+    "municipality": "Rosales",
+    "latitude": 28.291066087378617,
+    "longitude": -105.58213591504851
+  },
+  {
+    "municipality": "Rosario",
+    "latitude": 27.25576429032258,
+    "longitude": -106.29854904838706
+  },
+  {
+    "municipality": "San Francisco de Borja",
+    "latitude": 27.895266708860763,
+    "longitude": -106.72529915189877
+  },
+  {
+    "municipality": "San Francisco de Conchos",
+    "latitude": 27.578230193877545,
+    "longitude": -105.37731301020406
+  },
+  {
+    "municipality": "San Francisco del Oro",
+    "latitude": 26.89718841111111,
+    "longitude": -105.90289146666667
+  },
+  {
+    "municipality": "Santa Bárbara",
+    "latitude": 26.82327646590909,
+    "longitude": -105.77588771590908
+  },
+  {
+    "municipality": "Santa Isabel",
+    "latitude": 28.344871549019608,
+    "longitude": -106.3421831372549
+  },
+  {
+    "municipality": "Satevó",
+    "latitude": 27.788164573394504,
+    "longitude": -106.2015133119266
+  },
+  {
+    "municipality": "Saucillo",
+    "latitude": 28.062944312499987,
+    "longitude": -105.31066997554352
+  },
+  {
+    "municipality": "Temósachic",
+    "latitude": 28.687377167910444,
+    "longitude": -108.1278942798507
+  },
+  {
+    "municipality": "Urique",
+    "latitude": 27.27520282308524,
+    "longitude": -107.94945525566341
+  },
+  {
+    "municipality": "Uruachi",
+    "latitude": 27.849702838068197,
+    "longitude": -108.36488849715924
+  },
+  {
+    "municipality": "Valle de Zaragoza",
+    "latitude": 27.49102244295301,
+    "longitude": -105.84525598657721
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "municipality": "Canatlán",
+    "latitude": 24.5183833122807,
+    "longitude": -104.80186082456144
+  },
+  {
+    "municipality": "Canelas",
+    "latitude": 25.08813508333333,
+    "longitude": -106.50612823717954
+  },
+  {
+    "municipality": "Coneto de Comonfort",
+    "latitude": 25.02935847368421,
+    "longitude": -104.7368267719298
+  },
+  {
+    "municipality": "Cuencamé",
+    "latitude": 24.64571197656252,
+    "longitude": -103.73819547656251
+  },
+  {
+    "municipality": "Durango",
+    "latitude": 24.023836050442462,
+    "longitude": -104.67755446460197
+  },
+  {
+    "municipality": "El Oro",
+    "latitude": 25.681751278846164,
+    "longitude": -105.26354142307693
+  },
+  {
+    "municipality": "General Simón Bolívar",
+    "latitude": 24.902176235294117,
+    "longitude": -103.2694573137255
+  },
+  {
+    "municipality": "Gómez Palacio",
+    "latitude": 25.707919383838373,
+    "longitude": -103.47569468080806
+  },
+  {
+    "municipality": "Guadalupe Victoria",
+    "latitude": 24.432118067415733,
+    "longitude": -104.08939638202244
+  },
+  {
+    "municipality": "Guanaceví",
+    "latitude": 25.996154265734294,
+    "longitude": -106.10298019580418
+  },
+  {
+    "municipality": "Hidalgo",
+    "latitude": 26.028096783018867,
+    "longitude": -104.8275991981132
+  },
+  {
+    "municipality": "Indé",
+    "latitude": 25.76297155555555,
+    "longitude": -105.03337472839507
+  },
+  {
+    "municipality": "Lerdo",
+    "latitude": 25.485781437641723,
+    "longitude": -103.60804028798185
+  },
+  {
+    "municipality": "Mapimí",
+    "latitude": 26.17899820325202,
+    "longitude": -104.04746708130078
+  },
+  {
+    "municipality": "Mezquital",
+    "latitude": 22.89154300510201,
+    "longitude": -104.5375467418368
+  },
+  {
+    "municipality": "Nazas",
+    "latitude": 25.240735973684206,
+    "longitude": -104.09073872368418
+  },
+  {
+    "municipality": "Nombre de Dios",
+    "latitude": 23.832902962616817,
+    "longitude": -104.16621779439257
+  },
+  {
+    "municipality": "Nuevo Ideal",
+    "latitude": 24.88074590058479,
+    "longitude": -105.0229073040936
+  },
+  {
+    "municipality": "Ocampo",
+    "latitude": 26.551313738888883,
+    "longitude": -105.76173914444443
+  },
+  {
+    "municipality": "Otáez",
+    "latitude": 24.700735980392157,
+    "longitude": -106.01203138235292
+  },
+  {
+    "municipality": "Pánuco de Coronado",
+    "latitude": 24.426716333333324,
+    "longitude": -104.33327675000001
+  },
+  {
+    "municipality": "Peñón Blanco",
+    "latitude": 24.759450918367353,
+    "longitude": -104.01798777551018
+  },
+  {
+    "municipality": "Poanas",
+    "latitude": 23.976960078125003,
+    "longitude": -104.044467234375
+  },
+  {
+    "municipality": "Pueblo Nuevo",
+    "latitude": 23.41443489999999,
+    "longitude": -105.34286196415087
+  },
+  {
+    "municipality": "Rodeo",
+    "latitude": 25.17559798461539,
+    "longitude": -104.56350115384609
+  },
+  {
+    "municipality": "San Bernardo",
+    "latitude": 26.169315245283013,
+    "longitude": -105.66303884905658
+  },
+  {
+    "municipality": "San Dimas",
+    "latitude": 24.206658985915492,
+    "longitude": -105.74820909859156
+  },
+  {
+    "municipality": "San Juan de Guadalupe",
+    "latitude": 24.59446194285714,
+    "longitude": -102.69812242857142
+  },
+  {
+    "municipality": "San Juan del Río",
+    "latitude": 24.77447104587155,
+    "longitude": -104.50057001834863
+  },
+  {
+    "municipality": "San Luis del Cordero",
+    "latitude": 25.382209933333336,
+    "longitude": -104.283732
+  },
+  {
+    "municipality": "San Pedro del Gallo",
+    "latitude": 25.598717476923074,
+    "longitude": -104.38834724615386
+  },
+  {
+    "municipality": "Santa Clara",
+    "latitude": 24.499518027027026,
+    "longitude": -103.40864224324322
+  },
+  {
+    "municipality": "Santiago Papasquiaro",
+    "latitude": 24.96762268229166,
+    "longitude": -105.70119178385416
+  },
+  {
+    "municipality": "Súchil",
+    "latitude": 23.435707781250002,
+    "longitude": -104.14679671875002
+  },
+  {
+    "municipality": "Tamazula",
+    "latitude": 25.066639359281446,
+    "longitude": -106.77691318263479
+  },
+  {
+    "municipality": "Tepehuanes",
+    "latitude": 25.474650986885255,
+    "longitude": -106.20562719016391
+  },
+  {
+    "municipality": "Tlahualilo",
+    "latitude": 26.051418904761906,
+    "longitude": -103.52516236054429
+  },
+  {
+    "municipality": "Topia",
+    "latitude": 25.233180812080537,
+    "longitude": -106.66300808389259
+  },
+  {
+    "municipality": "Vicente Guerrero",
+    "latitude": 23.72217681481481,
+    "longitude": -103.98074266666666
+  }
+]

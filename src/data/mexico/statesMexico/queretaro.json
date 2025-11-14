@@ -1,0 +1,97 @@
+[
+  {
+    "municipality": "Amealco de Bonfil",
+    "latitude": 20.160587254335265,
+    "longitude": -100.10927902312136
+  },
+  {
+    "municipality": "Arroyo Seco",
+    "latitude": 21.42084351041667,
+    "longitude": -99.64383169791672
+  },
+  {
+    "municipality": "Cadereyta de Montes",
+    "latitude": 20.781491591362116,
+    "longitude": -99.65690757142856
+  },
+  {
+    "municipality": "Colón",
+    "latitude": 20.718425338308457,
+    "longitude": -100.08167922885565
+  },
+  {
+    "municipality": "Corregidora",
+    "latitude": 20.50708478756477,
+    "longitude": -100.43638406735745
+  },
+  {
+    "municipality": "El Marqués",
+    "latitude": 20.65777612239582,
+    "longitude": -100.27391860677079
+  },
+  {
+    "municipality": "Ezequiel Montes",
+    "latitude": 20.662060104072406,
+    "longitude": -99.89391932579183
+  },
+  {
+    "municipality": "Huimilpan",
+    "latitude": 20.436231000000006,
+    "longitude": -100.32247758992806
+  },
+  {
+    "municipality": "Jalpan de Serra",
+    "latitude": 21.29501855555555,
+    "longitude": -99.39369016666664
+  },
+  {
+    "municipality": "La Magdalena Tlatlauquitepec",
+    "latitude": 18.75852,
+    "longitude": -98.100701
+  },
+  {
+    "municipality": "Landa de Matamoros",
+    "latitude": 21.23581695535714,
+    "longitude": -99.18006140178579
+  },
+  {
+    "municipality": "Pedro Escobedo",
+    "latitude": 20.496791974193545,
+    "longitude": -100.15732360645157
+  },
+  {
+    "municipality": "Peñamiller",
+    "latitude": 21.09740344520547,
+    "longitude": -99.83713663013697
+  },
+  {
+    "municipality": "Pinal de Amoles",
+    "latitude": 21.157307794392523,
+    "longitude": -99.58919857476636
+  },
+  {
+    "municipality": "Querétaro",
+    "latitude": 20.73495003921569,
+    "longitude": -100.44854059477122
+  },
+  {
+    "municipality": "San Joaquín",
+    "latitude": 20.957633229729726,
+    "longitude": -99.53210087837839
+  },
+  {
+    "municipality": "San Juan del Río",
+    "latitude": 20.38761471331058,
+    "longitude": -100.0024600238908
+  },
+  {
+    "municipality": "Tequisquiapan",
+    "latitude": 20.56559634591196,
+    "longitude": -99.94994044654085
+  },
+  {
+    "municipality": "Tolimán",
+    "latitude": 20.910643116788318,
+    "longitude": -99.9449735620438
+  }
+]

@@ -1,0 +1,10 @@
+[
+    {"type": "C2", "description": "2-axle truck" },
+    {"type": "C3", "description": "3-axle truck"},
+    {"type": "C4", "description": "4-axle truck"},
+    {"type": "C5", "description": "5-axle truck"},
+    {"type": "C6", "description": "6-axle truck"},
+    {"type": "C7", "description": "7-axle truck"},
+    {"type": "C8", "description": "8-axle truck"},
+    {"type": "C9", "description": "9-axle truck"}
+]
