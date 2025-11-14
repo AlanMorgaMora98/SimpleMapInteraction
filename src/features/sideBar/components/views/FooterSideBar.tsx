@@ -17,7 +17,7 @@ export default function FooterSideBarView () {
         <EmailIcon className="icon-links"/>
       </a>
 
-      <p className="absolute bottom-0 right-0  custom-font">V 1.0</p>
+      <p className="absolute bottom-0 right-0 custom-font">V 1.0</p>
 
       </footer>
     )
