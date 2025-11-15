@@ -93,7 +93,9 @@ export default function MapView () {
       maxBounds={mexicoBounds}
       maxBoundsViscosity={1.0}
       scrollWheelZoom={true}
-      className="h-full w-full bg-[#262626]!"
+      className={`
+        ${isDarkMode ? "h-full w-full bg-[#262626]!" : "h-full w-full bg-[#d3dadc]!"}
+      `}
     >
       <TileLayer
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>'

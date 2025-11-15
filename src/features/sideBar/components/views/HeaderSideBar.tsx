@@ -3,14 +3,20 @@ import { ModeToggle } from "@/components/mode-toggle"
 
 export default function HeaderSideBarView () {
   return (
-    <header className="relative flex flex-wrap justify-between items-center p-4 mb-4">
+    <header className="flex items-center justify-between p-4 mb-4 relative">
 
-      <CountryIcon className="countryIcon z-50 animate-rotate-y hover:pause-anim"/>
+      <div className="shrink-0">
+        <CountryIcon className="countryIcon w-8 h-8 md:w-15 md:h-15 animate-rotate-y hover:pause-anim" />
+      </div>
 
-      <h1 className="absolute left-1/2 -translate-x-1/2 text-2xl custom-font font-semibold">Mexico Routing</h1>
+      <h1 className="text-xl sm:text-2xl font-semibold text-center flex-1 mx-2 sm:mx-4 custom-font">
+        Mexico Routing
+      </h1>
 
-      <ModeToggle />
-
+      <div className="shrink-0">
+        <ModeToggle />
+      </div>
     </header>
+
   )
 }
