@@ -1,13 +1,13 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 
+@custom-variant dark (&:is(.dark *));
 
 @font-face {
   font-family: 'Bungee Hairline';
   src: url('./assets/fonts/bungeehairline-regular-webfont.woff2') format(woff2);
   src: url('./assets/fonts/bungeehairline-regular-webfont.woff') format(woff);
 }
-
 
 @theme inline {
   --radius-sm: calc(var(--radius) - 4px);
