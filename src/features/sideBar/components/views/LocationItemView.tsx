@@ -36,7 +36,7 @@ export default function LocationItemView({ openState, openMunicipality, statesLi
             </Button>
           </PopoverTrigger>
 
-          <PopoverContent className="w-[250px] p-0">
+          <PopoverContent className="w-[250px] p-0 z-10000">
             <Command>
               <CommandInput placeholder="Search state..." className="h-9" />
               <CommandList>
@@ -83,7 +83,7 @@ export default function LocationItemView({ openState, openMunicipality, statesLi
             </Button>
           </PopoverTrigger>
 
-          <PopoverContent className="w-[250px] p-0">
+          <PopoverContent className="w-[250px] p-0 z-10000">
             <Command>
               <CommandInput placeholder="Search municipality..." className="h-9" />
               <CommandList>

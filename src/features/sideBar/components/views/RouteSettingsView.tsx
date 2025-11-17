@@ -1,5 +1,6 @@
 import { Slider } from "@/components/ui/slider"
 import { Select, SelectContent, SelectGroup, SelectItem, SelectLabel, SelectTrigger, SelectValue } from "@/components/ui/select"
+import { useIsMobile } from "@/hooks/use-mobile";
 
 interface RouteSettingsViewProps {
   gasolinesList: {label: string; price: number}[]
@@ -14,8 +15,13 @@ interface RouteSettingsViewProps {
 }
 
 export default function RouteSetttingsView ({gasolinesList, selectedGasoline, kmPerLiters, kmDefaultValue, maxKmPerLiters, minKmPerLiters, stepsKmSlider, handleSelectedKM, handleSelectedGasoline }: RouteSettingsViewProps) {
+
+  const isMobile = useIsMobile()
+
   return (
-    <div className={"relative flex flex-wrap w-full p-6 gap-4"}>
+    <div className={`
+      ${isMobile ? "relative flex flex-col flex-wrap w-full p-6 gap-4" : "relative flex flex-wrap w-full p-6 gap-4"}
+      `}>
 
       <div className="flex-1">
 
@@ -42,7 +48,7 @@ export default function RouteSetttingsView ({gasolinesList, selectedGasoline, km
           <SelectTrigger className="w-full">
             <SelectValue placeholder="Select a gasoline" />
           </SelectTrigger>
-          <SelectContent>
+          <SelectContent className="z-1000">
             <SelectGroup>
               <SelectLabel>Gasolines</SelectLabel>
               {gasolinesList.map((gasoline) => (
