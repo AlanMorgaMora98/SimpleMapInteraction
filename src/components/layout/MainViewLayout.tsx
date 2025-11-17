@@ -13,6 +13,7 @@ const MainViewLayout: React.FC<MainViewLayoutProps> = ({ sidebar, map }) => {
 
   return (
     <SidebarProvider
+      defaultOpen={true}
       style={
         {
           "--sidebar-width": "clamp(400px, 30vw, 30rem)",

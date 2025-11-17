@@ -3,16 +3,13 @@ import states from "@/data/mexico/states.json"
 import type { State, Municipality} from "@/types/locations.types.ts"
 import type { LocationData } from "../types/location"
 const municipalitiesModules = import.meta.glob("@/data/mexico/statesMexico/*.json")
+import type { handleLocationChange } from "../types/location"
 
 import LocationItemView from "../views/LocationItemView"
 
 interface LocationItemProps {
   location: LocationData
-  onChange: (data: {
-    coordinates: { lat: number; lng: number }
-    selectedState: State
-    selectedMunicipality: Municipality
-  }) => void
+  onChange: (data: handleLocationChange) => void
   resetTrigger?: boolean
 }
 
@@ -29,33 +26,37 @@ export default function LocationItemContainer({ location, onChange }: LocationIt
   }, [location])
 
   useEffect(() => {
+    const searchMunicipalities = async (filePath: string) => {
+      const loader = municipalitiesModules[filePath]
+      if (!loader) throw new Error(`File not founded: ${filePath}`)
+      const module = (await loader()) as { default: Municipality[] }
+      setMunicipalities(module.default)
+    }
+
+    if (selectedState?.children) {
+      searchMunicipalities(`/src/${selectedState.children}`)
+    }
+  }, [selectedState])
+
+  useEffect(() => {
     if (selectedState && selectedMunicipality) {
       onChange({
+       id: location.id,
        coordinates: {
         lat: selectedMunicipality.latitude,
         lng: selectedMunicipality.longitude,
       },
-      selectedState,
-      selectedMunicipality
+      selectedState: selectedState,
+      selectedMunicipality: selectedMunicipality
     })
     }
   }, [selectedMunicipality])
 
-  const handleSelectedState = async (state: State) => {
-    try {
-      setSelectedState(state)
-      setSelectedMunicipality(null)
-      const path = `/src/${state.children}`
-      const loader = municipalitiesModules[path]
-      if (!loader) throw new Error(`File not founded: ${path}`)
-      const module = (await loader()) as { default: Municipality[] }
-      setMunicipalities(module.default)
-    } catch (error) {
-      console.error("Error fetching municipalities:", error)
-    } finally {
-      setOpenState(false)
-    }
-  }
+  const handleSelectedState = (state: State) => {
+    setSelectedState(state)
+    setSelectedMunicipality(null)
+    setOpenState(false)
+}
 
   const handleSelectedMunicipality = (municipality: Municipality) => {
     setSelectedMunicipality(municipality)
