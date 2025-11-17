@@ -14,7 +14,7 @@ export default function HeaderSideBarView () {
       </h1>
 
       <div className="shrink-0">
-        <ModeToggle />
+        <ModeToggle/>
       </div>
     </header>
 
