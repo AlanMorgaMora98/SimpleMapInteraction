@@ -1,8 +1,8 @@
 import { Button } from "@/components/ui/button"
 import { Spinner } from "@/components/ui/spinner"
-import LocationItem from "../containers/LocationitemContainer"
+import LocationItemContainer from "../containers/LocationitemContainer"
 import type { LocationData, ID } from "../types/location"
-import type { State, Municipality } from "@/types/locations.types"
+import type { handleLocationChange } from "../types/location"
 
 import { AddIcon, CalculatorIcon, TrashIcon, LocationIcon, SortIcon } from "@/assets/Icons/index"
 
@@ -10,7 +10,7 @@ interface LocationListViewProps {
   locations: LocationData[]
   allowRouting: boolean
   isLoading: boolean
-  handleLocationChange: (id: ID, coordinates: { lat: number; lng: number }, selectedState: State, selectedMunicipality: Municipality) => void
+  handleLocationChange: ({id, coordinates, selectedState, selectedMunicipality}: handleLocationChange) => void
   removeLocation: (id: ID) => void
   addLocation: () => void
   swapLocations: (position1: number, position2: number) => void
@@ -33,12 +33,12 @@ export default function LocationListView({locations, allowRouting, isLoading, ha
                   <div className="absolute top-5 left-[-13px] h-[calc(100%+1rem)] border-l-2 border-dashed border-muted-foreground/80" />
                 )}
 
-                <div className="flex flex-wrap items-start w-full gap-4">
+                <div className="flex flex-wrap items-start w-full gap-4 mb-8">
                   <div className="flex-1 w-full">
-                    <LocationItem
+                    <LocationItemContainer
                       location={location}
                       onChange={({ coordinates, selectedState, selectedMunicipality }) =>
-                        handleLocationChange(location.id, coordinates, selectedState, selectedMunicipality)
+                        handleLocationChange({id: location.id, coordinates: coordinates, selectedState: selectedState, selectedMunicipality:selectedMunicipality})
                       }
                     />
                   </div>

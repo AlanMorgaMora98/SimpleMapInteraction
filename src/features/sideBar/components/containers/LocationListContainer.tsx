@@ -2,8 +2,7 @@ import { useState, useEffect } from "react"
 import LocationListView from "../views/LocationListView"
 
 //TYPES
-import type { Municipality, State } from "@/types/locations.types"
-import type { LocationData, ID } from "../types/location"
+import type { handleLocationChange, ID, LocationData } from "../types/location"
 
 //CUSTOM HOOK
 import { useRouting } from "../../hooks/useRouting"
@@ -11,17 +10,13 @@ import { useRouting } from "../../hooks/useRouting"
 //CONTEXT PROVIDER
 import { useMapContext } from "@/features/Map/context/MapContext"
 
-export default function LocationListContainer() {
-  
-  const makeNewLocation = (index: number): LocationData => {
-    return {
-      id: index + 1,
-      label: `Location ${index + 1}`,
-      coordinates: null,
-      selectedState: null,
-      selectedMunicipality: null
-    }
-  }
+interface LocationListContainerProps {
+  locations: LocationData[]
+  setLocations: React.Dispatch<React.SetStateAction<LocationData[]>>
+  makeNewLocation: (index: number) => LocationData
+}
+
+export default function LocationListContainer({ locations, setLocations, makeNewLocation }: LocationListContainerProps) {
 
   //CUSTOM HOOK
   const { isLoading, route, getRoute } = useRouting();
@@ -30,12 +25,8 @@ export default function LocationListContainer() {
   const { setRoutePath, setLocationPoints, setDistanceKmRoute, setTimeMinutesRoute } = useMapContext()
 
   const [allowRouting, setAllowRouting] = useState<boolean>(false)
-  const [locations, setLocations] = useState<LocationData[]>(() => [
-    makeNewLocation(0),
-    makeNewLocation(1),
-  ])
 
-  const handleLocationChange = (id: ID, coordinates: { lat: number; lng: number }, selectedState: State, selectedMunicipality: Municipality) => {
+  const handleLocationChange = ({ id, coordinates, selectedState, selectedMunicipality }: handleLocationChange) => {
     setLocations((prev) => prev.map((l) => (l.id === id ? { ...l, coordinates, selectedState, selectedMunicipality } : l)))
   }
 
@@ -77,7 +68,6 @@ export default function LocationListContainer() {
   };
 
   const handleRouting = () => {
-
     const coordinates = locations
     .filter(loc => loc.coordinates)
     .map(loc => ({
@@ -105,7 +95,6 @@ export default function LocationListContainer() {
 
 
   return (
-
     <LocationListView 
       locations={locations}
       allowRouting={allowRouting}
@@ -116,6 +105,5 @@ export default function LocationListContainer() {
       swapLocations={swapLocations}
       handleRouting={handleRouting}
     />
-
   )
 }
